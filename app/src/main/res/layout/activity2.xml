@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="324dp"
         android:text="der Schmetterling"
-        android:id="@+id/textView"
+        android:id="@+id/txtRightSide"
         android:layout_marginBottom="100dp"
         android:gravity="center_vertical|center_horizontal"
         android:textStyle="bold"
@@ -20,6 +20,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Перевернуть карту"
-        android:id="@+id/button"
+        android:id="@+id/btnTurnCard"
         android:layout_gravity="center_horizontal" />
 </LinearLayout>
