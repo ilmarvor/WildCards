@@ -8,36 +8,38 @@
 
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="324dp"
+        android:layout_height="match_parent"
         android:text="бабочка"
         android:id="@+id/txtBackSide"
-        android:layout_marginBottom="60dp"
         android:gravity="center_vertical|center_horizontal"
         android:textStyle="bold"
-        android:textSize="26dp" />
+        android:textSize="26dp"
+        android:layout_weight="1" />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Больше не показывать"
-        android:id="@+id/btnDontShowAnzmore" />
+        android:text="@string/txtBtnDontShowAnymore"
+        android:id="@+id/btnDontShowAnymore"
+        android:layout_weight="1" />
 
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Знаю"
+            android:text="@string/txtBtnKnow"
             android:id="@+id/btnKnow"
             android:layout_weight="1" />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Не знаю"
+            android:text="@string/txtBtnDontKnow"
             android:id="@+id/btnDontKnow"
             android:layout_weight="1" />
     </LinearLayout>

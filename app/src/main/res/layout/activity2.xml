@@ -8,18 +8,28 @@
 
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="324dp"
+        android:layout_height="match_parent"
         android:text="der Schmetterling"
         android:id="@+id/txtRightSide"
-        android:layout_marginBottom="100dp"
         android:gravity="center_vertical|center_horizontal"
         android:textStyle="bold"
-        android:textSize="26dp" />
+        android:textSize="26sp"
+        android:layout_gravity="top"
+        android:layout_weight="1" />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Перевернуть карту"
+        android:text="New Button"
+        android:id="@+id/button"
+        android:layout_weight="1"
+        android:visibility="invisible" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txtBtnTurnCard"
         android:id="@+id/btnTurnCard"
-        android:layout_gravity="center_horizontal" />
+        android:layout_gravity="top"
+        android:layout_weight="1" />
 </LinearLayout>

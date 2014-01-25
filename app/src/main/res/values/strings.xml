@@ -4,5 +4,13 @@
     <string name="app_name">WildCards</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_activity2">WildCards</string>
+    <string name="title_activity_activity3">WildCards</string>
+    <string name="txtBtnQuit">Выход</string>
+    <string name="txtBtnStart">Учить слова</string>
+    <string name="txtBtnDontShowAnymore">Больше не показывать</string>
+    <string name="txtBtnKnow">Знаю</string>
+    <string name="txtBtnDontKnow">Не знаю</string>
+    <string name="txtBtnTurnCard">Перевернуть карту</string>
 
 </resources>

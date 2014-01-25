@@ -16,6 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.wildcards.app.Activity2"
+            android:label="@string/title_activity_activity2" >
+        </activity>
+        <activity
+            android:name="com.wildcards.app.Activity3"
+            android:label="@string/title_activity_activity3" >
+        </activity>
     </application>
 
 </manifest>
