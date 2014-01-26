@@ -30,6 +30,7 @@ public class MainActivity extends Activity {
         OnClickListener oclBtnQuit = new OnClickListener() {
             @Override
             public void onClick(View view) {
+                moveTaskToBack(true);
                 System.exit(0);
             }
         };
