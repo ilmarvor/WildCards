@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
+import android.widget.TextView;
 
 public class Activity3 extends Activity {
 
@@ -13,6 +14,9 @@ public class Activity3 extends Activity {
     protected void onCreate(Bundle savedInstancesState){
         super.onCreate(savedInstancesState);
         setContentView(R.layout.activity3);
+
+        TextView txtViewBackSide = (TextView) findViewById(R.id.txtBackSide);
+        txtViewBackSide.setText(Activity2.card.backSide);
 
         Button btnKnow = (Button) findViewById(R.id.btnKnow);
         OnClickListener oclBtnKnow = new OnClickListener() {

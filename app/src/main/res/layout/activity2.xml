@@ -15,7 +15,8 @@
         android:textStyle="bold"
         android:textSize="26sp"
         android:layout_gravity="top"
-        android:layout_weight="1" />
+        android:layout_weight="1"
+        android:editable="true" />
 
     <Button
         android:layout_width="match_parent"

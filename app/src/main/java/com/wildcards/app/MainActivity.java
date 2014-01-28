@@ -8,6 +8,10 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 
 public class MainActivity extends Activity {
+    public static  CardSet cardSet;
+    // TODO: add possibility to list not randomly, but one by one
+    // after finishing of the set return to the main menu or other activity
+    public static int currCardNumber;
 
     @Override
     protected void onCreate(Bundle savedInstanceState){
@@ -21,6 +25,8 @@ public class MainActivity extends Activity {
             public void onClick(View v) {
                 // TODO: Add all necessary additional actions
                 Intent intActivity2 = new Intent(v.getContext(), Activity2.class);
+                cardSet = new CardSet();
+                cardSet.getCardSet();
                 startActivity(intActivity2);
             }
         };
@@ -37,5 +43,6 @@ public class MainActivity extends Activity {
 
         btnQuit.setOnClickListener(oclBtnQuit);
     }
+
 
 }

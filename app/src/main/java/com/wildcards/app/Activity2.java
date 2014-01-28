@@ -7,13 +7,21 @@ import android.view.KeyEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
+import android.widget.TextView;
 
 public class Activity2 extends Activity {
-
+    public static Card card;
     @Override
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity2);
+
+        TextView txtViewRightSide = (TextView) findViewById(R.id.txtRightSide);
+        CardSet cardSet = MainActivity.cardSet;
+
+        card = new Card();
+        card = cardSet.getRandomCard();
+        txtViewRightSide.setText(card.rightSide);
 
         Button btnTurnCard = (Button) findViewById(R.id.btnTurnCard);
 
