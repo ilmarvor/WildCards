@@ -16,14 +16,14 @@ public class Activity3 extends Activity {
         setContentView(R.layout.activity3);
 
         TextView txtViewBackSide = (TextView) findViewById(R.id.txtBackSide);
-        txtViewBackSide.setText(Activity2.card.backSide);
+        txtViewBackSide.setText(CardActivity.card.backSide);
 
         Button btnKnow = (Button) findViewById(R.id.btnKnow);
         OnClickListener oclBtnKnow = new OnClickListener() {
             @Override
             public void onClick(View view) {
                 // TODO: Add all necessary additional actions
-                Intent intActivity2 = new Intent(view.getContext(), Activity2.class);
+                Intent intActivity2 = new Intent(view.getContext(), CardActivity.class);
                 startActivity(intActivity2);
             }
         };
@@ -33,7 +33,7 @@ public class Activity3 extends Activity {
         OnClickListener oclBtnDontKnow = new OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intActivity2 = new Intent(view.getContext(), Activity2.class);
+                Intent intActivity2 = new Intent(view.getContext(), CardActivity.class);
                 startActivity(intActivity2);
             }
         };
@@ -43,7 +43,7 @@ public class Activity3 extends Activity {
         OnClickListener oclBtnDontShowAnymore = new OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intActivity2 = new Intent(view.getContext(), Activity2.class);
+                Intent intActivity2 = new Intent(view.getContext(), CardActivity.class);
                 startActivity(intActivity2);
             }
         };

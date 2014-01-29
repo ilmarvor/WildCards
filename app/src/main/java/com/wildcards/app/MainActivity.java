@@ -24,7 +24,7 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View v) {
                 // TODO: Add all necessary additional actions
-                Intent intActivity2 = new Intent(v.getContext(), Activity2.class);
+                Intent intActivity2 = new Intent(v.getContext(), CardActivity.class);
                 cardSet = new CardSet();
                 cardSet.getCardSet();
                 startActivity(intActivity2);

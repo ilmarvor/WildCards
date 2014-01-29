@@ -9,7 +9,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 
-public class Activity2 extends Activity {
+public class CardActivity extends Activity {
     public static Card card;
     @Override
     protected void onCreate(Bundle savedInstanceState){

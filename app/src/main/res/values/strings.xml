@@ -6,8 +6,10 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_activity2">WildCards</string>
     <string name="title_activity_activity3">WildCards</string>
+    <string name="txtBtnAboutMethod">О методе изучения</string>
+    <string name="txtBtnSettings">Настройки</string>
     <string name="txtBtnQuit">Выход</string>
-    <string name="txtBtnStart">Учить слова</string>
+    <string name="txtBtnStart">Приступить к изучению</string>
     <string name="txtBtnDontShowAnymore">Больше не показывать</string>
     <string name="txtBtnKnow">Знаю</string>
     <string name="txtBtnDontKnow">Не знаю</string>

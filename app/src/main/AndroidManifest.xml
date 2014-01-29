@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.wildcards.app.Activity2"
+            android:name="com.wildcards.app.CardActivity"
             android:label="@string/title_activity_activity2" >
         </activity>
         <activity
