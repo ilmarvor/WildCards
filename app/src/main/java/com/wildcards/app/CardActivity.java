@@ -11,6 +11,7 @@ import android.widget.TextView;
 
 public class CardActivity extends Activity {
     public static Card card;
+
     @Override
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);

@@ -1,0 +1,5 @@
+﻿кот,die Katze,n,1
+собака,der Hund,n,1
+ждать,warten,v,1
+крыша,das Dach,n,1
+станция,der Bahnhof,n,1
