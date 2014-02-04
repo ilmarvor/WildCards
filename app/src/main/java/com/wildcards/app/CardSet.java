@@ -9,23 +9,25 @@ import java.util.Random;
 public class CardSet extends Card {
     Card set []; // set of cards to show
 
+    // пока читаю всю таблицу в cardSet, для ускорения можно читать все изучаемые слова
+    // и штук 50, которые скоро будут изучаться
     public CardSet(SQLiteDatabase db){
         Cursor c = db.query(DBHelper.TABLE_NAME,
-                             new String[] { "_id", "NATIVE_WORD", "STUDY_WORD"},
-                            null, null, null, null, null);
+                      new String[] { "_id", "NATIVE_ARTICLE", "NATIVE_WORD", "FOREIGN_ARTICLE", "FOREIGN_WORD"},
+                 null, null, null, null, null);
         this.set = new Card[c.getCount()];
         if (c.moveToFirst()) {
             int idColIndex = c.getColumnIndex("_id");
-            int nativeColIndex = c.getColumnIndex("NATIVE_WORD");
-            int studyColIndex = c.getColumnIndex("STUDY_WORD");
+            int nativeArticleColIndex = c.getColumnIndex("NATIVE_ARTICLE");
+            int nativeWordColIndex = c.getColumnIndex("NATIVE_WORD");
+            int foreignArticleColIndex = c.getColumnIndex("FOREIGN_ARTICLE");
+            int foreignWordColIndex = c.getColumnIndex("FOREIGN_WORD");
             int i=0;
             do {
-                // получаем значения по номерам столбцов и пишем все в лог
-                Log.d("debug",
-                        "NATIVE_WORD = " + c.getString(nativeColIndex) +
-                                ", id = " + c.getString(idColIndex)
-                            );
-                this.set[i++] = new Card(c.getString(nativeColIndex), c.getString(studyColIndex));
+                // получаем значения по номерам столбцов
+                this.set[i++] = new Card(c.getString(nativeArticleColIndex), c.getString(nativeWordColIndex),
+                        c.getString(foreignArticleColIndex), c.getString(foreignWordColIndex)
+                 );
             } while (c.moveToNext());
         }
     }
