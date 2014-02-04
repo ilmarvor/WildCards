@@ -23,9 +23,9 @@ public class MainActivity extends Activity {
 
         // create and fill db from file ru_de.txt
         DBHelper mDbHelper = new DBHelper(getApplicationContext());
-        Log.d("debug", "mDbHelper.getWritableDatabase();");
+        Log.d("debug", " ..... создание и заполнение БД ....");
         db = mDbHelper.getWritableDatabase();
-        Log.d("debug", "after mDbHelper.getWritableDatabase();");
+        Log.d("debug", " ..... БД создана и заполнена ....");
 
         setContentView(R.layout.activity_main);
         Button btnStart = (Button) findViewById(R.id.btnStart);

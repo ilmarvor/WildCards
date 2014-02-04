@@ -20,7 +20,6 @@ public class CardActivity extends Activity {
         TextView txtViewRightSide = (TextView) findViewById(R.id.txtRightSide);
         CardSet cardSet = MainActivity.cardSet;
 
-        card = new Card();
         card = cardSet.getRandomCard();
         txtViewRightSide.setText(card.rightSide);
 

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- значения атрибутов:
+     a - артикль
+     w - слово
+     fa- иностаранный артикль
+     fw- иностранное слово
+     p - часть речи -->
+    <data count='5'>
+        <w w='кот' fa='die' fw='Katze' p='n' />
+        <w w='собака' fa='der' fw='Hund' p='n' />
+        <w w='ждать' fw='warten' p='v' />
+        <w w='крыша' fa='das' fw='Dach' p='n' />
+        <w w='станция' fa='der' fw='Bahnhof' p='n' />
+    </data>
