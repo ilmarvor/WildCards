@@ -15,7 +15,8 @@
         android:textStyle="bold"
         android:textSize="26dp"
         android:layout_weight="1"
-        android:editable="true" />
+        android:editable="true"
+        android:inputType="textNoSuggestions"/>
 
     <Button
         android:layout_width="match_parent"
