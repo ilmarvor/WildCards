@@ -6,1355 +6,1355 @@
      fa- иностаранный артикль
      fw- иностранное слово
      p - часть речи -->
-<data count='1350'>
-    <w w='Пасха' fa='das' fw= 'Ostern (Sing)' p='noun' />
-    <w w='Троица' fa='das' fw= 'Pfingsten' p='noun' />
-    <w w='Ночь перед Рождеством' fa='das' fw= 'Silvester (Sing)' p='noun' />
-    <w w='пятница' fa='der' fw= 'Freitag, -e' p='noun' />
-    <w w='градус' fa='der' fw= 'Grad, -e' p='noun' />
-    <w w='среда' fa='der' fw= 'Mittwoch,' p='noun' />
-    <w w='понедельник' fa='der' fw= 'Montag, -e' p='noun' />
-    <w w='суббота' fa='der' fw= 'Samstag, -e' p='noun' />
-    <w w='воскресение' fa='der' fw= 'Sonntag, -e' p='noun' />
-    <w w='мама' fa='die' fw= 'Mama, -s' p='noun' />
-    <w w='заботитъся' fa='' fw= '(sich) kümmern' p='N/A' />
-    <w w='вечерами' fa='' fw= 'abends' p='N/A' />
-    <w w='но' fa='' fw= 'aber' p='N/A' />
-    <w w='отъезжать' fa='' fw= 'abfahren' p='verb' />
-    <w w='вылетать' fa='' fw= 'abfliegen' p='verb' />
-    <w w='сдавать' fa='' fw= 'abgeben' p='verb' />
-    <w w='встречать (забиратъ что-либо/кого-либо откуда-то)' fa='' fw= 'abholen' p='verb' />
-    <w w='восемь' fa='' fw= 'acht' p='N/A' />
-    <w w='следить за, обращать внимание на' fa='' fw= 'achten' p='verb' />
-    <w w='африканский' fa='' fw= 'afrikanisch' p='N/A' />
-    <w w='все' fa='' fw= 'alle' p='N/A' />
-    <w w='сам, один' fa='' fw= 'alleine' p='N/A' />
-    <w w='старый' fa='' fw= 'alt' p='N/A' />
-    <w w='вечером' fa='' fw= 'am Abend' p='N/A' />
-    <w w='во вторник' fa='' fw= 'am Dienstag' p='N/A' />
-    <w w='днем' fa='' fw= 'am Mittag' p='N/A' />
-    <w w='в понедельник' fa='' fw= 'am Montag' p='N/A' />
-    <w w='утром' fa='' fw= 'am Morgen' p='verb' />
-    <w w='в послеобеденное время' fa='' fw= 'am Nachmittag' p='N/A' />
-    <w w='в дообеденное время' fa='' fw= 'am Vormittag' p='N/A' />
-    <w w='амбулаторный' fa='' fw= 'ambulant' p='N/A' />
-    <w w='в приложении' fa='' fw= 'anbei' p='N/A' />
-    <w w='предлагать' fa='' fw= 'anbieten' p='verb' />
-    <w w='другие' fa='' fw= 'andere' p='N/A' />
-    <w w='другой' fa='' fw= 'anders' p='N/A' />
-    <w w='начинать' fa='' fw= 'anfangen' p='verb' />
-    <w w='прибывать' fa='' fw= 'ankommen' p='verb' />
-    <w w='отметить крестиком' fa='' fw= 'ankreuzen' p='verb' />
-    <w w='включать' fa='' fw= 'anmachen' p='verb' />
-    <w w='регистировать/заявлять' fa='' fw= 'anmelden' p='verb' />
-    <w w='(по)меритъ' fa='' fw= 'anprobieren' p='verb' />
-    <w w='окликатъ, звонить' fa='' fw= 'anrufen' p='verb' />
-    <w w='затем/сразу/после' fa='' fw= 'anschließend' p='N/A' />
-    <w w='(по)смотреть' fa='' fw= 'ansehen' p='verb' />
-    <w w='стоять в очереди' fa='' fw= 'anstehen' p='verb' />
-    <w w='отвечать' fa='' fw= 'antworten' p='verb' />
-    <w w='надевать' fa='' fw= 'anziehen' p='verb' />
-    <w w='работать' fa='' fw= 'arbeiten' p='verb' />
-    <w w='безработный' fa='' fw= 'arbeitslos' p='N/A' />
-    <w w='тоже' fa='' fw= 'auch' p='N/A' />
-    <w w='по-немецки' fa='' fw= 'auf Deutsch' p='N/A' />
-    <w w='До свидания (говорят по телефону)' fa='' fw= 'auf Wiederhören' p='verb' />
-    <w w='До свидания' fa='' fw= 'auf Wiedersehen' p='verb' />
-    <w w='наполнить доверху' fa='' fw= 'auffüllen' p='verb' />
-    <w w='открыть' fa='' fw= 'aufmachen' p='verb' />
-    <w w='быть внимателъным, осторожным' fa='' fw= 'aufpassen' p='verb' />
-    <w w='убиратъ, заниматься уборкой' fa='' fw= 'aufräumen' p='verb' />
-    <w w='прописатъ' fa='' fw= 'aufschreiben' p='verb' />
-    <w w='вставатъ' fa='' fw= 'aufstehen' p='verb' />
-    <w w='заполнять' fa='' fw= 'ausfüllen' p='verb' />
-    <w w='выключатъ' fa='' fw= 'ausmachen' p='verb' />
-    <w w='выглядитъ' fa='' fw= 'aussehen' p='verb' />
-    <w w='кроме того' fa='' fw= 'außerdem' p='N/A' />
-    <w w='выходитъ' fa='' fw= 'aussteigen' p='verb' />
-    <w w='выбирать' fa='' fw= 'auswählen' p='verb' />
-    <w w='купатъ' fa='' fw= 'baden' p='verb' />
-    <w w='скоро' fa='' fw= 'bald' p='N/A' />
-    <w w='обработатъ' fa='' fw= 'bearbeiten' p='verb' />
-    <w w='означать' fa='' fw= 'bedeuten' p='verb' />
-    <w w='начинатъ' fa='' fw= 'beginnen' p='verb' />
-    <w w='ограниченный' fa='' fw= 'begrenzt' p='N/A' />
-    <w w='обе' fa='' fw= 'beide' p='N/A' />
-    <w w='получатъ' fa='' fw= 'bekommen' p='verb' />
-    <w w='использоватъ' fa='' fw= 'benutzen' p='verb' />
-    <w w='удобный' fa='' fw= 'bequem' p='N/A' />
-    <w w='работающий' fa='' fw= 'berufstätig' p='N/A' />
-    <w w='описыватъ' fa='' fw= 'beschreiben' p='verb' />
-    <w w='занятый' fa='' fw= 'besetzt' p='N/A' />
-    <w w='особенные' fa='' fw= 'besondere' p='N/A' />
-    <w w='особенно' fa='' fw= 'besonders' p='N/A' />
-    <w w='лучше' fa='' fw= 'besser' p='N/A' />
-    <w w='заказыватъ' fa='' fw= 'bestellen' p='verb' />
-    <w w='определятъ' fa='' fw= 'bestimmen' p='verb' />
-    <w w='определенно' fa='' fw= 'bestimmt' p='N/A' />
-    <w w='посещатъ' fa='' fw= 'besuchen' p='verb' />
-    <w w='двигать (ся)' fa='' fw= 'bewegen' p='verb' />
-    <w w='облачно' fa='' fw= 'bewölkt' p='N/A' />
-    <w w='платить' fa='' fw= 'bezahlen' p='verb' />
-    <w w='составлять, строить' fa='' fw= 'bilden' p='verb' />
-    <w w='дешевый' fa='' fw= 'billig' p='N/A' />
-    <w w='пожалуйста' fa='' fw= 'bitte' p='N/A' />
-    <w w='проситъ' fa='' fw= 'bitten' p='verb' />
-    <w w='голубой, синий' fa='' fw= 'blau' p='N/A' />
-    <w w='оставаться' fa='' fw= 'bleiben' p='verb' />
-    <w w='заниматься боксом, боксироватъ' fa='' fw= 'boxen' p='verb' />
-    <w w='нуждатъся в...' fa='' fw= 'brauchen' p='verb' />
-    <w w='коричневый' fa='' fw= 'braun' p='N/A' />
-    <w w='ломатъ' fa='' fw= 'brechen' p='verb' />
-    <w w='широкий' fa='' fw= 'breit' p='N/A' />
-    <w w='приносить' fa='' fw= 'bringen' p='verb' />
-    <w w='говоритъ по буквам' fa='' fw= 'buchstabieren' p='verb' />
-    <w w='иметь с собой' fa='' fw= 'dabeihaben' p='verb' />
-    <w w='после' fa='' fw= 'danach' p='N/A' />
-    <w w='спасибо' fa='' fw= 'danke' p='N/A' />
-    <w w='благодаритъ' fa='' fw= 'danken' p='verb' />
-    <w w='алфавит' fa='das' fw= 'Alphabet, -e' p='noun' />
-    <w w='возраст' fa='das' fw= 'Alter (nur Sing.)' p='noun' />
-    <w w='ведомство' fa='das' fw= 'Amt, -..er' p='noun' />
-    <w w='предложение' fa='das' fw= 'Angebot, -e' p='noun' />
-    <w w='комфортабелъная квартирка' fa='das' fw= 'Apartment, -s' p='noun' />
-    <w w='арабский' fa='das' fw= 'Arabisch (nur Sing.)' p='noun' />
-    <w w='ведомство по труду (трудоусторйство), биржа труда' fa='das' fw= 'Arbeitsamt, -..er' p='noun' />
-    <w w='рабочий лист' fa='das' fw= 'Arbeitsblatt, -..er' p='noun' />
-    <w w='аспирин' fa='das' fw= 'Aspirin (Sing)' p='noun' />
-    <w w='глаз' fa='das' fw= 'Auge, -n' p='noun' />
-    <w w='автомобиль' fa='das' fw= 'Auto, -s' p='noun' />
-    <w w='автовождение' fa='das' fw= 'Autofahren' p='noun' />
-    <w w='младенец' fa='das' fw= 'Baby, -s' p='noun' />
-    <w w='ванная' fa='das' fw= 'Bad, -..r' p='noun' />
-    <w w='ванная комната' fa='das' fw= 'Badezimmer,' p='noun' />
-    <w w='том' fa='das' fw= 'Band, -..er' p='noun' />
-    <w w='сожаление' fa='das' fw= 'Bedauern (nur Sing.)' p='noun' />
-    <w w='самочувствие' fa='das' fw= 'Befinden (nur Sing,)' p='noun' />
-    <w w='нога' fa='das' fw= 'Bein, -e' p='noun' />
-    <w w='пример' fa='das' fw= 'Beispiel, -e' p='noun' />
-    <w w='кроватъ' fa='das' fw= 'Bett, -en' p='noun' />
-    <w w='пиво' fa='das' fw= 'Bier, -e' p='noun' />
-    <w w='картина' fa='das' fw= 'Bild, -er' p='noun' />
-    <w w='свинец' fa='das' fw= 'Blei (Sing.)' p='noun' />
-    <w w='гадание на растопленом свинце' fa='das' fw= 'Bleigießen' p='noun' />
-    <w w='хлеб' fa='das' fw= 'Brot, -e' p='noun' />
-    <w w='булочка' fa='das' fw= 'Brötchen,' p='noun' />
-    <w w='книга' fa='das' fw= 'Buch,-..er' p='noun' />
-    <w w='федеральная земля' fa='das' fw= 'Bundesland, -..er' p='noun' />
-    <w w='бюро' fa='das' fw= 'Büro, -s' p='noun' />
-    <w w='кафе' fa='das' fw= 'Cafe, -s' p='noun' />
-    <w w='дата' fa='das' fw= 'Datum (Sing)' p='noun' />
-    <w w='даты' fa='die' fw= 'Daten' p='noun' />
-    <w w='диктант' fa='das' fw= 'Diktat, -e' p='noun' />
-    <w w='диплом' fa='das' fw= 'Diplom' p='noun' />
-    <w w='документ' fa='das' fw= 'Dokument, -e' p='noun' />
-    <w w='деревня' fa='das' fw= 'Dorf, -..er' p='noun' />
-    <w w='супружеская пара' fa='das' fw= 'Ehepaar, -e' p='noun' />
-    <w w='яйцо' fa='das' fw= 'Ei, -er' p='noun' />
-    <w w='дата възда (в квартиру)' fa='das' fw= 'Einzugsdatum (Sing)' p='noun' />
-    <w w='электроприбор' fa='das' fw= 'Elektrogerät, -e' p='noun' />
-    <w w='конец' fa='das' fw= 'Ende, -n' p='noun' />
-    <w w='английский язык' fa='das' fw= 'Englisch' p='noun' />
-    <w w='нижний этаж' fa='das' fw= 'Erdgeschoss, -e' p='noun' />
-    <w w='переживание, пережитое (что пережили в жизни, какие события)' fa='das' fw= 'Erlebnis, -se' p='noun' />
-    <w w='еда' fa='das' fw= 'Essen (Sing)' p='noun' />
-    <w w='Европа' fa='das' fw= 'Europa (nur Sing.)' p='noun' />
-    <w w='велосипед' fa='das' fw= 'Fahrrad, -er' p='noun' />
-    <w w='семейный праздник' fa='das' fw= 'Familienfest, -e' p='noun' />
-    <w w='семейное фото' fa='das' fw= 'Familienfoto, -s' p='noun' />
-    <w w='факс' fa='das' fw= 'Fax, -e' p='noun' />
-    <w w='факс (прибор)' fa='das' fw= 'Faxgerät, -e' p='noun' />
-    <w w='окно' fa='das' fw= 'Fenster,' p='noun' />
-    <w w='просмотр телевизора' fa='das' fw= 'Fernsehen (Sing)' p='noun' />
-    <w w='телепрограмма' fa='das' fw= 'Fernsehprogramm, -e' p='noun' />
-    <w w='праздник' fa='das' fw= 'Fest, -e' p='noun' />
-    <w w='высокая температура, жар, лихорадка' fa='das' fw= 'Fieber (nur Sing.)' p='noun' />
-    <w w='фитнесс-студия' fa='das' fw= 'Fitness-Studio, -s' p='noun' />
-    <w w='мясо' fa='das' fw= 'Fleisch (nur Sing.)' p='noun' />
-    <w w='самолет' fa='das' fw= 'Flugzeug, -e' p='noun' />
-    <w w='формуляр' fa='das' fw= 'Formular, -e' p='noun' />
-    <w w='фото' fa='das' fw= 'Foto, -s' p='noun' />
-    <w w='дата рождения' fa='das' fw= 'Geburtsdatum (Sing)' p='noun' />
-    <w w='место рождения (страна рождения, родина)' fa='das' fw= 'Geburtsland, -..er' p='noun' />
-    <w w='стихотворение' fa='das' fw= 'Gedicht, -e' p='noun' />
-    <w w='деньги' fa='das' fw= 'Geld (nur Sing.)' p='noun' />
-    <w w='деньги' fa='das' fw= 'Geld (Sing)' p='noun' />
-    <w w='овощ' fa='das' fw= 'Gemüse (nur Sing.)' p='noun' />
-    <w w='овощной магазин' fa='das' fw= 'Gemüsegeschäft, -e' p='noun' />
-    <w w='багаж' fa='das' fw= 'Gepäck (Sing)' p='noun' />
-    <w w='прибор' fa='das' fw= 'Gerät, -e' p='noun' />
-    <w w='магазин' fa='das' fw= 'Geschäft, -e' p='noun' />
-    <w w='пол (мужско женский)' fa='das' fw= 'Geschlecht, -er' p='noun' />
-    <w w='разговор' fa='das' fw= 'Gespräch, -e' p='noun' />
-    <w w='напиток' fa='das' fw= 'Getränk, -e' p='noun' />
-    <w w='вес' fa='das' fw= 'Gewicht, -e' p='noun' />
-    <w w='гроза' fa='das' fw= 'Gewitter,' p='noun' />
-    <w w='стакан' fa='das' fw= 'Glas, -..er' p='noun' />
-    <w w='путь (ж/д)' fa='das' fw= 'Gleis, -e' p='noun' />
-    <w w='удача' fa='das' fw= 'Glück (Sing)' p='noun' />
-    <w w='грамм' fa='das' fw= 'Gramm (nur Sing.)' p='noun' />
-    <w w='волос' fa='das' fw= 'Haar, -e' p='noun' />
-    <w w='мобильный телефон' fa='das' fw= 'Handy, -s' p='noun' />
-    <w w='дом' fa='das' fw= 'Haus, -..er' p='noun' />
-    <w w='тетрадь' fa='das' fw= 'Heft, -e' p='noun' />
-    <w w='родина' fa='das' fw= 'Heimatland, -..er' p='noun' />
-    <w w='рубашка' fa='das' fw= 'Hemd, -en' p='noun' />
-    <w w='страна происхождения' fa='das' fw= 'Herkunftsland, -..er' p='noun' />
-    <w w='сердце' fa='das' fw= 'Herz, -n' p='noun' />
-    <w w='хобби' fa='das' fw= 'Hobby, -s' p='noun' />
-    <w w='отель' fa='das' fw= 'Hotel, -s' p='noun' />
-    <w w='инструмент' fa='das' fw= 'Instrument, -e' p='noun' />
-    <w w='интерес' fa='das' fw= 'Interesse (Sing)' p='noun' />
-    <w w='интернет' fa='das' fw= 'Internet (Sing)' p='noun' />
-    <w w='год' fa='das' fw= 'Jahr, -e' p='noun' />
-    <w w='карате' fa='das' fw= 'Karate (nur Sing.)' p='noun' />
-    <w w='карточка' fa='das' fw= 'Kärtchen,' p='noun' />
-    <w w='бутерброд с сыром' fa='das' fw= 'Käsebrot, -e' p='noun' />
-    <w w='универмаг' fa='das' fw= 'Kaufhaus, -..er' p='noun' />
-    <w w='килограмм' fa='das' fw= 'Kilo, -s' p='noun' />
-    <w w='ребенок' fa='das' fw= 'Kind, -er' p='noun' />
-    <w w='кино' fa='das' fw= 'Kino, -s' p='noun' />
-    <w w='платье' fa='das' fw= 'Kleid, -er' p='noun' />
-    <w w='поварная книга' fa='das' fw= 'Kochbuch, -..er' p='noun' />
-    <w w='больница' fa='das' fw= 'Krankenhaus, -..er' p='noun' />
-    <w w='крест' fa='das' fw= 'Kreuz, -e' p='noun' />
-    <w w='учебник' fa='das' fw= 'Kursbuch, -..er' p='noun' />
-    <w w='прибор для подзарядки' fa='das' fw= 'Ladegerät, -e' p='noun' />
-    <w w='страна' fa='das' fw= 'Land, -..er' p='noun' />
-    <w w='жизнь' fa='das' fw= 'Leben (Sing)' p='noun' />
-    <w w='год жизни' fa='das' fw= 'Lebensjahr, -e' p='noun' />
-    <w w='продовольственные товары' fa='das' fw= 'Lebensmittel,' p='noun' />
-    <w w='кожа (материал)' fa='das' fw= 'Leder,' p='noun' />
-    <w w='свет' fa='das' fw= 'Licht, -er' p='noun' />
-    <w w='любимая книга' fa='das' fw= 'Lieblingsbuch, -..er' p='noun' />
-    <w w='песня' fa='das' fw= 'Lied, -er' p='noun' />
-    <w w='девочка' fa='das' fw= 'Mädchen,' p='noun' />
-    <w w='медикамент' fa='das' fw= 'Medikament, -e' p='noun' />
-    <w w='море' fa='das' fw= 'Meer, -e' p='noun' />
-    <w w='формуляр заявления' fa='das' fw= 'Meldeformular, -e' p='noun' />
-    <w w='металл' fa='das' fw= 'Metall, -e' p='noun' />
-    <w w='минеральная вода' fa='das' fw= 'Mineralwasser,' p='noun' />
-    <w w='недовольство' fa='das' fw= 'Missfallen (nur Sing.)' p='noun' />
-    <w w='ужасная погода' fa='das' fw= 'Mistwetter (Sing)' p='noun' />
-    <w w='член какого-то общества, клуба' fa='das' fw= 'Mitglied, -er' p='noun' />
-    <w w='полдник' fa='das' fw= 'Mittagessen,' p='noun' />
-    <w w='мебель' fa='das' fw= 'Möbel,' p='noun' />
-    <w w='модальный глагол' fa='das' fw= 'Modalverb' p='noun' />
-    <w w='модель' fa='das' fw= 'Modell, -e' p='noun' />
-    <w w='модем' fa='das' fw= 'Modem, -s' p='noun' />
-    <w w='музей' fa='das' fw= 'Museum, Museen' p='noun' />
-    <w w='существительное' fa='das' fw= 'Nomen,' p='noun' />
-    <w w='верхний этаж' fa='das' fw= 'Obergeschoss, -e' p='noun' />
-    <w w='фрукты' fa='das' fw= 'Obst (Sing)' p='noun' />
-    <w w='ухо' fa='das' fw= 'Ohr, -en' p='noun' />
-    <w w='пасхальное яйцо' fa='das' fw= 'Osterei, -er' p='noun' />
-    <w w='пакет, посылка' fa='das' fw= 'Paket, -e' p='noun' />
-    <w w='бумага, документ' fa='das' fw= 'Papier, -e' p='noun' />
-    <w w='перфект' fa='das' fw= 'Perfekt (Sing.)' p='noun' />
-    <w w='управление персоналом' fa='das' fw= 'Personalmanagement (Sing)' p='noun' />
-    <w w='личное местоимение' fa='das' fw= 'Personalpronomen,' p='noun' />
-    <w w='фунт' fa='das' fw= 'Pfund, -e' p='noun' />
-    <w w='проблема' fa='das' fw= 'Problem, -e' p='noun' />
-    <w w='продукт' fa='das' fw= 'Produkt, -e' p='noun' />
-    <w w='программа' fa='das' fw= 'Programm, -e' p='noun' />
-    <w w='проект' fa='das' fw= 'Projekt, -e' p='noun' />
-    <w w='викторина' fa='das' fw= 'Quiz (Sing.)' p='noun' />
-    <w w='колесо' fa='das' fw= 'Rad, -..er' p='noun' />
-    <w w='радио' fa='das' fw= 'Radio, -s' p='noun' />
-    <w w='загадка' fa='das' fw= 'Rätsel' p='noun' />
-    <w w='полка' fa='das' fw= 'Regal, -e' p='noun' />
-    <w w='туристическое бюро' fa='das' fw= 'Reisebüro, -s' p='noun' />
-    <w w='ресторан' fa='das' fw= 'Restaurant, -s' p='noun' />
-    <w w='рецепт' fa='das' fw= 'Rezept, -e' p='noun' />
-    <w w='ролевая игра' fa='das' fw= 'Rollenspiel, -e' p='noun' />
-    <w w='соль' fa='das' fw= 'Salz, -e' p='noun' />
-    <w w='знак препинания' fa='das' fw= 'Satzzeichen,' p='noun' />
-    <w w='вывеска, табличка, знак' fa='das' fw= 'Schild, -e' p='noun' />
-    <w w='бассейн' fa='das' fw= 'Schwimmbad, -..er' p='noun' />
-    <w w='секретариат' fa='das' fw= 'Sekretariat, -e' p='noun' />
-    <w w='софа' fa='das' fw= 'Sofa, -s' p='noun' />
-    <w w='спецпредложение' fa='das' fw= 'Sonderangebot, -e' p='noun' />
-    <w w='игра' fa='das' fw= 'Spiel, -e' p='noun' />
-    <w w='поиск места работы' fa='das' fw= 'Stellengesuch, -e' p='noun' />
-    <w w='предметный указатель' fa='das' fw= 'Stichwortverzeichnis, -se' p='noun' />
-    <w w='штука' fa='das' fw= 'Stück, -e' p='noun' />
-    <w w='супермаркет' fa='das' fw= 'Supermarkt, -..e' p='noun' />
-    <w w='майка' fa='das' fw= 'T-Shirt, -s' p='noun' />
-    <w w='такси' fa='das' fw= 'Taxi, -s' p='noun' />
-    <w w='команда' fa='das' fw= 'Team, -s' p='noun' />
-    <w w='телефонный разговор' fa='das' fw= 'Telefongespräch, -e' p='noun' />
-    <w w='терминал' fa='das' fw= 'Terminal, -s' p='noun' />
-    <w w='театр' fa='das' fw= 'Theater,' p='noun' />
-    <w w='тема' fa='das' fw= 'Thema, die Themen' p='noun' />
-    <w w='билет' fa='das' fw= 'Ticket, -s' p='noun' />
-    <w w='тренинг' fa='das' fw= 'Training (Sing)' p='noun' />
-    <w w='телевидение' fa='das' fw= 'TV, -s' p='noun' />
-    <w w='подвальный этаж' fa='das' fw= 'Untergeschoss, -e' p='noun' />
-    <w w='глагол' fa='das' fw= 'Verb, -en' p='noun' />
-    <w w='понимание' fa='das' fw= 'Verständnis (Sing)' p='noun' />
-    <w w='видео' fa='das' fw= 'Video, -s' p='noun' />
-    <w w='четверть' fa='das' fw= 'Viertel,' p='noun' />
-    <w w='раковина, умывальник' fa='das' fw= 'Waschbecken,' p='noun' />
-    <w w='вода' fa='das' fw= 'Wasser (Sing.)' p='noun' />
-    <w w='Рождество' fa='das' fw= 'Weihnachten (Sing)' p='noun' />
-    <w w='сокращ. от Досвидания (при телефонных разговорах)' fa='das' fw= 'Wiederhören (Sing)' p='noun' />
-    <w w='сокращ. от Досвидания' fa='das' fw= 'Wiedersehen (Sing.)' p='noun' />
-    <w w='выходные дни' fa='das' fw= 'Wochenende, -n' p='noun' />
-    <w w='жилая комната' fa='das' fw= 'Wohnzimmer,' p='noun' />
-    <w w='слово' fa='das' fw= 'Wort, -e' p='noun' />
-    <w w='словарь' fa='das' fw= 'Wörterbuch, -..er' p='noun' />
-    <w w='бутерброд с колбасой' fa='das' fw= 'Wurstbrot, -e' p='noun' />
-    <w w='комната' fa='das' fw= 'Zimmer,' p='noun' />
-    <w w='йогурт' fa='das' fw= 'der Joghurt, -s' p='noun' />
-    <w w='длиться' fa='' fw= 'dauern' p='N/A' />
-    <w w='думатъ' fa='' fw= 'denken' p='verb' />
-    <w w='же, т.к.' fa='' fw= 'denn' p='N/A' />
-    <w w='тогда' fa='' fw= 'denn' p='N/A' />
-    <w w='вечер' fa='der' fw= 'Abend, -e' p='noun' />
-    <w w='вечерний курс' fa='der' fw= 'Abendkurs, -e' p='noun' />
-    <w w='вылет' fa='der' fw= 'Abflug., -..e' p='noun' />
-    <w w='прощание' fa='der' fw= 'Abschied, -e' p='noun' />
-    <w w='отрезок, частъ, раздел, статья...' fa='der' fw= 'Abschnitt, -e' p='noun' />
-    <w w='отправитель' fa='der' fw= 'Absen,' p='noun' />
-    <w w='боевик' fa='der' fw= 'Actionfilm, -e' p='noun' />
-    <w w='адресат' fa='der' fw= 'Adressat, -en' p='noun' />
-    <w w='Винит.падеж' fa='der' fw= 'Akkusativ' p='noun' />
-    <w w='алкоголь' fa='der' fw= 'Alkohol (Sing.)' p='noun' />
-    <w w='оклик, звонок' fa='der' fw= 'Anruf, -e' p='noun' />
-    <w w='тел.автоответчик' fa='der' fw= 'Anrufbeantworter,' p='noun' />
-    <w w='звонящий' fa='der' fw= 'Anrufer,' p='noun' />
-    <w w='удобная пересадка' fa='der' fw= 'Anschluss, -..e' p='noun' />
-    <w w='заявление' fa='der' fw= 'Antrag, -..e' p='noun' />
-    <w w='лист для ответа' fa='der' fw= 'Antwortbogen,' p='noun' />
-    <w w='яблоко' fa='der' fw= 'Apfel' p='noun' />
-    <w w='яблочный пирог' fa='der' fw= 'Apfelkuchen,' p='noun' />
-    <w w='яблочный сок' fa='der' fw= 'Apfelsaft, -..e' p='noun' />
-    <w w='апрель' fa='der' fw= 'April' p='noun' />
-    <w w='работник' fa='der' fw= 'Arbeiter,' p='noun' />
-    <w w='работодатель' fa='der' fw= 'Arbeitgeber,' p='noun' />
-    <w w='рабочее место' fa='der' fw= 'Arbeitsplatz, -..e' p='noun' />
-    <w w='рука' fa='der' fw= 'Arm, -e' p='noun' />
-    <w w='артикль' fa='der' fw= 'Artikel,' p='noun' />
-    <w w='врач' fa='der' fw= 'Arzt, -..e' p='noun' />
-    <w w='атлас' fa='der' fw= 'Atlas, -se' p='noun' />
-    <w w='август' fa='der' fw= 'August' p='noun' />
-    <w w='выход' fa='der' fw= 'Ausgang, -..e' p='noun' />
-    <w w='иностранец' fa='der' fw= 'Auslän,' p='noun' />
-    <w w='удостоверение' fa='der' fw= 'Ausweis, -e' p='noun' />
-    <w w='автомеханик' fa='der' fw= 'Automechaniker,' p='noun' />
-    <w w='вокзал' fa='der' fw= 'Bahnhof, -..e' p='noun' />
-    <w w='платформа' fa='der' fw= 'Bahnsteig, -e' p='noun' />
-    <w w='балкон' fa='der' fw= 'Balkon, -e' p='noun' />
-    <w w='строитель' fa='der' fw= 'Bauarbeiter,' p='noun' />
-    <w w='живот' fa='der' fw= 'Bauch, -..e' p='noun' />
-    <w w='дерево' fa='der' fw= 'Baum, -..e' p='noun' />
-    <w w='чиновник' fa='der' fw= 'Beamte, -n' p='noun' />
-    <w w='кружка' fa='der' fw= 'Becher,-' p='noun' />
-    <w w='начало' fa='der' fw= 'Beginn (Sing.)' p='noun' />
-    <w w='гора' fa='der' fw= 'Berg, -e' p='noun' />
-    <w w='профессия' fa='der' fw= 'Beruf, -e' p='noun' />
-    <w w='визит' fa='der' fw= 'Besuch, -e' p='noun' />
-    <w w='букетов цветов' fa='der' fw= 'Blumenstrauß, -..e' p='noun' />
-    <w w='письмо' fa='der' fw= 'Brief, -e' p='noun' />
-    <w w='друг по переписке' fa='der' fw= 'Brieffreund, -e' p='noun' />
-    <w w='конверт' fa='der' fw= 'Briefumschlag, -..e' p='noun' />
-    <w w='брат' fa='der' fw= 'Bru, -..' p='noun' />
-    <w w='буква' fa='der' fw= 'Buchstabe, -n' p='noun' />
-    <w w='автобус' fa='der' fw= 'Bus, -se' p='noun' />
-    <w w='водитель автобуса' fa='der' fw= 'Busfahrer,' p='noun' />
-    <w w='права на вождение автобуса' fa='der' fw= 'Busführerschein, -e' p='noun' />
-    <w w='цент' fa='der' fw= 'Cent, -s' p='noun' />
-    <w w='шампанское' fa='der' fw= 'Champagner (Sing)' p='noun' />
-    <w w='шеф' fa='der' fw= 'Chef, -s' p='noun' />
-    <w w='клоун' fa='der' fw= 'Clown, -s' p='noun' />
-    <w w='клуб' fa='der' fw= 'Club, -s' p='noun' />
-    <w w='компьютер' fa='der' fw= 'Computer,' p='noun' />
-    <w w='компьютерный специалист' fa='der' fw= 'Computerspezialist, -e' p='noun' />
-    <w w='компьютерный стол' fa='der' fw= 'Computertisch, -e' p='noun' />
-    <w w='дательный падеж' fa='der' fw= 'Dativ, -e' p='noun' />
-    <w w='курс немецкого' fa='der' fw= 'Deutschkurs' p='noun' />
-    <w w='тест по немецкому' fa='der' fw= 'Deutschtest, -s' p='noun' />
-    <w w='занятие (урок) по немецкому' fa='der' fw= 'Deutschunterricht, -e' p='noun' />
-    <w w='декабрь' fa='der' fw= 'Dezember' p='noun' />
-    <w w='диалог' fa='der' fw= 'Dialog, -e' p='noun' />
-    <w w='вторник' fa='der' fw= 'Dienstag, -e' p='noun' />
-    <w w='доктор' fa='der' fw= 'Doktor, -en' p='noun' />
-    <w w='четверг' fa='der' fw= 'Donnerstag, -e' p='noun' />
-    <w w='принтер' fa='der' fw= 'Drucker,' p='noun' />
-    <w w='жажда' fa='der' fw= 'Durst (nur Sing.)' p='noun' />
-    <w w='обручальное колъцо' fa='der' fw= 'Ehering, -e' p='noun' />
-    <w w='вход' fa='der' fw= 'Eingang, -..e' p='noun' />
-    <w w='покупка' fa='der' fw= 'Einkauf, -..e' p='noun' />
-    <w w='тележка для покупок' fa='der' fw= 'Einkaufswagen, ..en -' p='noun' />
-    <w w='получатель' fa='der' fw= 'Empfänger,' p='noun' />
-    <w w='обеденный стол' fa='der' fw= 'Esstisch, -e' p='noun' />
-    <w w='евро' fa='der' fw= 'Euro, -s' p='noun' />
-    <w w='водитель' fa='der' fw= 'Fahrer,' p='noun' />
-    <w w='пассажир' fa='der' fw= 'Fahrgast, -..e' p='noun' />
-    <w w='билетный автомат' fa='der' fw= 'Fahrkartenautomat, -en' p='noun' />
-    <w w='расписание' fa='der' fw= 'Fahrplan, -..e' p='noun' />
-    <w w='фамилия' fa='der' fw= 'Familienname, -n' p='noun' />
-    <w w='семейное положение' fa='der' fw= 'Familienstand (nur Sing.)' p='noun' />
-    <w w='февраль' fa='der' fw= 'Februar' p='noun' />
-    <w w='телевизор' fa='der' fw= 'Fernseher,' p='noun' />
-    <w w='столик для ТВ' fa='der' fw= 'Fernsehtisch, -e' p='noun' />
-    <w w='фильм' fa='der' fw= 'Film, -e' p='noun' />
-    <w w='палец' fa='der' fw= 'Finger,' p='noun' />
-    <w w='рыба' fa='der' fw= 'Fisch, -e' p='noun' />
-    <w w='продавец мяса' fa='der' fw= 'Fleischverkäufer,' p='noun' />
-    <w w='полет' fa='der' fw= 'Flug, -..e' p='noun' />
-    <w w='аэропорт' fa='der' fw= 'Flughafen' p='noun' />
-    <w w='коридор' fa='der' fw= 'Flur, -e' p='noun' />
-    <w w='река' fa='der' fw= 'Fluss, -..e' p='noun' />
-    <w w='курс французского' fa='der' fw= 'Französischkurs, -e' p='noun' />
-    <w w='друг' fa='der' fw= 'Freund, -e' p='noun' />
-    <w w='парикмахерская' fa='der' fw= 'Friseursalon, -e' p='noun' />
-    <w w='парикмахер' fa='der' fw= 'Frisör, -e' p='noun' />
-    <w w='весна' fa='der' fw= 'Frühling, -e' p='noun' />
-    <w w='завтрак' fa='der' fw= 'Frühstück, -e' p='noun' />
-    <w w='водительские права' fa='der' fw= 'Führerschein, -e' p='noun' />
-    <w w='ступня' fa='der' fw= 'Fuß, -..e' p='noun' />
-    <w w='футбол' fa='der' fw= 'Fußball, -..e' p='noun' />
-    <w w='сад' fa='der' fw= 'Garten' p='noun' />
-    <w w='садовник' fa='der' fw= 'Gärtner,' p='noun' />
-    <w w='гостъ' fa='der' fw= 'Gast, -..e' p='noun' />
-    <w w='место рождения' fa='der' fw= 'Geburtsort, -e' p='noun' />
-    <w w='День рождения' fa='der' fw= 'Geburtstag, -e' p='noun' />
-    <w w='овощной магазин' fa='der' fw= 'Gemüseladen,' p='noun' />
-    <w w='коммерческий директор, управляющий' fa='der' fw= 'Geschäftsführer,' p='noun' />
-    <w w='гриль' fa='der' fw= 'Grill, -s' p='noun' />
-    <w w='причина' fa='der' fw= 'Grund, -..e' p='noun' />
-    <w w='привет' fa='der' fw= 'Gruß, -..e' p='noun' />
-    <w w='ременъ' fa='der' fw= 'Gürtel,' p='noun' />
-    <w w='горло' fa='der' fw= 'Hals, -..e' p='noun' />
-    <w w='заяц' fa='der' fw= 'Hase, -n' p='noun' />
-    <w w='главный вокзал' fa='der' fw= 'Hauptbahnhof, -..e' p='noun' />
-    <w w='главное предложение' fa='der' fw= 'Hauptsatz, -..e' p='noun' />
-    <w w='домоуправитель' fa='der' fw= 'Hausmeister,' p='noun' />
-    <w w='осень' fa='der' fw= 'Herbst, -e' p='noun' />
-    <w w='плита' fa='der' fw= 'Herd, -e' p='noun' />
-    <w w='производитель' fa='der' fw= 'Hersteller,' p='noun' />
-    <w w='двор' fa='der' fw= 'Hof, -..e' p='noun' />
-    <w w='собака' fa='der' fw= 'Hund, -e' p='noun' />
-    <w w='голод' fa='der' fw= 'Hunger (nur Sing.)' p='noun' />
-    <w w='интенсивный курс' fa='der' fw= 'Intensivkurs, -e' p='noun' />
-    <w w='январь' fa='der' fw= 'Januar' p='noun' />
-    <w w='работа' fa='der' fw= 'Job, -s' p='noun' />
-    <w w='июль' fa='der' fw= 'Juli' p='noun' />
-    <w w='мальчик' fa='der' fw= 'Junge, -n' p='noun' />
-    <w w='июнь' fa='der' fw= 'Juni' p='noun' />
-    <w w='кофе' fa='der' fw= 'Kaffee, -s' p='noun' />
-    <w w='календаръ' fa='der' fw= 'Kalen,' p='noun' />
-    <w w='карнавал' fa='der' fw= 'Karneval (Sing)' p='noun' />
-    <w w='сыр' fa='der' fw= 'Käse (nur Sing.)' p='noun' />
-    <w w='ящик, коробка' fa='der' fw= 'Kasten, -..' p='noun' />
-    <w w='коммерсант' fa='der' fw= 'Kaufmann' p='noun' />
-    <w w='подвал' fa='der' fw= 'Keller,' p='noun' />
-    <w w='официант' fa='der' fw= 'Kellner,' p='noun' />
-    <w w='киоск' fa='der' fw= 'Kiosk, -s' p='noun' />
-    <w w='платяной шкаф' fa='der' fw= 'Kleischrank, -..e' p='noun' />
-    <w w='костъ' fa='der' fw= 'Knochen,' p='noun' />
-    <w w='повар' fa='der' fw= 'Koch, -..e' p='noun' />
-    <w w='чемодан' fa='der' fw= 'Koffer,' p='noun' />
-    <w w='голова' fa='der' fw= 'Kopf, -..e' p='noun' />
-    <w w='коробка' fa='der' fw= 'Korb, -..e' p='noun' />
-    <w w='часть тела' fa='der' fw= 'Körperteil, -e' p='noun' />
-    <w w='санитар' fa='der' fw= 'Krankenpfleger,' p='noun' />
-    <w w='детектив' fa='der' fw= 'Kriminalfilm, -e' p='noun' />
-    <w w='пирог' fa='der' fw= 'Kuchen,' p='noun' />
-    <w w='шариковая ручка' fa='der' fw= 'Kugelschreiber,' p='noun' />
-    <w w='холодильник' fa='der' fw= 'Kühlschrank, -..e' p='noun' />
-    <w w='клиент' fa='der' fw= 'Kunde, -n' p='noun' />
-    <w w='служба по работе с клиентами' fa='der' fw= 'Kundendienst (Sing)' p='noun' />
-    <w w='курс' fa='der' fw= 'Kurs, -e' p='noun' />
-    <w w='руководитель курса' fa='der' fw= 'Kursleiter,' p='noun' />
-    <w w='магазин' fa='der' fw= 'Laden, ..' p='noun' />
-    <w w='продажа со склада' fa='der' fw= 'Lagerverkauf, -..e' p='noun' />
-    <w w='учитель' fa='der' fw= 'Lehrer,' p='noun' />
-    <w w='текст для чтения' fa='der' fw= 'Lesetext, -e' p='noun' />
-    <w w='любимая музыка' fa='der' fw= 'Lieblingsmusik, (nur Sing.)' p='noun' />
-    <w w='литр' fa='der' fw= 'Liter,' p='noun' />
-    <w w='грузовая машина' fa='der' fw= 'LKW, -s' p='noun' />
-    <w w='май' fa='der' fw= 'Mai (nur Sing.)' p='noun' />
-    <w w='маляр' fa='der' fw= 'Maler' p='noun' />
-    <w w='мужчина, муж' fa='der' fw= 'Mann, -..er' p='noun' />
-    <w w='палъто' fa='der' fw= 'Mantel' p='noun' />
-    <w w='март' fa='der' fw= 'März, -e' p='noun' />
-    <w w='механик' fa='der' fw= 'Mechaniker,' p='noun' />
-    <w w='мастер' fa='der' fw= 'Meister,' p='noun' />
-    <w w='человек' fa='der' fw= 'Mensch, -en' p='noun' />
-    <w w='метр' fa='der' fw= 'Meter, -e' p='noun' />
-    <w w='мясник' fa='der' fw= 'Metzger,' p='noun' />
-    <w w='рынок жилья' fa='der' fw= 'Mietmarkt, -..e' p='noun' />
-    <w w='стоимость съема' fa='der' fw= 'Mietpreis, -e' p='noun' />
-    <w w='навоз, используется как грубое выражение «Черт»' fa='der' fw= 'Mist (Sing)' p='noun' />
-    <w w='полдень' fa='der' fw= 'Mittag, -e' p='noun' />
-    <w w='момент' fa='der' fw= 'Moment, -e' p='noun' />
-    <w w='месяц' fa='der' fw= 'Monat, -e' p='noun' />
-    <w w='утро' fa='der' fw= 'Morgen (nur Sing.)' p='noun' />
-    <w w='рот' fa='der' fw= 'Mund, -..er' p='noun' />
-    <w w='музыкант' fa='der' fw= 'Musiker,' p='noun' />
-    <w w='послеобеденное время' fa='der' fw= 'Nachmittag, -e' p='noun' />
-    <w w='имя, фамилия' fa='der' fw= 'Name, -n' p='noun' />
-    <w w='негативартикль' fa='der' fw= 'Negativartikel,' p='noun' />
-    <w w='именительный падеж' fa='der' fw= 'Nominativ, -e' p='noun' />
-    <w w='север' fa='der' fw= 'Norden (Sing.)' p='noun' />
-    <w w='аварийная служба' fa='der' fw= 'Notdienst (Sing)' p='noun' />
-    <w w='ноябрь' fa='der' fw= 'November' p='noun' />
-    <w w='салат из вермишели лапши' fa='der' fw= 'Nudelsalat, -e' p='noun' />
-    <w w='официант' fa='der' fw= 'Ober,' p='noun' />
-    <w w='октябрь' fa='der' fw= 'Oktober' p='noun' />
-    <w w='место' fa='der' fw= 'Ort, -e' p='noun' />
-    <w w='восток' fa='der' fw= 'Osten (Sing)' p='noun' />
-    <w w='пасхальный заяц' fa='der' fw= 'Osterhase, -n' p='noun' />
-    <w w='папа' fa='der' fw= 'Papa, -s' p='noun' />
-    <w w='парк' fa='der' fw= 'Park, -s' p='noun' />
-    <w w='парковка' fa='der' fw= 'Parkplatz, -..e' p='noun' />
-    <w w='партнер' fa='der' fw= 'Partner,' p='noun' />
-    <w w='паспорт' fa='der' fw= 'Pass,' p='noun' />
-    <w w='пациент' fa='der' fw= 'Patient, -en' p='noun' />
-    <w w='стрела' fa='der' fw= 'Pfeil, -e' p='noun' />
-    <w w='обслуживание' fa='der' fw= 'Pflegedienst, -e' p='noun' />
-    <w w='санитар' fa='der' fw= 'Pfleger,' p='noun' />
-    <w w='легковой автомобиль' fa='der' fw= 'PKW, -s' p='noun' />
-    <w w='план' fa='der' fw= 'Plan, -..e' p='noun' />
-    <w w='место' fa='der' fw= 'Platz, -..e' p='noun' />
-    <w w='полицейский' fa='der' fw= 'Polizist, -en' p='noun' />
-    <w w='цена' fa='der' fw= 'Preis, -e' p='noun' />
-    <w w='программист' fa='der' fw= 'Programmierer,' p='noun' />
-    <w w='проспект' fa='der' fw= 'Prospekt, -e' p='noun' />
-    <w w='экзаменатор' fa='der' fw= 'Prüfer,' p='noun' />
-    <w w='легкий свитер' fa='der' fw= 'Pulli, -s' p='noun' />
-    <w w='полувер' fa='der' fw= 'Pullover,' p='noun' />
-    <w w='точка' fa='der' fw= 'Punkt, -e' p='noun' />
-    <w w='совет' fa='der' fw= 'Rat' p='noun' />
-    <w w='совет' fa='der' fw= 'Ratschlag, -..e' p='noun' />
-    <w w='дождь' fa='der' fw= 'Regen (Sing)' p='noun' />
-    <w w='зонт от дождя' fa='der' fw= 'Regenschirm, -e' p='noun' />
-    <w w='региональный экспресс' fa='der' fw= 'Regionalexpress (Sing)' p='noun' />
-    <w w='рис' fa='der' fw= 'Reis (Sing.)' p='noun' />
-    <w w='рекорд' fa='der' fw= 'Rekord, -e' p='noun' />
-    <w w='юбка' fa='der' fw= 'Rock, -..e' p='noun' />
-    <w w='спина' fa='der' fw= 'Rücken' p='noun' />
-    <w w='сок' fa='der' fw= 'Saft, -..e' p='noun' />
-    <w w='салат' fa='der' fw= 'Salat, -e' p='noun' />
-    <w w='предложение' fa='der' fw= 'Satz, -..e' p='noun' />
-    <w w='окно' fa='der' fw= 'Schalter,' p='noun' />
-    <w w='конец' fa='der' fw= 'Schluss, -..e' p='noun' />
-    <w w='ключ' fa='der' fw= 'Schlüssel,' p='noun' />
-    <w w='портной' fa='der' fw= 'Schnei, -' p='noun' />
-    <w w='план метро' fa='der' fw= 'Schnellbahnplan, -..e' p='noun' />
-    <w w='шкаф' fa='der' fw= 'Schrank, -..e' p='noun' />
-    <w w='письменный стол' fa='der' fw= 'Schreibtisch, -e' p='noun' />
-    <w w='шаг' fa='der' fw= 'Schritte, -e' p='noun' />
-    <w w='ботинок, туфля' fa='der' fw= 'Schuh, -e' p='noun' />
-    <w w='ученик' fa='der' fw= 'Schüler,' p='noun' />
-    <w w='школьный день' fa='der' fw= 'Schultag, -e' p='noun' />
-    <w w='сварщик' fa='der' fw= 'Schweißer,' p='noun' />
-    <w w='озеро' fa='der' fw= 'See, -n' p='noun' />
-    <w w='секретарь' fa='der' fw= 'Sekretär, -e' p='noun' />
-    <w w='шампанское игристое вино' fa='der' fw= 'Sekt (Sing)' p='noun' />
-    <w w='сентябрь' fa='der' fw= 'September' p='noun' />
-    <w w='сервис' fa='der' fw= 'Service (Sing)' p='noun' />
-    <w w='кресло' fa='der' fw= 'Sessel,' p='noun' />
-    <w w='единственное число' fa='der' fw= 'Singular (nur Sing.)' p='noun' />
-    <w w='лыжи' fa='der' fw= 'Ski, er' p='noun' />
-    <w w='сын' fa='der' fw= 'Sohn, -..e' p='noun' />
-    <w w='лето' fa='der' fw= 'Sommer,' p='noun' />
-    <w w='летняя распродажа' fa='der' fw= 'Sommerschlussverkauf (Sing)' p='noun' />
-    <w w='солнечный свет' fa='der' fw= 'Sonnenschein (Sing.)' p='noun' />
-    <w w='экономичная цена' fa='der' fw= 'Sparpreis, -e' p='noun' />
-    <w w='удовольствие, развлечение, шутка' fa='der' fw= 'Spaß, -..e' p='noun' />
-    <w w='прогулка' fa='der' fw= 'Spaziergang, -..e' p='noun' />
-    <w w='план города' fa='der' fw= 'Stadtplan, -..e' p='noun' />
-    <w w='чать города' fa='der' fw= 'Stadtteil, -e' p='noun' />
-    <w w='старт' fa='der' fw= 'Start, -s' p='noun' />
-    <w w='штепсель' fa='der' fw= 'Stecker,' p='noun' />
-    <w w='штифт, карандаш' fa='der' fw= 'Stift, -e' p='noun' />
-    <w w='владелец карандаша' fa='der' fw= 'Stifthalter,' p='noun' />
-    <w w='этаж' fa='der' fw= 'Stock, -..e' p='noun' />
-    <w w='стресс' fa='der' fw= 'Stress (Sing)' p='noun' />
-    <w w='студент' fa='der' fw= 'Student, -en' p='noun' />
-    <w w='стул' fa='der' fw= 'Stuhl, -..e' p='noun' />
-    <w w='юг' fa='der' fw= 'Süden (Sing.)' p='noun' />
-    <w w='день' fa='der' fw= 'Tag, -e' p='noun' />
-    <w w='"протекание" дня' fa='der' fw= 'Tagesablauf, -..e' p='noun' />
-    <w w='курс танцев' fa='der' fw= 'Tanzkurs, -e' p='noun' />
-    <w w='техник, монтер' fa='der' fw= 'Techniker,' p='noun' />
-    <w w='чай' fa='der' fw= 'Tee, -s' p='noun' />
-    <w w='часть' fa='der' fw= 'Teil, -e' p='noun' />
-    <w w='участник' fa='der' fw= 'Teilnehmer,' p='noun' />
-    <w w='назначенная встреча' fa='der' fw= 'Termin, -e' p='noun' />
-    <w w='назначенный срок' fa='der' fw= 'Termin, -e' p='noun' />
-    <w w='тест, проверка' fa='der' fw= 'Test, -s' p='noun' />
-    <w w='совет' fa='der' fw= 'tipp, -s' p='noun' />
-    <w w='стол' fa='der' fw= 'Tisch, -e' p='noun' />
-    <w w='тренер' fa='der' fw= 'Trainer,' p='noun' />
-    <w w='станция метро, вокзал' fa='der' fw= 'U-Bahnhof, -..e' p='noun' />
-    <w w='авария' fa='der' fw= 'Unfall, -..e' p='noun' />
-    <w w='занятие, урок' fa='der' fw= 'Unterricht, -e' p='noun' />
-    <w w='разница' fa='der' fw= 'Unterschied, -e' p='noun' />
-    <w w='отпуск' fa='der' fw= 'Urlaub (Sing)' p='noun' />
-    <w w='отпуск' fa='der' fw= 'Urlaub, -e' p='noun' />
-    <w w='отец' fa='der' fw= 'Vater,' p='noun' />
-    <w w='повязка' fa='der' fw= 'Verband, -..e' p='noun' />
-    <w w='заработок' fa='der' fw= 'Verdienst (Sing)' p='noun' />
-    <w w='общество, объединение' fa='der' fw= 'Verein, -e' p='noun' />
-    <w w='продавец' fa='der' fw= 'Verkäufer,' p='noun' />
-    <w w='дообеденное время' fa='der' fw= 'Vormittag, -e' p='noun' />
-    <w w='имя' fa='der' fw= 'Vorname, -n' p='noun' />
-    <w w='предложение' fa='der' fw= 'Vorschlag, -..e' p='noun' />
-    <w w='правление' fa='der' fw= 'Vorstand, -..e' p='noun' />
-    <w w='автомобиль' fa='der' fw= 'Wagen,' p='noun' />
-    <w w='Рождественское дерево' fa='der' fw= 'Weihnachtsbaum, -..e' p='noun' />
-    <w w='Санта Клаус' fa='der' fw= 'Weihnachtsmann, -..er' p='noun' />
-    <w w='вино' fa='der' fw= 'Wein, -e' p='noun' />
-    <w w='мировой рекорд' fa='der' fw= 'Weltrekord, -e' p='noun' />
-    <w w='ценность' fa='der' fw= 'Wert, -e' p='noun' />
-    <w w='запад' fa='der' fw= 'Westen (Sing.)' p='noun' />
-    <w w='ветер' fa='der' fw= 'Wind, -e' p='noun' />
-    <w w='зима' fa='der' fw= 'Winter,' p='noun' />
-    <w w='день недели' fa='der' fw= 'Wochentag, -e' p='noun' />
-    <w w='жилое строение' fa='der' fw= 'Wohnanlage, -n' p='noun' />
-    <w w='место жительства' fa='der' fw= 'Wohnort, -e' p='noun' />
-    <w w='жилплощадь' fa='der' fw= 'Wohnraum, -..e' p='noun' />
-    <w w='желание' fa='der' fw= 'Wunsch, -..e' p='noun' />
-    <w w='зуб' fa='der' fw= 'Zahn, -..e' p='noun' />
-    <w w='сантиметр' fa='der' fw= 'Zentimeter,' p='noun' />
-    <w w='записка' fa='der' fw= 'Zettel,' p='noun' />
-    <w w='сахар' fa='der' fw= 'Zucker (Sing.)' p='noun' />
-    <w w='поезд' fa='der' fw= 'Zug, -..e' p='noun' />
-    <w w='состояние' fa='der' fw= 'Zustand, -..e' p='noun' />
-    <w w='Тext, текст' fa='der' fw= '-e' p='noun' />
-    <w w='поэтому' fa='' fw= 'deshalb' p='N/A' />
-    <w w='немецкий' fa='' fw= 'deutsch' p='N/A' />
-    <w w='Германия' fa='' fw= 'Deutschland (Sing.)' p='N/A' />
-    <w w='немецкоговорящий(ая)' fa='' fw= 'deutschsprachig' p='N/A' />
-    <w w='толстый' fa='' fw= 'dick' p='N/A' />
-    <w w='отъезд' fa='die' fw= 'Abfahrt (Sing.)' p='noun' />
-    <w w='отказ' fa='die' fw= 'Absage, -n' p='noun' />
-    <w w='адрес' fa='die' fw= 'Adresse, -n' p='noun' />
-    <w w='занятние, активность' fa='die' fw= 'Aktivität, -en' p='noun' />
-    <w w='светофор' fa='die' fw= 'Ampel, -n' p='noun' />
-    <w w='сведения, показания' fa='die' fw= 'Angabe, -n' p='noun' />
-    <w w='прибытие' fa='die' fw= 'Ankunft (Sing.)' p='noun' />
-    <w w='регистрация, заявление, заявка' fa='die' fw= 'Anmeldung, -en' p='noun' />
-    <w w='обращение' fa='die' fw= 'Anrede (Sing.)' p='noun' />
-    <w w='объявление, оповещение, извещение' fa='die' fw= 'Ansage, -n' p='noun' />
-    <w w='ответ' fa='die' fw= 'Antwort, -en' p='noun' />
-    <w w='указание' fa='die' fw= 'Anweisung, -en' p='noun' />
-    <w w='объявление, сообщение' fa='die' fw= 'Anzeige, -n' p='noun' />
-    <w w='аптека' fa='die' fw= 'Apotheke, -n' p='noun' />
-    <w w='работа' fa='die' fw= 'Arbeit, -en' p='noun' />
-    <w w='рабочее время' fa='die' fw= 'Arbeitszeit, -en' p='noun' />
-    <w w='врачебная практика' fa='die' fw= 'Arztpraxis, -en' p='noun' />
-    <w w='назначение времени у врача' fa='die' fw= 'Arzttermin, -e' p='noun' />
-    <w w='требование' fa='die' fw= 'Aufforderung, -en' p='noun' />
-    <w w='задание' fa='die' fw= 'Aufgabe, -n' p='noun' />
-    <w w='цвет глаз' fa='die' fw= 'Augenfarbe' p='noun' />
-    <w w='справка/инфо' fa='die' fw= 'Auskunft, -..e' p='noun' />
-    <w w='выдача' fa='die' fw= 'Ausleihe, -n' p='noun' />
-    <w w='высказывание' fa='die' fw= 'Aussage, -n' p='noun' />
-    <w w='скоростная автонагистралъ' fa='die' fw= 'Autobahn, -en' p='noun' />
-    <w w='прокат машин' fa='die' fw= 'Autovermietung, -en' p='noun' />
-    <w w='автомастерская' fa='die' fw= 'Autowerkstatt, -..en' p='noun' />
-    <w w='детское белье' fa='die' fw= 'Baby-Wäsche (Sing.)' p='noun' />
-    <w w='булочная, пекарня' fa='die' fw= 'Bäckerei, -n' p='noun' />
-    <w w='ванна' fa='die' fw= 'Badewanne, -n' p='noun' />
-    <w w='банан' fa='die' fw= 'Banane, -n' p='noun' />
-    <w w='банк, лавочка' fa='die' fw= 'Bank, -en' p='noun' />
-    <w w='строительные работы' fa='die' fw= 'Bauarbeiten (Plural)' p='noun' />
-    <w w='приветствие' fa='die' fw= 'Begrüßung, -en' p='noun' />
-    <w w='учреждение' fa='die' fw= 'Behörde, -n' p='noun' />
-    <w w='примечание' fa='die' fw= 'Bemerkung, -en' p='noun' />
-    <w w='жалоба' fa='die' fw= 'Beschwerde, -n' p='noun' />
-    <w w='ударение' fa='die' fw= 'Betonung, -en' p='noun' />
-    <w w='просьба' fa='die' fw= 'Bitte, -n' p='noun' />
-    <w w='цветок' fa='die' fw= 'Blume, -n' p='noun' />
-    <w w='блузка' fa='die' fw= 'Bluse, -n' p='noun' />
-    <w w='широта' fa='die' fw= 'Breite (nur Sing)' p='noun' />
-    <w w='почтовая марка' fa='die' fw= 'Briefmarke, -n' p='noun' />
-    <w w='очки' fa='die' fw= 'Brille, -n' p='noun' />
-    <w w='мост' fa='die' fw= 'Brücke, -n' p='noun' />
-    <w w='цепочка букв' fa='die' fw= 'Buchstabenkette, -n' p='noun' />
-    <w w='масло' fa='die' fw= 'Butter (nur Sing)' p='noun' />
-    <w w='' fa='die' fw= 'CD, -s CD' p='noun' />
-    <w w='шефиня' fa='die' fw= 'Chefin, -nen' p='noun' />
-    <w w='шифр' fa='die' fw= 'Chiffre, -n' p='noun' />
-    <w w='электронная карта (сим-карта)' fa='die' fw= 'Chip-karte, -n' p='noun' />
-    <w w='кола' fa='die' fw= 'Cola (Sing.)' p='noun' />
-    <w w='дама' fa='die' fw= 'Dame, -en' p='noun' />
-    <w w='подробное описание' fa='die' fw= 'Detailansicht, -en' p='noun' />
-    <w w='дискотека' fa='die' fw= 'Disko, -s' p='noun' />
-    <w w='консервная банка.' fa='die' fw= 'Dose, -n' p='noun' />
-    <w w='магазин аптекарских и косметических товаров' fa='die' fw= 'Drogerie, -n' p='noun' />
-    <w w='душ' fa='die' fw= 'Dusche, -n' p='noun' />
-    <w w='электронный адрес' fa='die' fw= 'E-Mail, s' p='noun' />
-    <w w='угол' fa='die' fw= 'Ecke, -n' p='noun' />
-    <w w='жена, супруга' fa='die' fw= 'Ehefrau, -en' p='noun' />
-    <w w='приглашение' fa='die' fw= 'Einladung, -en' p='noun' />
-    <w w='родители' fa='die' fw= 'Eltern (Plural)' p='noun' />
-    <w w='курс английского' fa='die' fw= 'Englischkurs, -e' p='noun' />
-    <w w='извинение' fa='die' fw= 'Entschuldigung, -en' p='noun' />
-    <w w='объяснение' fa='die' fw= 'Erklärung, -en' p='noun' />
-    <w w='экскурсия' fa='die' fw= 'Exkursion, -en' p='noun' />
-    <w w='билет' fa='die' fw= 'Fahrkarte, -n' p='noun' />
-    <w w='перевозка велосипедов' fa='die' fw= 'Fahrradmitnahme (Sing)' p='noun' />
-    <w w='автошкола' fa='die' fw= 'Fahrschule, -n' p='noun' />
-    <w w='поездка' fa='die' fw= 'Fahrt, -en' p='noun' />
-    <w w='семья' fa='die' fw= 'Familie, -n' p='noun' />
-    <w w='цвет' fa='die' fw= 'Farbe, -n' p='noun' />
-    <w w='праздник' fa='die' fw= 'Feier, -n' p='noun' />
-    <w w='каникулы' fa='die' fw= 'Ferien (Sing)' p='noun' />
-    <w w='постоянное место' fa='die' fw= 'Festanstellung, -en' p='noun' />
-    <w w='фирма' fa='die' fw= 'Firma,  Firmen' p='noun' />
-    <w w='бутылка' fa='die' fw= 'Flasche, -n' p='noun' />
-    <w w='даты полета' fa='die' fw= 'Flugdaten (Plural)' p='noun' />
-    <w w='серия' fa='die' fw= 'Folge, -n' p='noun' />
-    <w w='форель' fa='die' fw= 'Forelle, -n' p='noun' />
-    <w w='форма' fa='die' fw= 'Form, -en' p='noun' />
-    <w w='вопрос' fa='die' fw= 'Frage, -n' p='noun' />
-    <w w='женщина, жена' fa='die' fw= 'Frau, -en' p='noun' />
-    <w w='свободное время' fa='die' fw= 'Freizeit, -en' p='noun' />
-    <w w='иностранный язык' fa='die' fw= 'Fremdsprache, -n' p='noun' />
-    <w w='подруга' fa='die' fw= 'Freundin, -nen' p='noun' />
-    <w w='гараж' fa='die' fw= 'Garage, -n' p='noun' />
-    <w w='гарантия' fa='die' fw= 'Garantie, -n' p='noun' />
-    <w w='уборка помещения' fa='die' fw= 'Gebäudereinigung (Sing)' p='noun' />
-    <w w='руководтство по эксплуатации' fa='die' fw= 'Gebrauchsanweisung, -en' p='noun' />
-    <w w='вечеринка по случаю дня рождения' fa='die' fw= 'Geburtstagsparty, -s' p='noun' />
-    <w w='секретный номер' fa='die' fw= 'Geheimnummer, -n' p='noun' />
-    <w w='здоровье' fa='die' fw= 'Gesundheit (Sing)' p='noun' />
-    <w w='гитара' fa='die' fw= 'Gitarre, -en' p='noun' />
-    <w w='грамматика' fa='die' fw= 'Grammatik, -en' p='noun' />
-    <w w='вечеринка с грилем' fa='die' fw= 'Grillparty, -s' p='noun' />
-    <w w='размер' fa='die' fw= 'Größe, -n' p='noun' />
-    <w w='группа' fa='die' fw= 'Gruppe, -en' p='noun' />
-    <w w='группа' fa='die' fw= 'Gruppe, -n' p='noun' />
-    <w w='боли в горле' fa='die' fw= 'Halsschmerzen (Plural)' p='noun' />
-    <w w='остановка' fa='die' fw= 'Haltestelle, -n' p='noun' />
-    <w w='кисть руки' fa='die' fw= 'Hand, -..e' p='noun' />
-    <w w='руководтство к действию' fa='die' fw= 'Handlungsanweisung, -en' p='noun' />
-    <w w='столица' fa='die' fw= 'Hauptstadt, -..e' p='noun' />
-    <w w='основная квартира' fa='die' fw= 'Hauptwohnung, -en' p='noun' />
-    <w w='домашнее задание' fa='die' fw= 'Hausaufgabe, -n' p='noun' />
-    <w w='домохозяйка' fa='die' fw= 'Hausfrau, -en' p='noun' />
-    <w w='помощь по хозяству (домработница)' fa='die' fw= 'Haushaltshilfe, -n' p='noun' />
-    <w w='домашний телефон' fa='die' fw= 'Hausnummer, -n' p='noun' />
-    <w w='домоуправление' fa='die' fw= 'Hausverwaltung, -en' p='noun' />
-    <w w='родина' fa='die' fw= 'Heimat (Sing)' p='noun' />
-    <w w='отопление' fa='die' fw= 'Heizung, -en' p='noun' />
-    <w w='происхождение' fa='die' fw= 'Herkunft, -e' p='noun' />
-    <w w='помощь' fa='die' fw= 'Hilfe, -n' p='noun' />
-    <w w='сторона света' fa='die' fw= 'Himmelsrichtung, -en' p='noun' />
-    <w w='свадьба' fa='die' fw= 'Hochzeit, -en' p='noun' />
-    <w w='высота' fa='die' fw= 'Höhe, -n' p='noun' />
-    <w w='штаны, брюки' fa='die' fw= 'Hose, -n' p='noun' />
-    <w w='идея' fa='die' fw= 'Idee, -n' p='noun' />
-    <w w='недвижимость' fa='die' fw= 'Immobilie, -n' p='noun' />
-    <w w='управление недвижимостью' fa='die' fw= 'Immobilienverwaltung, -en' p='noun' />
-    <w w='информатика' fa='die' fw= 'Informatik (Sing)' p='noun' />
-    <w w='информация' fa='die' fw= 'Information, -en' p='noun' />
-    <w w='куртка' fa='die' fw= 'Jacke, -n' p='noun' />
-    <w w='время года' fa='die' fw= 'Jahreszeit, -en' p='noun' />
-    <w w='джинсы' fa='die' fw= 'Jeans (Plural)' p='noun' />
-    <w w='квартплата без расходов по отоплению' fa='die' fw= 'Kaltmiete, -n' p='noun' />
-    <w w='карта' fa='die' fw= 'Karte, -n' p='noun' />
-    <w w='картофель' fa='die' fw= 'Kartoffel, -n' p='noun' />
-    <w w='касса' fa='die' fw= 'Kasse, -n' p='noun' />
-    <w w='кошка' fa='die' fw= 'Katze, -n' p='noun' />
-    <w w='коммерсантка' fa='die' fw= 'Kauffrau, -en' p='noun' />
-    <w w='залог' fa='die' fw= 'Kaution, -en' p='noun' />
-    <w w='знание' fa='die' fw= 'Kenntnisse (Plural)' p='noun' />
-    <w w='класс' fa='die' fw= 'Klasse, -n' p='noun' />
-    <w w='одежда' fa='die' fw= 'Kleidung (Sing)' p='noun' />
-    <w w='маленькое объявление' fa='die' fw= 'Kleinanzeige, -n' p='noun' />
-    <w w='уголь' fa='die' fw= 'Kohle (nur Sing.)' p='noun' />
-    <w w='коммуникация, связь' fa='die' fw= 'Kommunikation (nur Sing.)' p='noun' />
-    <w w='спряжение' fa='die' fw= 'Konjugation, -en' p='noun' />
-    <w w='косметика' fa='die' fw= 'Kosmetik, -a' p='noun' />
-    <w w='медсестра' fa='die' fw= 'Krankenschwester, -n' p='noun' />
-    <w w='медицинская стреаховка' fa='die' fw= 'Krankenversicherung, -en' p='noun' />
-    <w w='болезнь' fa='die' fw= 'Krankheit, -en' p='noun' />
-    <w w='справка о болезни' fa='die' fw= 'Krankmeldung, -en' p='noun' />
-    <w w='кухня' fa='die' fw= 'Küche, -n' p='noun' />
-    <w w='культура' fa='die' fw= 'Kultur, -en' p='noun' />
-    <w w='клиентка' fa='die' fw= 'Kundin, -nen' p='noun' />
-    <w w='руководительница курса' fa='die' fw= 'Kursleiterin,' p='noun' />
-    <w w='лампа' fa='die' fw= 'Lampe, -n' p='noun' />
-    <w w='географическая карта' fa='die' fw= 'Landkarte, -n' p='noun' />
-    <w w='история жизни' fa='die' fw= 'Lebensgeschichte, -n' p='noun' />
-    <w w='учительница' fa='die' fw= 'Lehrerin, -nen' p='noun' />
-    <w w='страстъ, увлечение' fa='die' fw= 'Leidenschaft, -en' p='noun' />
-    <w w='лекция' fa='die' fw= 'Lektion, -en' p='noun' />
-    <w w='люди' fa='die' fw= 'Leute (Plural)' p='noun' />
-    <w w='список' fa='die' fw= 'Liste, -n' p='noun' />
-    <w w='решение' fa='die' fw= 'Lösung, -en' p='noun' />
-    <w w='настроение' fa='die' fw= 'Lust (Sing)' p='noun' />
-    <w w='марка' fa='die' fw= 'Marke, -n' p='noun' />
-    <w w='машина' fa='die' fw= 'Maschine, -n' p='noun' />
-    <w w='единица меры' fa='die' fw= 'Maßeinheit, -en' p='noun' />
-    <w w='матрац' fa='die' fw= 'Matratze, -en' p='noun' />
-    <w w='медицина' fa='die' fw= 'Medizin (Sing)' p='noun' />
-    <w w='мнение' fa='die' fw= 'Meinung, -en' p='noun' />
-    <w w='данные о количестве' fa='die' fw= 'Mengenangabe, -n' p='noun' />
-    <w w='квартплата' fa='die' fw= 'Miete, -n' p='noun' />
-    <w w='миграция' fa='die' fw= 'Migration, -en' p='noun' />
-    <w w='молоко' fa='die' fw= 'Milch (nur Sing.)' p='noun' />
-    <w w='миллион' fa='die' fw= 'Million, en' p='noun' />
-    <w w='минута' fa='die' fw= 'Minute, -n' p='noun' />
-    <w w='обеденный перерыв' fa='die' fw= 'Mittagspause, -n' p='noun' />
-    <w w='сообщение' fa='die' fw= 'Mitteilung, -en' p='noun' />
-    <w w='месячная квартплата' fa='die' fw= 'Monatsmiete, -n' p='noun' />
-    <w w='музыка' fa='die' fw= 'Musik (nur Sing.)' p='noun' />
-    <w w='мама' fa='die' fw= 'Mutter' p='noun' />
-    <w w='сосед' fa='die' fw= 'Nachbarin, -nen' p='noun' />
-    <w w='сообщения, известия, новости' fa='die' fw= 'Nachrichten (nur Plural)' p='noun' />
-    <w w='суффикс' fa='die' fw= 'Nachsilbe, -n' p='noun' />
-    <w w='ночь' fa='die' fw= 'Nacht, -e' p='noun' />
-    <w w='близостъ' fa='die' fw= 'Nähe (Sing)' p='noun' />
-    <w w='нос' fa='die' fw= 'Nase, -n' p='noun' />
-    <w w='национальностъ' fa='die' fw= 'Nationalität, -en' p='noun' />
-    <w w='отрицание' fa='die' fw= 'Negation, -en' p='noun' />
-    <w w='оценка' fa='die' fw= 'Note, -n' p='noun' />
-    <w w='запись, заметка' fa='die' fw= 'Notiz, -en' p='noun' />
-    <w w='номер' fa='die' fw= 'Nummer, -n' p='noun' />
-    <w w='бабушка' fa='die' fw= 'Oma, -s' p='noun' />
-    <w w='апельсин' fa='die' fw= 'Orange' p='noun' />
-    <w w='порядковое числительное' fa='die' fw= 'Ordinalzahl, -en' p='noun' />
-    <w w='ориентация' fa='die' fw= 'Orientierung (Sing)' p='noun' />
-    <w w='упаковка' fa='die' fw= 'Packung, -en' p='noun' />
-    <w w='партнерша' fa='die' fw= 'Partnerin, -nen' p='noun' />
-    <w w='вечеринка' fa='die' fw= 'Party, -s' p='noun' />
-    <w w='общая цена ремонта' fa='die' fw= 'Pauschalpreisreparatur, -en' p='noun' />
-    <w w='пауза, перерыв' fa='die' fw= 'Pause, -n' p='noun' />
-    <w w='особа, персона' fa='die' fw= 'Person, -en' p='noun' />
-    <w w='растение' fa='die' fw= 'Pflanze, -n' p='noun' />
-    <w w='фонетика' fa='die' fw= 'Phonetik (Sing.)' p='noun' />
-    <w w='позиция' fa='die' fw= 'Position, -en' p='noun' />
-    <w w='почта' fa='die' fw= 'Post (Sing)' p='noun' />
-    <w w='почтовый индекс' fa='die' fw= 'Postleitzahl, -en' p='noun' />
-    <w w='прогноз' fa='die' fw= 'Prognose, -n' p='noun' />
-    <w w='экзаменаторша' fa='die' fw= 'Prüferin, -nen' p='noun' />
-    <w w='экзамен' fa='die' fw= 'Prüfung, en' p='noun' />
-    <w w='помощь в уборке' fa='die' fw= 'Putzhilfe, -n' p='noun' />
-    <w w='тур на велосипеде' fa='die' fw= 'Radtour, -en' p='noun' />
-    <w w='ракета' fa='die' fw= 'Rakete, -n' p='noun' />
-    <w w='счет' fa='die' fw= 'Rechnung, -en' p='noun' />
-    <w w='способность к самоочищению' fa='die' fw= 'Reinigungskraft, -..e' p='noun' />
-    <w w='путешествие' fa='die' fw= 'Reise, -n' p='noun' />
-    <w w='ремонт' fa='die' fw= 'Reparatur, -en' p='noun' />
-    <w w='обозрение' fa='die' fw= 'Rundschau (Sing)' p='noun' />
-    <w w='трамвай' fa='die' fw= 'S-Bahn, -en' p='noun' />
-    <w w='вещь' fa='die' fw= 'Sache, -n' p='noun' />
-    <w w='сливки' fa='die' fw= 'Sahne (Sing.)' p='noun' />
-    <w w='мазь' fa='die' fw= 'Salbe, -n' p='noun' />
-    <w w='интонация предложения' fa='die' fw= 'Satzmelo, -n' p='noun' />
-    <w w='поиск сокровищ' fa='die' fw= 'Schatzsuche (Sing)' p='noun' />
-    <w w='боли' fa='die' fw= 'Schmerzen (Plural)' p='noun' />
-    <w w='шоколад' fa='die' fw= 'Schokolade, -n' p='noun' />
-    <w w='шоколадное молоко' fa='die' fw= 'Schokomilch (Sing.)' p='noun' />
-    <w w='канцелярские принадлежности' fa='die' fw= 'Schreibwaren (Plural)' p='noun' />
-    <w w='школа' fa='die' fw= 'Schule, -n' p='noun' />
-    <w w='ученица' fa='die' fw= 'Schülerin, nen' p='noun' />
-    <w w='школьный кулек' fa='die' fw= 'Schultüte,-en' p='noun' />
-    <w w='сестра' fa='die' fw= 'Schwester, -n' p='noun' />
-    <w w='сторона, страница' fa='die' fw= 'Seite, -n' p='noun' />
-    <w w='секретарша' fa='die' fw= 'Sekretärin, -nen' p='noun' />
-    <w w='секунда' fa='die' fw= 'Sekunde, -n' p='noun' />
-    <w w='сервисная услуга' fa='die' fw= 'Serviceleistung, -en' p='noun' />
-    <w w='безопасность' fa='die' fw= 'Sicherheit, -en' p='noun' />
-    <w w='ситуация' fa='die' fw= 'Situation, en' p='noun' />
-    <w w='специальная акция' fa='die' fw= 'Sonderaktion, -en' p='noun' />
-    <w w='солнце' fa='die' fw= 'Sonne, -n' p='noun' />
-    <w w='меню в ресторане или кафе' fa='die' fw= 'Speisekarte, -n' p='noun' />
-    <w w='язык' fa='die' fw= 'Sprache, -n' p='noun' />
-    <w w='языковая школа' fa='die' fw= 'Sprachschule, -n' p='noun' />
-    <w w='приемное время' fa='die' fw= 'Sprechstunde, -n' p='noun' />
-    <w w='часы приема' fa='die' fw= 'Sprechzeit, -en' p='noun' />
-    <w w='гражданство' fa='die' fw= 'Staatsangehörigkeit (Sing)' p='noun' />
-    <w w='город' fa='die' fw= 'Stadt, -..e' p='noun' />
-    <w w='городская библиотека' fa='die' fw= 'Stadtbibliothek, -en' p='noun' />
-    <w w='станция' fa='die' fw= 'Station, -en' p='noun' />
-    <w w='розетка' fa='die' fw= 'Steckdose, -n' p='noun' />
-    <w w='место' fa='die' fw= 'Stelle, -n' p='noun' />
-    <w w='реклама' fa='die' fw= 'Stellenanzeige, -n' p='noun' />
-    <w w='улица' fa='die' fw= 'Straße, -n' p='noun' />
-    <w w='трамвай' fa='die' fw= 'Straßenbahn, -en' p='noun' />
-    <w w='стратегия' fa='die' fw= 'Strategie, -n' p='noun' />
-    <w w='строфа' fa='die' fw= 'Strophe, -n' p='noun' />
-    <w w='час' fa='die' fw= 'Stunde, -n' p='noun' />
-    <w w='таблица' fa='die' fw= 'Tabelle, n' p='noun' />
-    <w w='таблетка' fa='die' fw= 'Tablette, -n' p='noun' />
-    <w w='доска' fa='die' fw= 'Tafel, -n' p='noun' />
-    <w w='время суток' fa='die' fw= 'Tageszeit, -en' p='noun' />
-    <w w='сумка' fa='die' fw= 'Tasche, -n' p='noun' />
-    <w w='чашка' fa='die' fw= 'Tasse, -n' p='noun' />
-    <w w='телефонное объявление' fa='die' fw= 'Telefonansage, -n' p='noun' />
-    <w w='температура' fa='die' fw= 'Temperatur, -en' p='noun' />
-    <w w='терасса' fa='die' fw= 'Terrasse, -n' p='noun' />
-    <w w='глубина' fa='die' fw= 'Tiefe, -n' p='noun' />
-    <w w='дочь' fa='die' fw= 'Tochter, -..e' p='noun' />
-    <w w='туалет' fa='die' fw= 'Toilette, -n' p='noun' />
-    <w w='помидор' fa='die' fw= 'Tomate, -n' p='noun' />
-    <w w='лестница' fa='die' fw= 'Treppe, -n' p='noun' />
-    <w w='дверь' fa='die' fw= 'Tür, -en' p='noun' />
-    <w w='метро' fa='die' fw= 'U-Bahn, -en' p='noun' />
-    <w w='сторона обзора' fa='die' fw= 'Übersichtsseite, -n' p='noun' />
-    <w w='упражнение' fa='die' fw= 'Übung, -en' p='noun' />
-    <w w='учение, упражнение' fa='die' fw= 'Übung, -en' p='noun' />
-    <w w='часы' fa='die' fw= 'Uhr, -en' p='noun' />
-    <w w='страница обложки' fa='die' fw= 'Umschlagseite, -n' p='noun' />
-    <w w='университет' fa='die' fw= 'Universität, -e' p='noun' />
-    <w w='документы' fa='die' fw= 'Unterlagen (Sing)' p='noun' />
-    <w w='подпись' fa='die' fw= 'Unterschrift, -en' p='noun' />
-    <w w='США' fa='die' fw= 'USA (Plural)' p='noun' />
-    <w w='вариант' fa='die' fw= 'Variante, -en' p='noun' />
-    <w w='вариант' fa='die' fw= 'Variation, -en' p='noun' />
-    <w w='встреча, свидание' fa='die' fw= 'Verabredung, -en' p='noun' />
-    <w w='основа для переговоров' fa='die' fw= 'Verhandlungsbasis, -basen' p='noun' />
-    <w w='продавщица' fa='die' fw= 'Verkäuferin, -nen' p='noun' />
-    <w w='страховая карточка' fa='die' fw= 'Versichertenkarte, -n' p='noun' />
-    <w w='страховка' fa='die' fw= 'Versicherung, -en' p='noun' />
-    <w w='опоздание' fa='die' fw= 'Verspätung, -en' p='noun' />
-    <w w='четверть часа' fa='die' fw= 'Viertelstunde, -n' p='noun' />
-    <w w='влюбленность' fa='die' fw= 'Vorliebe, -n' p='noun' />
-    <w w='осторожность' fa='die' fw= 'Vorsicht (Sing.)' p='noun' />
-    <w w='представление' fa='die' fw= 'Vorstellung, -en' p='noun' />
-    <w w='стенгазета' fa='die' fw= 'Wandzeitung, -en' p='noun' />
-    <w w='квартплата за все' fa='die' fw= 'Warmmiete, -n' p='noun' />
-    <w w='стиральная машина' fa='die' fw= 'Waschmaschine, -n' p='noun' />
-    <w w='бутылка вина' fa='die' fw= 'Weinflasche, -n' p='noun' />
-    <w w='виноград' fa='die' fw= 'Weintraube, -n' p='noun' />
-    <w w='поворот/оборот' fa='die' fw= 'Wendung, -en' p='noun' />
-    <w w='мастерская' fa='die' fw= 'Werkstatt, -..en' p='noun' />
-    <w w='луг' fa='die' fw= 'Wiese, -n' p='noun' />
-    <w w='неделя' fa='die' fw= 'Woche, -n' p='noun' />
-    <w w='квартира' fa='die' fw= 'Wohnung, -en' p='noun' />
-    <w w='объявление о жил.площади' fa='die' fw= 'Wohnungsanzeige, -n' p='noun' />
-    <w w='словообразование' fa='die' fw= 'Worbildung, -en' p='noun' />
-    <w w='колбаса' fa='die' fw= 'Wurst,-..e' p='noun' />
-    <w w='число' fa='die' fw= 'Zahl, -en' p='noun' />
-    <w w='рисунок, чертеж' fa='die' fw= 'Zeichnung, -en' p='noun' />
-    <w w='время' fa='die' fw= 'Zeit, -en' p='noun' />
-    <w w='газета' fa='die' fw= 'Zeitung, -en' p='noun' />
-    <w w='сигарета' fa='die' fw= 'Zigarette, -n' p='noun' />
-    <w w='таможенный контроль' fa='die' fw= 'Zollkontrolle, -n' p='noun' />
-    <w w='согласие' fa='die' fw= 'Zusage, -n' p='noun' />
-    <w w='согласие' fa='die' fw= 'Zustimmung, -en' p='noun' />
-    <w w='родственник' fa='die' fw= 'der Angehörige, -n (ein Angehöriger)' p='noun' />
-    <w w='взрослый (ая)' fa='die' fw= 'der Erwachsene, -n (ein Erwachsener)' p='noun' />
-    <w w='диктовать' fa='' fw= 'diktieren' p='verb' />
-    <w w='прямой' fa='' fw= 'direkt' p='N/A' />
-    <w w='там' fa='' fw= 'dort' p='N/A' />
-    <w w='снаружи' fa='' fw= 'draußen' p='verb' />
-    <w w='трижды' fa='' fw= 'dreimal' p='N/A' />
-    <w w='срочно' fa='' fw= 'dringend' p='N/A' />
-    <w w='внутри' fa='' fw= 'drüben' p='verb' />
-    <w w='нажимать' fa='' fw= 'drücken' p='verb' />
-    <w w='темный' fa='' fw= 'dunkel' p='N/A' />
-    <w w='также' fa='' fw= 'ebenso' p='N/A' />
-    <w w='настоящий' fa='' fw= 'echt' p='N/A' />
-    <w w='спешный' fa='' fw= 'eilig' p='N/A' />
-    <w w='немного' fa='' fw= 'ein bisschen' p='verb' />
-    <w w='простой' fa='' fw= 'einfach' p='N/A' />
-    <w w='несколько' fa='' fw= 'einige' p='N/A' />
-    <w w='некоторая (ые)' fa='' fw= 'einige' p='N/A' />
-    <w w='покупатъ' fa='' fw= 'einkaufen' p='verb' />
-    <w w='приглашать' fa='' fw= 'einladen' p='verb' />
-    <w w='один раз' fa='' fw= 'einmal' p='N/A' />
-    <w w='подобратъ' fa='' fw= 'einordnen' p='verb' />
-    <w w='садитъся (в транспорт)' fa='' fw= 'einsetzen' p='verb' />
-    <w w='вставлятъ' fa='' fw= 'einsteigen' p='verb' />
-    <w w='вносить' fa='' fw= 'eintragen' p='verb' />
-    <w w='отдельный' fa='' fw= 'einzeln' p='N/A' />
-    <w w='въезжатъ (в квартиру)' fa='' fw= 'einziehen' p='verb' />
-    <w w='наконец' fa='' fw= 'endlich' p='N/A' />
-    <w w='узкий' fa='' fw= 'eng' p='N/A' />
-    <w w='извинятъ' fa='' fw= 'entschuldigen' p='verb' />
-    <w w='Извините,' fa='' fw= 'Entschuldigen Sie! ...' p='N/A' />
-    <w w='необходимо' fa='' fw= 'erforderlich' p='N/A' />
-    <w w='дополнять' fa='' fw= 'ergänzen' p='verb' />
-    <w w='получать' fa='' fw= 'erhalten' p='verb' />
-    <w w='объяснить' fa='' fw= 'erklären' p='verb' />
-    <w w='объяснятъ' fa='' fw= 'erklären' p='verb' />
-    <w w='разрешенный' fa='' fw= 'erlaubt' p='N/A' />
-    <w w='сделать, выполнитъ' fa='' fw= 'erledigen' p='verb' />
-    <w w='достигать' fa='' fw= 'erreichen' p='verb' />
-    <w w='заменитъ' fa='' fw= 'ersetzen' p='verb' />
-    <w w='только' fa='' fw= 'erst' p='N/A' />
-    <w w='рассказывать' fa='' fw= 'erzählen' p='verb' />
-    <w w='естъ (кушать)' fa='' fw= 'essen' p='verb' />
-    <w w='превосходный' fa='' fw= 'exquisit' p='N/A' />
-    <w w='ехатъ' fa='' fw= 'fahren' p='verb' />
-    <w w='неправильный' fa='' fw= 'falsch' p='N/A' />
-    <w w='почти' fa='' fw= 'fast' p='N/A' />
-    <w w='недоставатъ, нехватать' fa='' fw= 'fehlen' p='verb' />
-    <w w='отсутствоватъ' fa='' fw= 'fehlen' p='verb' />
-    <w w='недостающий' fa='' fw= 'fehlend' p='N/A' />
-    <w w='праздноватъ' fa='' fw= 'feiern' p='N/A' />
-    <w w='праздновать' fa='' fw= 'feiern' p='N/A' />
-    <w w='женский род' fa='' fw= 'feminin' p='N/A' />
-    <w w='дальний, отдаленный' fa='' fw= 'fern' p='N/A' />
-    <w w='смотретъ ТВ' fa='' fw= 'fernsehen' p='verb' />
-    <w w='готовый' fa='' fw= 'fertig' p='N/A' />
-    <w w='находить' fa='' fw= 'finden' p='verb' />
-    <w w='гибкий' fa='' fw= 'flexibel' p='N/A' />
-    <w w='лететь' fa='' fw= 'fliegen' p='verb' />
-    <w w='следоватъ' fa='' fw= 'folgen' p='verb' />
-    <w w='следующий' fa='' fw= 'folgende' p='N/A' />
-    <w w='формально' fa='' fw= 'formell' p='N/A' />
-    <w w='спрашивать' fa='' fw= 'fragen' p='verb' />
-    <w w='свободный' fa='' fw= 'frei' p='N/A' />
-    <w w='чужой' fa='' fw= 'fremd' p='N/A' />
-    <w w='радовать' fa='' fw= 'freuen' p='verb' />
-    <w w='дружеский, дружелюбный' fa='' fw= 'freundlich' p='N/A' />
-    <w w='ранний' fa='' fw= 'früh' p='N/A' />
-    <w w='ранее' fa='' fw= 'früher' p='N/A' />
-    <w w='завтракать' fa='' fw= 'frühstücken' p='verb' />
-    <w w='функционировать' fa='' fw= 'funktionieren' p='verb' />
-    <w w='для' fa='' fw= 'für' p='N/A' />
-    <w w='весь, целый' fa='' fw= 'ganz' p='N/A' />
-    <w w='совсем никакие' fa='' fw= 'gar keine' p='N/A' />
-    <w w='совсем не' fa='' fw= 'gar nicht' p='N/A' />
-    <w w='совсем ничего' fa='' fw= 'gar nichts' p='N/A' />
-    <w w='даватъ' fa='' fw= 'geben' p='verb' />
-    <w w='рожденный' fa='' fw= 'geboren' p='verb' />
-    <w w='подержанный, использованный' fa='' fw= 'gebraucht' p='N/A' />
-    <w w='нравиться' fa='' fw= 'gefallen' p='verb' />
-    <w w='против' fa='' fw= 'gegen' p='verb' />
-    <w w='идти' fa='' fw= 'gehen' p='verb' />
-    <w w='принадлежать' fa='' fw= 'gehören' p='verb' />
-    <w w='желтый' fa='' fw= 'gelb' p='N/A' />
-    <w w='именно' fa='' fw= 'genau' p='N/A' />
-    <w w='обобщенно' fa='' fw= 'generell' p='N/A' />
-    <w w='достаточно' fa='' fw= 'genug' p='N/A' />
-    <w w='открытый' fa='' fw= 'geöffnet' p='N/A' />
-    <w w='прямо' fa='' fw= 'geradeaus' p='N/A' />
-    <w w='охотно' fa='' fw= 'gern' p='N/A' />
-    <w w='разведенный' fa='' fw= 'geschieden' p='verb' />
-    <w w='закрыто' fa='' fw= 'geschlossen' p='verb' />
-    <w w='вчера' fa='' fw= 'gestern' p='N/A' />
-    <w w='здоровый' fa='' fw= 'gesund' p='N/A' />
-    <w w='литъ, поливатъ' fa='' fw= 'gießen' p='verb' />
-    <w w='полагать, верить' fa='' fw= 'glauben' p='verb' />
-    <w w='верить, полагать' fa='' fw= 'glauben' p='verb' />
-    <w w='сейчас, немедленно' fa='' fw= 'gleich' p='N/A' />
-    <w w='счастливый' fa='' fw= 'glücklich' p='N/A' />
-    <w w='поздравлять' fa='' fw= 'gratulieren' p='verb' />
-    <w w='серый' fa='' fw= 'grau' p='N/A' />
-    <w w='жарить на гриле' fa='' fw= 'grillen' p='verb' />
-    <w w='большой' fa='' fw= 'groß' p='N/A' />
-    <w w='зеленый' fa='' fw= 'grün' p='N/A' />
-    <w w='смотреть' fa='' fw= 'gucken' p='verb' />
-    <w w='недорогой' fa='' fw= 'günstig' p='N/A' />
-    <w w='хороший' fa='' fw= 'gut' p='N/A' />
-    <w w='Скорейшего выздоровления!' fa='' fw= 'Gute Besserung!' p='N/A' />
-    <w w='иметь' fa='' fw= 'haben' p='verb' />
-    <w w='половина' fa='' fw= 'halb' p='N/A' />
-    <w w='привет' fa='' fw= 'Hallo' p='N/A' />
-    <w w='останавливаться' fa='' fw= 'halten' p='verb' />
-    <w w='некрасивый' fa='' fw= 'hässlich' p='N/A' />
-    <w w='жениться, выходить замуж' fa='' fw= 'heiraten' p='verb' />
-    <w w='называтъ' fa='' fw= 'heißen' p='verb' />
-    <w w='помогатъ' fa='' fw= 'helfen' p='verb' />
-    <w w='яркий' fa='' fw= 'hell' p='N/A' />
-    <w w='слушать' fa='' fw= 'herhören' p='verb' />
-    <w w='сегодня' fa='' fw= 'heute' p='N/A' />
-    <w w='здесъ' fa='' fw= 'hier' p='N/A' />
-    <w w='отвозить' fa='' fw= 'hinfahren' p='verb' />
-    <w w='падатъ' fa='' fw= 'hinfallen' p='verb' />
-    <w w='высокий' fa='' fw= 'hoch' p='N/A' />
-    <w w='надеяться' fa='' fw= 'hoffen' p='verb' />
-    <w w='надеюсь, что' fa='' fw= 'hoffentlich' p='N/A' />
-    <w w='вежливый' fa='' fw= 'höflich' p='N/A' />
-    <w w='забиратъ' fa='' fw= 'holen' p='verb' />
-    <w w='слушатъ' fa='' fw= 'hören' p='verb' />
-    <w w='в месяц' fa='' fw= 'im Monat' p='N/A' />
-    <w w='всегда' fa='' fw= 'immer' p='N/A' />
-    <w w='ночью' fa='' fw= 'in der Nacht' p='N/A' />
-    <w w='в порядке' fa='' fw= 'In Ordnung' p='N/A' />
-    <w w='неофициально' fa='' fw= 'informell' p='N/A' />
-    <w w='информировать' fa='' fw= 'informieren' p='verb' />
-    <w w='интересный' fa='' fw= 'interessant' p='N/A' />
-    <w w='международный' fa='' fw= 'international' p='N/A' />
-    <w w='италъянский' fa='' fw= 'italienisch' p='N/A' />
-    <w w='японский' fa='' fw= 'japanisch' p='N/A' />
-    <w w='каждая' fa='' fw= 'jede' p='N/A' />
-    <w w='кто-то' fa='' fw= 'jemand' p='N/A' />
-    <w w='сейчас' fa='' fw= 'jetzt' p='N/A' />
-    <w w='соответственно' fa='' fw= 'jeweils' p='N/A' />
-    <w w='делать пробежки (например, по утрам)' fa='' fw= 'joggen' p='verb' />
-    <w w='холодный' fa='' fw= 'kalt' p='N/A' />
-    <w w='купить' fa='' fw= 'kaufen' p='verb' />
-    <w w='знатъ' fa='' fw= 'kennen' p='verb' />
-    <w w='познакомиться' fa='' fw= 'kennen lernen' p='verb' />
-    <w w='ясный' fa='' fw= 'klar' p='N/A' />
-    <w w='маленький' fa='' fw= 'klein' p='N/A' />
-    <w w='готовитъ' fa='' fw= 'kochen' p='verb' />
-    <w w='приходитъ' fa='' fw= 'kommen' p='verb' />
-    <w w='компетентный' fa='' fw= 'kompetent' p='N/A' />
-    <w w='полный, комплектный' fa='' fw= 'komplett' p='N/A' />
-    <w w='исправлять' fa='' fw= 'korrigieren' p='verb' />
-    <w w='стоитъ' fa='' fw= 'kosten' p='verb' />
-    <w w='больной' fa='' fw= 'krank' p='N/A' />
-    <w w='хорватский' fa='' fw= 'kroatisch' p='N/A' />
-    <w w='короткий' fa='' fw= 'kurz' p='N/A' />
-    <w w='смеятъся' fa='' fw= 'lachen' p='verb' />
-    <w w='заряжатъ' fa='' fw= 'laden' p='verb' />
-    <w w='длинный' fa='' fw= 'lang' p='N/A' />
-    <w w='долго' fa='' fw= 'lange' p='N/A' />
-    <w w='медленный' fa='' fw= 'langsam' p='N/A' />
-    <w w='бегать' fa='' fw= 'laufen' p='verb' />
-    <w w='громкий' fa='' fw= 'laut' p='N/A' />
-    <w w='житъ' fa='' fw= 'leben' p='verb' />
-    <w w='живой' fa='' fw= 'lebend' p='N/A' />
-    <w w='холостой/незамужняя' fa='' fw= 'ledig' p='N/A' />
-    <w w='кластъ, положитъ' fa='' fw= 'legen' p='verb' />
-    <w w='легкий' fa='' fw= 'leicht' p='N/A' />
-    <w w='к сожалению' fa='' fw= 'leider' p='N/A' />
-    <w w='одалживатъ' fa='' fw= 'leihen' p='verb' />
-    <w w='тихо' fa='' fw= 'leise' p='N/A' />
-    <w w='учить' fa='' fw= 'lernen' p='verb' />
-    <w w='читать' fa='' fw= 'lesen' p='verb' />
-    <w w='любитъ' fa='' fw= 'lieben' p='verb' />
-    <w w='доставлять' fa='' fw= 'liefern' p='N/A' />
-    <w w='находитъся, лежать' fa='' fw= 'liegen' p='verb' />
-    <w w='слева' fa='' fw= 'links' p='N/A' />
-    <w w='решатъ' fa='' fw= 'lösen' p='verb' />
-    <w w='смешной' fa='' fw= 'lustig' p='N/A' />
-    <w w='делать' fa='' fw= 'machen' p='verb' />
-    <w w='иногда' fa='' fw= 'manchmal' p='N/A' />
-    <w w='отмечатъ' fa='' fw= 'markieren' p='verb' />
-    <w w='мужской род' fa='' fw= 'maskulin' p='N/A' />
-    <w w='еще' fa='' fw= 'mehr' p='N/A' />
-    <w w='в основном' fa='' fw= 'meist' p='N/A' />
-    <w w='заявлятъ' fa='' fw= 'melden' p='verb' />
-    <w w='сниматъ (квартиру)' fa='' fw= 'mieten' p='verb' />
-    <w w='минимальмый' fa='' fw= 'minimal' p='N/A' />
-    <w w='минус' fa='' fw= 'minus' p='N/A' />
-    <w w='мешатъ' fa='' fw= 'mischen' p='verb' />
-    <w w='приносить с собой' fa='' fw= 'mitbringen' p='verb' />
-    <w w='ехать вместе с кем-то' fa='' fw= 'mitfahren' p='verb' />
-    <w w='идти вместе с кем-то' fa='' fw= 'mitgehen' p='verb' />
-    <w w='пойти вместе' fa='' fw= 'mitkommen' p='verb' />
-    <w w='учавствоватъ' fa='' fw= 'mitmachen' p='verb' />
-    <w w='братъ с собой' fa='' fw= 'mitnehmen' p='verb' />
-    <w w='петь вместе с кем-то' fa='' fw= 'mitsingen' p='verb' />
-    <w w='меблированный' fa='' fw= 'möbliert' p='N/A' />
-    <w w='современный' fa='' fw= 'modern' p='N/A' />
-    <w w='возможный' fa='' fw= 'möglich' p='N/A' />
-    <w w='по утрам' fa='' fw= 'morgens' p='N/A' />
-    <w w='уставший' fa='' fw= 'müde' p='N/A' />
-    <w w='устный' fa='' fw= 'mündlich' p='N/A' />
-    <w w='домой' fa='' fw= 'nach Hause' p='N/A' />
-    <w w='справляться' fa='' fw= 'nachfragen' p='verb' />
-    <w w='подражать' fa='' fw= 'nachmachen' p='verb' />
-    <w w='посмотретъ' fa='' fw= 'nachsehen' p='verb' />
-    <w w='повторитъ' fa='' fw= 'nachsprechen' p='verb' />
-    <w w='а именно, т.е., т.к.' fa='' fw= 'nämlich' p='N/A' />
-    <w w='а именно' fa='' fw= 'nämlich' p='N/A' />
-    <w w='братъ' fa='' fw= 'nehmen' p='verb' />
-    <w w='называть' fa='' fw= 'nennen' p='verb' />
-    <w w='приятный' fa='' fw= 'nett' p='N/A' />
-    <w w='новый' fa='' fw= 'neu' p='N/A' />
-    <w w='средний род' fa='' fw= 'neutral' p='N/A' />
-    <w w='никогда' fa='' fw= 'nie' p='N/A' />
-    <w w='еще' fa='' fw= 'noch' p='N/A' />
-    <w w='отмечать' fa='' fw= 'notieren' p='verb' />
-    <w w='отмечать, замечать' fa='' fw= 'notieren' p='verb' />
-    <w w='нуль' fa='' fw= 'null' p='N/A' />
-    <w w='только' fa='' fw= 'nur' p='N/A' />
-    <w w='или' fa='' fw= 'oder' p='N/A' />
-    <w w='открытый' fa='' fw= 'offen -' p='N/A' />
-    <w w='общественный' fa='' fw= 'öffentlich' p='N/A' />
-    <w w='официальный' fa='' fw= 'offiziell' p='N/A' />
-    <w w='открывать' fa='' fw= 'öffnen' p='verb' />
-    <w w='часто' fa='' fw= 'oft' p='N/A' />
-    <w w='без' fa='' fw= 'ohne' p='N/A' />
-    <w w='располагать, упорядочивать' fa='' fw= 'ordnen' p='verb' />
-    <w w='парковаться' fa='' fw= 'parken' p='verb' />
-    <w w='подходитъ' fa='' fw= 'passen' p='verb' />
-    <w w='происходить, случаться' fa='' fw= 'passieren' p='verb' />
-    <w w='плюс' fa='' fw= 'plus' p='N/A' />
-    <w w='практичный' fa='' fw= 'praktisch' p='N/A' />
-    <w w='выгодный по цене' fa='' fw= 'preiswert' p='N/A' />
-    <w w='что надо!' fa='' fw= 'prima' p='N/A' />
-    <w w='частный' fa='' fw= 'privat' p='N/A' />
-    <w w='сдавать экзамен' fa='' fw= 'prüfen' p='verb' />
-    <w w='пунктуальный' fa='' fw= 'pünktlich' p='N/A' />
-    <w w='курить' fa='' fw= 'rauchen' p='verb' />
-    <w w='направо' fa='' fw= 'rechts' p='N/A' />
-    <w w='идет дождь' fa='' fw= 'regnen, es regnet' p='N/A' />
-    <w w='совсем, сюда чистый' fa='' fw= 'rein' p='N/A' />
-    <w w='путешествовать' fa='' fw= 'reisen' p='verb' />
-    <w w='ремонтировать' fa='' fw= 'reparieren' p='verb' />
-    <w w='обязательное резервирование' fa='' fw= 'reservierungspflichtig' p='N/A' />
-    <w w='остальной' fa='' fw= 'restlich' p='N/A' />
-    <w w='правильный' fa='' fw= 'richtig' p='N/A' />
-    <w w='красный' fa='' fw= 'rot' p='N/A' />
-    <w w='назад' fa='' fw= 'rückwärts' p='N/A' />
-    <w w='звонить' fa='' fw= 'rufen' p='verb' />
-    <w w='тихий' fa='' fw= 'ruhig' p='N/A' />
-    <w w='круглый' fa='' fw= 'rund' p='N/A' />
-    <w w='сказать' fa='' fw= 'sagen' p='verb' />
-    <w w='собирать, коллекционироватъ' fa='' fw= 'sammeln' p='N/A' />
-    <w w='чистый' fa='' fw= 'sauber' p='N/A' />
-    <w w='жаль' fa='' fw= 'schade' p='N/A' />
-    <w w='смотретъ' fa='' fw= 'schauen' p='verb' />
-    <w w='сиятъ' fa='' fw= 'scheinen' p='verb' />
-    <w w='посылать, отправлять' fa='' fw= 'schicken' p='verb' />
-    <w w='спатъ' fa='' fw= 'schlafen' p='verb' />
-    <w w='плохой' fa='' fw= 'schlecht' p='N/A' />
-    <w w='закрывать' fa='' fw= 'schließen' p='verb' />
-    <w w='плохой' fa='' fw= 'schlimm' p='N/A' />
-    <w w='узкий' fa='' fw= 'schmal' p='N/A' />
-    <w w='пробовать, отведать и остаться довольным' fa='' fw= 'schmecken' p='verb' />
-    <w w='грязный' fa='' fw= 'schmutzig' p='N/A' />
-    <w w='идет снег' fa='' fw= 'schneien, es schneit' p='N/A' />
-    <w w='быстрый' fa='' fw= 'schnell' p='N/A' />
-    <w w='уже' fa='' fw= 'schon' p='N/A' />
-    <w w='красивый' fa='' fw= 'schön' p='N/A' />
-    <w w='уже давно' fa='' fw= 'schon lange' p='N/A' />
-    <w w='писать' fa='' fw= 'schreiben' p='verb' />
-    <w w='черный' fa='' fw= 'schwarz' p='N/A' />
-    <w w='тяжело' fa='' fw= 'schwer' p='N/A' />
-    <w w='тяжелый' fa='' fw= 'schwierig' p='N/A' />
-    <w w='плавать' fa='' fw= 'schwimmen' p='verb' />
-    <w w='видеть' fa='' fw= 'sehen' p='verb' />
-    <w w='очень' fa='' fw= 'sehr' p='N/A' />
-    <w w='сам' fa='' fw= 'selbst' p='N/A' />
-    <w w='самостоятельный' fa='' fw= 'selbstständig' p='N/A' />
-    <w w='отдельный' fa='' fw= 'separat' p='N/A' />
-    <w w='уверенный' fa='' fw= 'sicher' p='N/A' />
-    <w w='петь' fa='' fw= 'singen' p='verb' />
-    <w w='падать, опускатъся, тонутъ' fa='' fw= 'sinken' p='verb' />
-    <w w='сидеть' fa='' fw= 'sitzen' p='verb' />
-    <w w='сейчас, немедленно' fa='' fw= 'sofort' p='N/A' />
-    <w w='сразу' fa='' fw= 'sofort' p='N/A' />
-    <w w='такие, такая' fa='' fw= 'solche' p='N/A' />
-    <w w='солнечный' fa='' fw= 'sonnig' p='N/A' />
-    <w w='еще' fa='' fw= 'sonst' p='N/A' />
-    <w w='заботиться' fa='' fw= 'sorgen' p='verb' />
-    <w w='поздно' fa='' fw= 'spät' p='N/A' />
-    <w w='идти прогулятъся' fa='' fw= 'spazieren gehen' p='verb' />
-    <w w='играть' fa='' fw= 'spielen' p='verb' />
-    <w w='говорить' fa='' fw= 'sprechen' p='verb' />
-    <w w='сильный' fa='' fw= 'stark' p='N/A' />
-    <w w='состояться' fa='' fw= 'stattfinden' p='verb' />
-    <w w='втыкать, вкладывать' fa='' fw= 'stecken' p='verb' />
-    <w w='стоять' fa='' fw= 'stehen' p='verb' />
-    <w w='подниматъся' fa='' fw= 'steigen' p='verb' />
-    <w w='ставить' fa='' fw= 'stellen' p='verb' />
-    <w w='быть верным (корректным)' fa='' fw= 'stimmen' p='verb' />
-    <w w='подчеркивать' fa='' fw= 'streichen' p='verb' />
-    <w w='бастовать' fa='' fw= 'streiken' p='verb' />
-    <w w='учиться, изучать что-то профессионально' fa='' fw= 'studieren' p='verb' />
-    <w w='искать' fa='' fw= 'suchen' p='verb' />
-    <w w='симпатичный' fa='' fw= 'sympathisch' p='N/A' />
-    <w w='ежедневный' fa='' fw= 'täglich' p='N/A' />
-    <w w='идти танцеватъ' fa='' fw= 'tanzen gehen' p='verb' />
-    <w w='принимать участие' fa='' fw= 'teilnehmen' p='verb' />
-    <w w='звонить по телефону' fa='' fw= 'telefonieren' p='verb' />
-    <w w='временный' fa='' fw= 'temporal' p='N/A' />
-    <w w='дорогой' fa='' fw= 'teuer' p='N/A' />
-    <w w='классный' fa='' fw= 'toll' p='N/A' />
-    <w w='полный, тотальный' fa='' fw= 'total' p='N/A' />
-    <w w='носить (одежду)' fa='' fw= 'tragen' p='verb' />
-    <w w='тренироваться' fa='' fw= 'trainieren' p='verb' />
-    <w w='встречать' fa='' fw= 'treffen' p='verb' />
-    <w w='отделимый' fa='' fw= 'trennbar' p='N/A' />
-    <w w='пить' fa='' fw= 'trinken' p='verb' />
-    <w w='все таки, не смотря на' fa='' fw= 'trotzdem' p='N/A' />
-    <w w='делать' fa='' fw= 'tun' p='N/A' />
-    <w w='над, об, о' fa='' fw= 'üben' p='verb' />
-    <w w='о, об, над' fa='' fw= 'über' p='N/A' />
-    <w w='везде' fa='' fw= 'überall' p='N/A' />
-    <w w='обдумывать' fa='' fw= 'überlegen' p='verb' />
-    <w w='послезавтра' fa='' fw= 'übermorgen' p='verb' />
-    <w w='передавать' fa='' fw= 'übertragen' p='verb' />
-    <w w='(обще)принятый' fa='' fw= 'üblich' p='N/A' />
-    <w w='пересаживаться' fa='' fw= 'umsteigen' p='verb' />
-    <w w='переезжать' fa='' fw= 'umziehen' p='verb' />
-    <w w='обязательно' fa='' fw= 'unbedingt' p='N/A' />
-    <w w='неизвестный' fa='' fw= 'unbekannt' p='N/A' />
-    <w w='неопределенный' fa='' fw= 'unbestimmt' p='N/A' />
-    <w w='и' fa='' fw= 'und' p='N/A' />
-    <w w='недружелюбный' fa='' fw= 'unfreundlich' p='N/A' />
-    <w w='около, приблизительно' fa='' fw= 'ungefähr' p='N/A' />
-    <w w='под' fa='' fw= 'unter' p='N/A' />
-    <w w='подписывать' fa='' fw= 'unterschreiben' p='verb' />
-    <w w='подчеркивать' fa='' fw= 'unterstreichen' p='verb' />
-    <w w='в дороге, дорогой' fa='' fw= 'unterwegs' p='N/A' />
-    <w w='неважный' fa='' fw= 'unwichtig' p='N/A' />
-    <w w='варъировать' fa='' fw= 'variieren' p='verb' />
-    <w w='провожать' fa='' fw= 'verabschieden' p='verb' />
-    <w w='связывать, соединять' fa='' fw= 'verbinden' p='verb' />
-    <w w='запрещено' fa='' fw= 'verboten' p='verb' />
-    <w w='связанный' fa='' fw= 'verbunden' p='verb' />
-    <w w='зарабатывать' fa='' fw= 'verdienen' p='verb' />
-    <w w='договариваться' fa='' fw= 'vereinbaren' p='verb' />
-    <w w='забывать' fa='' fw= 'vergessen' p='verb' />
-    <w w='состоять в браке, быть замужем женатым' fa='' fw= 'verheiratet' p='N/A' />
-    <w w='продавать' fa='' fw= 'verkaufen' p='verb' />
-    <w w='переносить' fa='' fw= 'verlegen' p='verb' />
-    <w w='поранить' fa='' fw= 'verletzen' p='verb' />
-    <w w='потерять' fa='' fw= 'verlieren' p='verb' />
-    <w w='сдавать внаем' fa='' fw= 'vermieten' p='verb' />
-    <w w='прятать' fa='' fw= 'verstecken' p='verb' />
-    <w w='понимать' fa='' fw= 'verstehen' p='verb' />
-    <w w='быть вдовцом вдовой, овдоветь' fa='' fw= 'verwitwet' p='N/A' />
-    <w w='много' fa='' fw= 'viel' p='N/A' />
-    <w w='возможно' fa='' fw= 'vielleicht' p='N/A' />
-    <w w='предполагаемый' fa='' fw= 'voraussichtlich' p='N/A' />
-    <w w='зайти, заглянуть' fa='' fw= 'vorbeikommen' p='verb' />
-    <w w='представлять' fa='' fw= 'vorstellen' p='verb' />
-    <w w='выбирать' fa='' fw= 'wählen' p='verb' />
-    <w w='во время, в то время как' fa='' fw= 'während' p='N/A' />
-    <w w='когда' fa='' fw= 'wann' p='N/A' />
-    <w w='теплый' fa='' fw= 'warm' p='N/A' />
-    <w w='ждать' fa='' fw= 'warten' p='verb' />
-    <w w='почему' fa='' fw= 'warum' p='N/A' />
-    <w w='что' fa='' fw= 'was' p='N/A' />
-    <w w='мыть' fa='' fw= 'waschen' p='verb' />
-    <w w='белый' fa='' fw= 'weiß' p='N/A' />
-    <w w='широкий' fa='' fw= 'weit' p='N/A' />
-    <w w='далее' fa='' fw= 'weiter' p='N/A' />
-    <w w='дальше, далее' fa='' fw= 'weiter' p='N/A' />
-    <w w='идти дальше' fa='' fw= 'weitergehen' p='verb' />
-    <w w='какой' fa='' fw= 'welche' p='N/A' />
-    <w w='мало' fa='' fw= 'wenig' p='N/A' />
-    <w w='кто' fa='' fw= 'wer' p='N/A' />
-    <w w='становиться' fa='' fw= 'werden' p='verb' />
-    <w w='по рабочим дням' fa='' fw= 'werktags' p='N/A' />
-    <w w='важный' fa='' fw= 'wichtig' p='N/A' />
-    <w w='как' fa='' fw= 'wie' p='N/A' />
-    <w w='снова' fa='' fw= 'wieder' p='N/A' />
-    <w w='скоро, вновь, опять' fa='' fw= 'wieder' p='N/A' />
-    <w w='повторять' fa='' fw= 'wiederholen' p='verb' />
-    <w w='ветренный' fa='' fw= 'windig' p='N/A' />
-    <w w='действительно' fa='' fw= 'wirklich' p='N/A' />
-    <w w='знать' fa='' fw= 'wissen' p='verb' />
-    <w w='где' fa='' fw= 'wo' p='N/A' />
-    <w w='еженедельно' fa='' fw= 'wöchentlich' p='N/A' />
-    <w w='откуда' fa='' fw= 'woher' p='N/A' />
-    <w w='жить, проживать' fa='' fw= 'wohnen' p='verb' />
-    <w w='хотетъ, желатъ' fa='' fw= 'wollen' p='verb' />
-    <w w='желать' fa='' fw= 'wünschen' p='verb' />
-    <w w='считать' fa='' fw= 'zahlen' p='verb' />
-    <w w='черитъ, рисовать' fa='' fw= 'zeichnen' p='verb' />
-    <w w='показывать' fa='' fw= 'zeigen' p='verb' />
-    <w w='тянуть' fa='' fw= 'ziehen' p='verb' />
-    <w w='сначала' fa='' fw= 'zuerst' p='N/A' />
-    <w w='довольный, удовлетворенный' fa='' fw= 'zufrieden' p='verb' />
-    <w w='закрывать' fa='' fw= 'zumachen' p='verb' />
-    <w w='подбирать, сочетатъ' fa='' fw= 'zuordnen' p='verb' />
-    <w w='обратно' fa='' fw= 'zurück' p='N/A' />
-    <w w='возвращаться' fa='' fw= 'zurückkommen' p='verb' />
-    <w w='ко времени' fa='' fw= 'zurzeit' p='N/A' />
-    <w w='вместе' fa='' fw= 'zusammen' p='verb' />
-    <w w='составлять' fa='' fw= 'zusammensetzen' p='verb' />
-    <w w='надежный, верный' fa='' fw= 'zuverlässig' p='N/A' />
-    <w w='во-вторых, вдвоем' fa='' fw= 'zweit, zu zweit' p='N/A' />
-    <w w='между' fa='' fw= 'zwischen' p='verb' />
-</data>
+    <data count='1350'>
+        <w w='Пасха' fa='das' fw='Ostern (Sing)' p='noun' />
+        <w w='Троица' fa='das' fw='Pfingsten' p='noun' />
+        <w w='Ночь перед Рождеством' fa='das' fw='Silvester (Sing)' p='noun' />
+        <w w='пятница' fa='der' fw='Freitag, -e' p='noun' />
+        <w w='градус' fa='der' fw='Grad, -e' p='noun' />
+        <w w='среда' fa='der' fw='Mittwoch,' p='noun' />
+        <w w='понедельник' fa='der' fw='Montag, -e' p='noun' />
+        <w w='суббота' fa='der' fw='Samstag, -e' p='noun' />
+        <w w='воскресение' fa='der' fw='Sonntag, -e' p='noun' />
+        <w w='мама' fa='die' fw='Mama, -s' p='noun' />
+        <w w='заботитъся' fw='(sich) kümmern' />
+        <w w='вечерами' fw='abends' />
+        <w w='но' fw='aber' />
+        <w w='отъезжать' fw='abfahren' p='verb' />
+        <w w='вылетать' fw='abfliegen' p='verb' />
+        <w w='сдавать' fw='abgeben' p='verb' />
+        <w w='встречать (забиратъ что-либо/кого-либо откуда-то)' fw='abholen' p='verb' />
+        <w w='восемь' fw='acht' />
+        <w w='следить за, обращать внимание на' fw='achten' p='verb' />
+        <w w='африканский' fw='afrikanisch' />
+        <w w='все' fw='alle' />
+        <w w='сам, один' fw='alleine' />
+        <w w='старый' fw='alt' />
+        <w w='вечером' fw='am Abend' />
+        <w w='во вторник' fw='am Dienstag' />
+        <w w='днем' fw='am Mittag' />
+        <w w='в понедельник' fw='am Montag' />
+        <w w='утром' fw='am Morgen' p='verb' />
+        <w w='в послеобеденное время' fw='am Nachmittag' />
+        <w w='в дообеденное время' fw='am Vormittag' />
+        <w w='амбулаторный' fw='ambulant' />
+        <w w='в приложении' fw='anbei' />
+        <w w='предлагать' fw='anbieten' p='verb' />
+        <w w='другие' fw='andere' />
+        <w w='другой' fw='anders' />
+        <w w='начинать' fw='anfangen' p='verb' />
+        <w w='прибывать' fw='ankommen' p='verb' />
+        <w w='отметить крестиком' fw='ankreuzen' p='verb' />
+        <w w='включать' fw='anmachen' p='verb' />
+        <w w='регистировать/заявлять' fw='anmelden' p='verb' />
+        <w w='(по)меритъ' fw='anprobieren' p='verb' />
+        <w w='окликатъ, звонить' fw='anrufen' p='verb' />
+        <w w='затем/сразу/после' fw='anschließend' />
+        <w w='(по)смотреть' fw='ansehen' p='verb' />
+        <w w='стоять в очереди' fw='anstehen' p='verb' />
+        <w w='отвечать' fw='antworten' p='verb' />
+        <w w='надевать' fw='anziehen' p='verb' />
+        <w w='работать' fw='arbeiten' p='verb' />
+        <w w='безработный' fw='arbeitslos' />
+        <w w='тоже' fw='auch' />
+        <w w='по-немецки' fw='auf Deutsch' />
+        <w w='До свидания (говорят по телефону)' fw='auf Wiederhören' p='verb' />
+        <w w='До свидания' fw='auf Wiedersehen' p='verb' />
+        <w w='наполнить доверху' fw='auffüllen' p='verb' />
+        <w w='открыть' fw='aufmachen' p='verb' />
+        <w w='быть внимателъным, осторожным' fw='aufpassen' p='verb' />
+        <w w='убиратъ, заниматься уборкой' fw='aufräumen' p='verb' />
+        <w w='прописатъ' fw='aufschreiben' p='verb' />
+        <w w='вставатъ' fw='aufstehen' p='verb' />
+        <w w='заполнять' fw='ausfüllen' p='verb' />
+        <w w='выключатъ' fw='ausmachen' p='verb' />
+        <w w='выглядитъ' fw='aussehen' p='verb' />
+        <w w='кроме того' fw='außerdem' />
+        <w w='выходитъ' fw='aussteigen' p='verb' />
+        <w w='выбирать' fw='auswählen' p='verb' />
+        <w w='купатъ' fw='baden' p='verb' />
+        <w w='скоро' fw='bald' />
+        <w w='обработатъ' fw='bearbeiten' p='verb' />
+        <w w='означать' fw='bedeuten' p='verb' />
+        <w w='начинатъ' fw='beginnen' p='verb' />
+        <w w='ограниченный' fw='begrenzt' />
+        <w w='обе' fw='beide' />
+        <w w='получатъ' fw='bekommen' p='verb' />
+        <w w='использоватъ' fw='benutzen' p='verb' />
+        <w w='удобный' fw='bequem' />
+        <w w='работающий' fw='berufstätig' />
+        <w w='описыватъ' fw='beschreiben' p='verb' />
+        <w w='занятый' fw='besetzt' />
+        <w w='особенные' fw='besondere' />
+        <w w='особенно' fw='besonders' />
+        <w w='лучше' fw='besser' />
+        <w w='заказыватъ' fw='bestellen' p='verb' />
+        <w w='определятъ' fw='bestimmen' p='verb' />
+        <w w='определенно' fw='bestimmt' />
+        <w w='посещатъ' fw='besuchen' p='verb' />
+        <w w='двигать (ся)' fw='bewegen' p='verb' />
+        <w w='облачно' fw='bewölkt' />
+        <w w='платить' fw='bezahlen' p='verb' />
+        <w w='составлять, строить' fw='bilden' p='verb' />
+        <w w='дешевый' fw='billig' />
+        <w w='пожалуйста' fw='bitte' />
+        <w w='проситъ' fw='bitten' p='verb' />
+        <w w='голубой, синий' fw='blau' />
+        <w w='оставаться' fw='bleiben' p='verb' />
+        <w w='заниматься боксом, боксироватъ' fw='boxen' p='verb' />
+        <w w='нуждатъся в...' fw='brauchen' p='verb' />
+        <w w='коричневый' fw='braun' />
+        <w w='ломатъ' fw='brechen' p='verb' />
+        <w w='широкий' fw='breit' />
+        <w w='приносить' fw='bringen' p='verb' />
+        <w w='говоритъ по буквам' fw='buchstabieren' p='verb' />
+        <w w='иметь с собой' fw='dabeihaben' p='verb' />
+        <w w='после' fw='danach' />
+        <w w='спасибо' fw='danke' />
+        <w w='благодаритъ' fw='danken' p='verb' />
+        <w w='алфавит' fa='das' fw='Alphabet, -e' p='noun' />
+        <w w='возраст' fa='das' fw='Alter (nur Sing.)' p='noun' />
+        <w w='ведомство' fa='das' fw='Amt, -..er' p='noun' />
+        <w w='предложение' fa='das' fw='Angebot, -e' p='noun' />
+        <w w='комфортабелъная квартирка' fa='das' fw='Apartment, -s' p='noun' />
+        <w w='арабский' fa='das' fw='Arabisch (nur Sing.)' p='noun' />
+        <w w='ведомство по труду (трудоусторйство), биржа труда' fa='das' fw='Arbeitsamt, -..er' p='noun' />
+        <w w='рабочий лист' fa='das' fw='Arbeitsblatt, -..er' p='noun' />
+        <w w='аспирин' fa='das' fw='Aspirin (Sing)' p='noun' />
+        <w w='глаз' fa='das' fw='Auge, -n' p='noun' />
+        <w w='автомобиль' fa='das' fw='Auto, -s' p='noun' />
+        <w w='автовождение' fa='das' fw='Autofahren' p='noun' />
+        <w w='младенец' fa='das' fw='Baby, -s' p='noun' />
+        <w w='ванная' fa='das' fw='Bad, -..r' p='noun' />
+        <w w='ванная комната' fa='das' fw='Badezimmer,' p='noun' />
+        <w w='том' fa='das' fw='Band, -..er' p='noun' />
+        <w w='сожаление' fa='das' fw='Bedauern (nur Sing.)' p='noun' />
+        <w w='самочувствие' fa='das' fw='Befinden (nur Sing,)' p='noun' />
+        <w w='нога' fa='das' fw='Bein, -e' p='noun' />
+        <w w='пример' fa='das' fw='Beispiel, -e' p='noun' />
+        <w w='кроватъ' fa='das' fw='Bett, -en' p='noun' />
+        <w w='пиво' fa='das' fw='Bier, -e' p='noun' />
+        <w w='картина' fa='das' fw='Bild, -er' p='noun' />
+        <w w='свинец' fa='das' fw='Blei (Sing.)' p='noun' />
+        <w w='гадание на растопленом свинце' fa='das' fw='Bleigießen' p='noun' />
+        <w w='хлеб' fa='das' fw='Brot, -e' p='noun' />
+        <w w='булочка' fa='das' fw='Brötchen,' p='noun' />
+        <w w='книга' fa='das' fw='Buch,-..er' p='noun' />
+        <w w='федеральная земля' fa='das' fw='Bundesland, -..er' p='noun' />
+        <w w='бюро' fa='das' fw='Büro, -s' p='noun' />
+        <w w='кафе' fa='das' fw='Cafe, -s' p='noun' />
+        <w w='дата' fa='das' fw='Datum (Sing)' p='noun' />
+        <w w='даты' fa='die' fw='Daten' p='noun' />
+        <w w='диктант' fa='das' fw='Diktat, -e' p='noun' />
+        <w w='диплом' fa='das' fw='Diplom' p='noun' />
+        <w w='документ' fa='das' fw='Dokument, -e' p='noun' />
+        <w w='деревня' fa='das' fw='Dorf, -..er' p='noun' />
+        <w w='супружеская пара' fa='das' fw='Ehepaar, -e' p='noun' />
+        <w w='яйцо' fa='das' fw='Ei, -er' p='noun' />
+        <w w='дата възда (в квартиру)' fa='das' fw='Einzugsdatum (Sing)' p='noun' />
+        <w w='электроприбор' fa='das' fw='Elektrogerät, -e' p='noun' />
+        <w w='конец' fa='das' fw='Ende, -n' p='noun' />
+        <w w='английский язык' fa='das' fw='Englisch' p='noun' />
+        <w w='нижний этаж' fa='das' fw='Erdgeschoss, -e' p='noun' />
+        <w w='переживание, пережитое (что пережили в жизни, какие события)' fa='das' fw='Erlebnis, -se' p='noun' />
+        <w w='еда' fa='das' fw='Essen (Sing)' p='noun' />
+        <w w='Европа' fa='das' fw='Europa (nur Sing.)' p='noun' />
+        <w w='велосипед' fa='das' fw='Fahrrad, -er' p='noun' />
+        <w w='семейный праздник' fa='das' fw='Familienfest, -e' p='noun' />
+        <w w='семейное фото' fa='das' fw='Familienfoto, -s' p='noun' />
+        <w w='факс' fa='das' fw='Fax, -e' p='noun' />
+        <w w='факс (прибор)' fa='das' fw='Faxgerät, -e' p='noun' />
+        <w w='окно' fa='das' fw='Fenster,' p='noun' />
+        <w w='просмотр телевизора' fa='das' fw='Fernsehen (Sing)' p='noun' />
+        <w w='телепрограмма' fa='das' fw='Fernsehprogramm, -e' p='noun' />
+        <w w='праздник' fa='das' fw='Fest, -e' p='noun' />
+        <w w='высокая температура, жар, лихорадка' fa='das' fw='Fieber (nur Sing.)' p='noun' />
+        <w w='фитнесс-студия' fa='das' fw='Fitness-Studio, -s' p='noun' />
+        <w w='мясо' fa='das' fw='Fleisch (nur Sing.)' p='noun' />
+        <w w='самолет' fa='das' fw='Flugzeug, -e' p='noun' />
+        <w w='формуляр' fa='das' fw='Formular, -e' p='noun' />
+        <w w='фото' fa='das' fw='Foto, -s' p='noun' />
+        <w w='дата рождения' fa='das' fw='Geburtsdatum (Sing)' p='noun' />
+        <w w='место рождения (страна рождения, родина)' fa='das' fw='Geburtsland, -..er' p='noun' />
+        <w w='стихотворение' fa='das' fw='Gedicht, -e' p='noun' />
+        <w w='деньги' fa='das' fw='Geld (nur Sing.)' p='noun' />
+        <w w='деньги' fa='das' fw='Geld (Sing)' p='noun' />
+        <w w='овощ' fa='das' fw='Gemüse (nur Sing.)' p='noun' />
+        <w w='овощной магазин' fa='das' fw='Gemüsegeschäft, -e' p='noun' />
+        <w w='багаж' fa='das' fw='Gepäck (Sing)' p='noun' />
+        <w w='прибор' fa='das' fw='Gerät, -e' p='noun' />
+        <w w='магазин' fa='das' fw='Geschäft, -e' p='noun' />
+        <w w='пол (мужско женский)' fa='das' fw='Geschlecht, -er' p='noun' />
+        <w w='разговор' fa='das' fw='Gespräch, -e' p='noun' />
+        <w w='напиток' fa='das' fw='Getränk, -e' p='noun' />
+        <w w='вес' fa='das' fw='Gewicht, -e' p='noun' />
+        <w w='гроза' fa='das' fw='Gewitter,' p='noun' />
+        <w w='стакан' fa='das' fw='Glas, -..er' p='noun' />
+        <w w='путь (ж/д)' fa='das' fw='Gleis, -e' p='noun' />
+        <w w='удача' fa='das' fw='Glück (Sing)' p='noun' />
+        <w w='грамм' fa='das' fw='Gramm (nur Sing.)' p='noun' />
+        <w w='волос' fa='das' fw='Haar, -e' p='noun' />
+        <w w='мобильный телефон' fa='das' fw='Handy, -s' p='noun' />
+        <w w='дом' fa='das' fw='Haus, -..er' p='noun' />
+        <w w='тетрадь' fa='das' fw='Heft, -e' p='noun' />
+        <w w='родина' fa='das' fw='Heimatland, -..er' p='noun' />
+        <w w='рубашка' fa='das' fw='Hemd, -en' p='noun' />
+        <w w='страна происхождения' fa='das' fw='Herkunftsland, -..er' p='noun' />
+        <w w='сердце' fa='das' fw='Herz, -n' p='noun' />
+        <w w='хобби' fa='das' fw='Hobby, -s' p='noun' />
+        <w w='отель' fa='das' fw='Hotel, -s' p='noun' />
+        <w w='инструмент' fa='das' fw='Instrument, -e' p='noun' />
+        <w w='интерес' fa='das' fw='Interesse (Sing)' p='noun' />
+        <w w='интернет' fa='das' fw='Internet (Sing)' p='noun' />
+        <w w='год' fa='das' fw='Jahr, -e' p='noun' />
+        <w w='карате' fa='das' fw='Karate (nur Sing.)' p='noun' />
+        <w w='карточка' fa='das' fw='Kärtchen,' p='noun' />
+        <w w='бутерброд с сыром' fa='das' fw='Käsebrot, -e' p='noun' />
+        <w w='универмаг' fa='das' fw='Kaufhaus, -..er' p='noun' />
+        <w w='килограмм' fa='das' fw='Kilo, -s' p='noun' />
+        <w w='ребенок' fa='das' fw='Kind, -er' p='noun' />
+        <w w='кино' fa='das' fw='Kino, -s' p='noun' />
+        <w w='платье' fa='das' fw='Kleid, -er' p='noun' />
+        <w w='поварная книга' fa='das' fw='Kochbuch, -..er' p='noun' />
+        <w w='больница' fa='das' fw='Krankenhaus, -..er' p='noun' />
+        <w w='крест' fa='das' fw='Kreuz, -e' p='noun' />
+        <w w='учебник' fa='das' fw='Kursbuch, -..er' p='noun' />
+        <w w='прибор для подзарядки' fa='das' fw='Ladegerät, -e' p='noun' />
+        <w w='страна' fa='das' fw='Land, -..er' p='noun' />
+        <w w='жизнь' fa='das' fw='Leben (Sing)' p='noun' />
+        <w w='год жизни' fa='das' fw='Lebensjahr, -e' p='noun' />
+        <w w='продовольственные товары' fa='das' fw='Lebensmittel,' p='noun' />
+        <w w='кожа (материал)' fa='das' fw='Leder,' p='noun' />
+        <w w='свет' fa='das' fw='Licht, -er' p='noun' />
+        <w w='любимая книга' fa='das' fw='Lieblingsbuch, -..er' p='noun' />
+        <w w='песня' fa='das' fw='Lied, -er' p='noun' />
+        <w w='девочка' fa='das' fw='Mädchen,' p='noun' />
+        <w w='медикамент' fa='das' fw='Medikament, -e' p='noun' />
+        <w w='море' fa='das' fw='Meer, -e' p='noun' />
+        <w w='формуляр заявления' fa='das' fw='Meldeformular, -e' p='noun' />
+        <w w='металл' fa='das' fw='Metall, -e' p='noun' />
+        <w w='минеральная вода' fa='das' fw='Mineralwasser,' p='noun' />
+        <w w='недовольство' fa='das' fw='Missfallen (nur Sing.)' p='noun' />
+        <w w='ужасная погода' fa='das' fw='Mistwetter (Sing)' p='noun' />
+        <w w='член какого-то общества, клуба' fa='das' fw='Mitglied, -er' p='noun' />
+        <w w='полдник' fa='das' fw='Mittagessen,' p='noun' />
+        <w w='мебель' fa='das' fw='Möbel,' p='noun' />
+        <w w='модальный глагол' fa='das' fw='Modalverb' p='noun' />
+        <w w='модель' fa='das' fw='Modell, -e' p='noun' />
+        <w w='модем' fa='das' fw='Modem, -s' p='noun' />
+        <w w='музей' fa='das' fw='Museum, Museen' p='noun' />
+        <w w='существительное' fa='das' fw='Nomen,' p='noun' />
+        <w w='верхний этаж' fa='das' fw='Obergeschoss, -e' p='noun' />
+        <w w='фрукты' fa='das' fw='Obst (Sing)' p='noun' />
+        <w w='ухо' fa='das' fw='Ohr, -en' p='noun' />
+        <w w='пасхальное яйцо' fa='das' fw='Osterei, -er' p='noun' />
+        <w w='пакет, посылка' fa='das' fw='Paket, -e' p='noun' />
+        <w w='бумага, документ' fa='das' fw='Papier, -e' p='noun' />
+        <w w='перфект' fa='das' fw='Perfekt (Sing.)' p='noun' />
+        <w w='управление персоналом' fa='das' fw='Personalmanagement (Sing)' p='noun' />
+        <w w='личное местоимение' fa='das' fw='Personalpronomen,' p='noun' />
+        <w w='фунт' fa='das' fw='Pfund, -e' p='noun' />
+        <w w='проблема' fa='das' fw='Problem, -e' p='noun' />
+        <w w='продукт' fa='das' fw='Produkt, -e' p='noun' />
+        <w w='программа' fa='das' fw='Programm, -e' p='noun' />
+        <w w='проект' fa='das' fw='Projekt, -e' p='noun' />
+        <w w='викторина' fa='das' fw='Quiz (Sing.)' p='noun' />
+        <w w='колесо' fa='das' fw='Rad, -..er' p='noun' />
+        <w w='радио' fa='das' fw='Radio, -s' p='noun' />
+        <w w='загадка' fa='das' fw='Rätsel' p='noun' />
+        <w w='полка' fa='das' fw='Regal, -e' p='noun' />
+        <w w='туристическое бюро' fa='das' fw='Reisebüro, -s' p='noun' />
+        <w w='ресторан' fa='das' fw='Restaurant, -s' p='noun' />
+        <w w='рецепт' fa='das' fw='Rezept, -e' p='noun' />
+        <w w='ролевая игра' fa='das' fw='Rollenspiel, -e' p='noun' />
+        <w w='соль' fa='das' fw='Salz, -e' p='noun' />
+        <w w='знак препинания' fa='das' fw='Satzzeichen,' p='noun' />
+        <w w='вывеска, табличка, знак' fa='das' fw='Schild, -e' p='noun' />
+        <w w='бассейн' fa='das' fw='Schwimmbad, -..er' p='noun' />
+        <w w='секретариат' fa='das' fw='Sekretariat, -e' p='noun' />
+        <w w='софа' fa='das' fw='Sofa, -s' p='noun' />
+        <w w='спецпредложение' fa='das' fw='Sonderangebot, -e' p='noun' />
+        <w w='игра' fa='das' fw='Spiel, -e' p='noun' />
+        <w w='поиск места работы' fa='das' fw='Stellengesuch, -e' p='noun' />
+        <w w='предметный указатель' fa='das' fw='Stichwortverzeichnis, -se' p='noun' />
+        <w w='штука' fa='das' fw='Stück, -e' p='noun' />
+        <w w='супермаркет' fa='das' fw='Supermarkt, -..e' p='noun' />
+        <w w='майка' fa='das' fw='T-Shirt, -s' p='noun' />
+        <w w='такси' fa='das' fw='Taxi, -s' p='noun' />
+        <w w='команда' fa='das' fw='Team, -s' p='noun' />
+        <w w='телефонный разговор' fa='das' fw='Telefongespräch, -e' p='noun' />
+        <w w='терминал' fa='das' fw='Terminal, -s' p='noun' />
+        <w w='театр' fa='das' fw='Theater,' p='noun' />
+        <w w='тема' fa='das' fw='Thema, die Themen' p='noun' />
+        <w w='билет' fa='das' fw='Ticket, -s' p='noun' />
+        <w w='тренинг' fa='das' fw='Training (Sing)' p='noun' />
+        <w w='телевидение' fa='das' fw='TV, -s' p='noun' />
+        <w w='подвальный этаж' fa='das' fw='Untergeschoss, -e' p='noun' />
+        <w w='глагол' fa='das' fw='Verb, -en' p='noun' />
+        <w w='понимание' fa='das' fw='Verständnis (Sing)' p='noun' />
+        <w w='видео' fa='das' fw='Video, -s' p='noun' />
+        <w w='четверть' fa='das' fw='Viertel,' p='noun' />
+        <w w='раковина, умывальник' fa='das' fw='Waschbecken,' p='noun' />
+        <w w='вода' fa='das' fw='Wasser (Sing.)' p='noun' />
+        <w w='Рождество' fa='das' fw='Weihnachten (Sing)' p='noun' />
+        <w w='сокращ. от Досвидания (при телефонных разговорах)' fa='das' fw='Wiederhören (Sing)' p='noun' />
+        <w w='сокращ. от Досвидания' fa='das' fw='Wiedersehen (Sing.)' p='noun' />
+        <w w='выходные дни' fa='das' fw='Wochenende, -n' p='noun' />
+        <w w='жилая комната' fa='das' fw='Wohnzimmer,' p='noun' />
+        <w w='слово' fa='das' fw='Wort, -e' p='noun' />
+        <w w='словарь' fa='das' fw='Wörterbuch, -..er' p='noun' />
+        <w w='бутерброд с колбасой' fa='das' fw='Wurstbrot, -e' p='noun' />
+        <w w='комната' fa='das' fw='Zimmer,' p='noun' />
+        <w w='йогурт' fa='das' fw='der Joghurt, -s' p='noun' />
+        <w w='длиться' fw='dauern' />
+        <w w='думатъ' fw='denken' p='verb' />
+        <w w='же, т.к.' fw='denn' />
+        <w w='тогда' fw='denn' />
+        <w w='вечер' fa='der' fw='Abend, -e' p='noun' />
+        <w w='вечерний курс' fa='der' fw='Abendkurs, -e' p='noun' />
+        <w w='вылет' fa='der' fw='Abflug., -..e' p='noun' />
+        <w w='прощание' fa='der' fw='Abschied, -e' p='noun' />
+        <w w='отрезок, частъ, раздел, статья...' fa='der' fw='Abschnitt, -e' p='noun' />
+        <w w='отправитель' fa='der' fw='Absen,' p='noun' />
+        <w w='боевик' fa='der' fw='Actionfilm, -e' p='noun' />
+        <w w='адресат' fa='der' fw='Adressat, -en' p='noun' />
+        <w w='Винит.падеж' fa='der' fw='Akkusativ' p='noun' />
+        <w w='алкоголь' fa='der' fw='Alkohol (Sing.)' p='noun' />
+        <w w='оклик, звонок' fa='der' fw='Anruf, -e' p='noun' />
+        <w w='тел.автоответчик' fa='der' fw='Anrufbeantworter,' p='noun' />
+        <w w='звонящий' fa='der' fw='Anrufer,' p='noun' />
+        <w w='удобная пересадка' fa='der' fw='Anschluss, -..e' p='noun' />
+        <w w='заявление' fa='der' fw='Antrag, -..e' p='noun' />
+        <w w='лист для ответа' fa='der' fw='Antwortbogen,' p='noun' />
+        <w w='яблоко' fa='der' fw='Apfel' p='noun' />
+        <w w='яблочный пирог' fa='der' fw='Apfelkuchen,' p='noun' />
+        <w w='яблочный сок' fa='der' fw='Apfelsaft, -..e' p='noun' />
+        <w w='апрель' fa='der' fw='April' p='noun' />
+        <w w='работник' fa='der' fw='Arbeiter,' p='noun' />
+        <w w='работодатель' fa='der' fw='Arbeitgeber,' p='noun' />
+        <w w='рабочее место' fa='der' fw='Arbeitsplatz, -..e' p='noun' />
+        <w w='рука' fa='der' fw='Arm, -e' p='noun' />
+        <w w='артикль' fa='der' fw='Artikel,' p='noun' />
+        <w w='врач' fa='der' fw='Arzt, -..e' p='noun' />
+        <w w='атлас' fa='der' fw='Atlas, -se' p='noun' />
+        <w w='август' fa='der' fw='August' p='noun' />
+        <w w='выход' fa='der' fw='Ausgang, -..e' p='noun' />
+        <w w='иностранец' fa='der' fw='Auslän,' p='noun' />
+        <w w='удостоверение' fa='der' fw='Ausweis, -e' p='noun' />
+        <w w='автомеханик' fa='der' fw='Automechaniker,' p='noun' />
+        <w w='вокзал' fa='der' fw='Bahnhof, -..e' p='noun' />
+        <w w='платформа' fa='der' fw='Bahnsteig, -e' p='noun' />
+        <w w='балкон' fa='der' fw='Balkon, -e' p='noun' />
+        <w w='строитель' fa='der' fw='Bauarbeiter,' p='noun' />
+        <w w='живот' fa='der' fw='Bauch, -..e' p='noun' />
+        <w w='дерево' fa='der' fw='Baum, -..e' p='noun' />
+        <w w='чиновник' fa='der' fw='Beamte, -n' p='noun' />
+        <w w='кружка' fa='der' fw='Becher,-' p='noun' />
+        <w w='начало' fa='der' fw='Beginn (Sing.)' p='noun' />
+        <w w='гора' fa='der' fw='Berg, -e' p='noun' />
+        <w w='профессия' fa='der' fw='Beruf, -e' p='noun' />
+        <w w='визит' fa='der' fw='Besuch, -e' p='noun' />
+        <w w='букетов цветов' fa='der' fw='Blumenstrauß, -..e' p='noun' />
+        <w w='письмо' fa='der' fw='Brief, -e' p='noun' />
+        <w w='друг по переписке' fa='der' fw='Brieffreund, -e' p='noun' />
+        <w w='конверт' fa='der' fw='Briefumschlag, -..e' p='noun' />
+        <w w='брат' fa='der' fw='Bru, -..' p='noun' />
+        <w w='буква' fa='der' fw='Buchstabe, -n' p='noun' />
+        <w w='автобус' fa='der' fw='Bus, -se' p='noun' />
+        <w w='водитель автобуса' fa='der' fw='Busfahrer,' p='noun' />
+        <w w='права на вождение автобуса' fa='der' fw='Busführerschein, -e' p='noun' />
+        <w w='цент' fa='der' fw='Cent, -s' p='noun' />
+        <w w='шампанское' fa='der' fw='Champagner (Sing)' p='noun' />
+        <w w='шеф' fa='der' fw='Chef, -s' p='noun' />
+        <w w='клоун' fa='der' fw='Clown, -s' p='noun' />
+        <w w='клуб' fa='der' fw='Club, -s' p='noun' />
+        <w w='компьютер' fa='der' fw='Computer,' p='noun' />
+        <w w='компьютерный специалист' fa='der' fw='Computerspezialist, -e' p='noun' />
+        <w w='компьютерный стол' fa='der' fw='Computertisch, -e' p='noun' />
+        <w w='дательный падеж' fa='der' fw='Dativ, -e' p='noun' />
+        <w w='курс немецкого' fa='der' fw='Deutschkurs' p='noun' />
+        <w w='тест по немецкому' fa='der' fw='Deutschtest, -s' p='noun' />
+        <w w='занятие (урок) по немецкому' fa='der' fw='Deutschunterricht, -e' p='noun' />
+        <w w='декабрь' fa='der' fw='Dezember' p='noun' />
+        <w w='диалог' fa='der' fw='Dialog, -e' p='noun' />
+        <w w='вторник' fa='der' fw='Dienstag, -e' p='noun' />
+        <w w='доктор' fa='der' fw='Doktor, -en' p='noun' />
+        <w w='четверг' fa='der' fw='Donnerstag, -e' p='noun' />
+        <w w='принтер' fa='der' fw='Drucker,' p='noun' />
+        <w w='жажда' fa='der' fw='Durst (nur Sing.)' p='noun' />
+        <w w='обручальное колъцо' fa='der' fw='Ehering, -e' p='noun' />
+        <w w='вход' fa='der' fw='Eingang, -..e' p='noun' />
+        <w w='покупка' fa='der' fw='Einkauf, -..e' p='noun' />
+        <w w='тележка для покупок' fa='der' fw='Einkaufswagen, ..en -' p='noun' />
+        <w w='получатель' fa='der' fw='Empfänger,' p='noun' />
+        <w w='обеденный стол' fa='der' fw='Esstisch, -e' p='noun' />
+        <w w='евро' fa='der' fw='Euro, -s' p='noun' />
+        <w w='водитель' fa='der' fw='Fahrer,' p='noun' />
+        <w w='пассажир' fa='der' fw='Fahrgast, -..e' p='noun' />
+        <w w='билетный автомат' fa='der' fw='Fahrkartenautomat, -en' p='noun' />
+        <w w='расписание' fa='der' fw='Fahrplan, -..e' p='noun' />
+        <w w='фамилия' fa='der' fw='Familienname, -n' p='noun' />
+        <w w='семейное положение' fa='der' fw='Familienstand (nur Sing.)' p='noun' />
+        <w w='февраль' fa='der' fw='Februar' p='noun' />
+        <w w='телевизор' fa='der' fw='Fernseher,' p='noun' />
+        <w w='столик для ТВ' fa='der' fw='Fernsehtisch, -e' p='noun' />
+        <w w='фильм' fa='der' fw='Film, -e' p='noun' />
+        <w w='палец' fa='der' fw='Finger,' p='noun' />
+        <w w='рыба' fa='der' fw='Fisch, -e' p='noun' />
+        <w w='продавец мяса' fa='der' fw='Fleischverkäufer,' p='noun' />
+        <w w='полет' fa='der' fw='Flug, -..e' p='noun' />
+        <w w='аэропорт' fa='der' fw='Flughafen' p='noun' />
+        <w w='коридор' fa='der' fw='Flur, -e' p='noun' />
+        <w w='река' fa='der' fw='Fluss, -..e' p='noun' />
+        <w w='курс французского' fa='der' fw='Französischkurs, -e' p='noun' />
+        <w w='друг' fa='der' fw='Freund, -e' p='noun' />
+        <w w='парикмахерская' fa='der' fw='Friseursalon, -e' p='noun' />
+        <w w='парикмахер' fa='der' fw='Frisör, -e' p='noun' />
+        <w w='весна' fa='der' fw='Frühling, -e' p='noun' />
+        <w w='завтрак' fa='der' fw='Frühstück, -e' p='noun' />
+        <w w='водительские права' fa='der' fw='Führerschein, -e' p='noun' />
+        <w w='ступня' fa='der' fw='Fuß, -..e' p='noun' />
+        <w w='футбол' fa='der' fw='Fußball, -..e' p='noun' />
+        <w w='сад' fa='der' fw='Garten' p='noun' />
+        <w w='садовник' fa='der' fw='Gärtner,' p='noun' />
+        <w w='гостъ' fa='der' fw='Gast, -..e' p='noun' />
+        <w w='место рождения' fa='der' fw='Geburtsort, -e' p='noun' />
+        <w w='День рождения' fa='der' fw='Geburtstag, -e' p='noun' />
+        <w w='овощной магазин' fa='der' fw='Gemüseladen,' p='noun' />
+        <w w='коммерческий директор, управляющий' fa='der' fw='Geschäftsführer,' p='noun' />
+        <w w='гриль' fa='der' fw='Grill, -s' p='noun' />
+        <w w='причина' fa='der' fw='Grund, -..e' p='noun' />
+        <w w='привет' fa='der' fw='Gruß, -..e' p='noun' />
+        <w w='ременъ' fa='der' fw='Gürtel,' p='noun' />
+        <w w='горло' fa='der' fw='Hals, -..e' p='noun' />
+        <w w='заяц' fa='der' fw='Hase, -n' p='noun' />
+        <w w='главный вокзал' fa='der' fw='Hauptbahnhof, -..e' p='noun' />
+        <w w='главное предложение' fa='der' fw='Hauptsatz, -..e' p='noun' />
+        <w w='домоуправитель' fa='der' fw='Hausmeister,' p='noun' />
+        <w w='осень' fa='der' fw='Herbst, -e' p='noun' />
+        <w w='плита' fa='der' fw='Herd, -e' p='noun' />
+        <w w='производитель' fa='der' fw='Hersteller,' p='noun' />
+        <w w='двор' fa='der' fw='Hof, -..e' p='noun' />
+        <w w='собака' fa='der' fw='Hund, -e' p='noun' />
+        <w w='голод' fa='der' fw='Hunger (nur Sing.)' p='noun' />
+        <w w='интенсивный курс' fa='der' fw='Intensivkurs, -e' p='noun' />
+        <w w='январь' fa='der' fw='Januar' p='noun' />
+        <w w='работа' fa='der' fw='Job, -s' p='noun' />
+        <w w='июль' fa='der' fw='Juli' p='noun' />
+        <w w='мальчик' fa='der' fw='Junge, -n' p='noun' />
+        <w w='июнь' fa='der' fw='Juni' p='noun' />
+        <w w='кофе' fa='der' fw='Kaffee, -s' p='noun' />
+        <w w='календаръ' fa='der' fw='Kalen,' p='noun' />
+        <w w='карнавал' fa='der' fw='Karneval (Sing)' p='noun' />
+        <w w='сыр' fa='der' fw='Käse (nur Sing.)' p='noun' />
+        <w w='ящик, коробка' fa='der' fw='Kasten, -..' p='noun' />
+        <w w='коммерсант' fa='der' fw='Kaufmann' p='noun' />
+        <w w='подвал' fa='der' fw='Keller,' p='noun' />
+        <w w='официант' fa='der' fw='Kellner,' p='noun' />
+        <w w='киоск' fa='der' fw='Kiosk, -s' p='noun' />
+        <w w='платяной шкаф' fa='der' fw='Kleischrank, -..e' p='noun' />
+        <w w='костъ' fa='der' fw='Knochen,' p='noun' />
+        <w w='повар' fa='der' fw='Koch, -..e' p='noun' />
+        <w w='чемодан' fa='der' fw='Koffer,' p='noun' />
+        <w w='голова' fa='der' fw='Kopf, -..e' p='noun' />
+        <w w='коробка' fa='der' fw='Korb, -..e' p='noun' />
+        <w w='часть тела' fa='der' fw='Körperteil, -e' p='noun' />
+        <w w='санитар' fa='der' fw='Krankenpfleger,' p='noun' />
+        <w w='детектив' fa='der' fw='Kriminalfilm, -e' p='noun' />
+        <w w='пирог' fa='der' fw='Kuchen,' p='noun' />
+        <w w='шариковая ручка' fa='der' fw='Kugelschreiber,' p='noun' />
+        <w w='холодильник' fa='der' fw='Kühlschrank, -..e' p='noun' />
+        <w w='клиент' fa='der' fw='Kunde, -n' p='noun' />
+        <w w='служба по работе с клиентами' fa='der' fw='Kundendienst (Sing)' p='noun' />
+        <w w='курс' fa='der' fw='Kurs, -e' p='noun' />
+        <w w='руководитель курса' fa='der' fw='Kursleiter,' p='noun' />
+        <w w='магазин' fa='der' fw='Laden, ..' p='noun' />
+        <w w='продажа со склада' fa='der' fw='Lagerverkauf, -..e' p='noun' />
+        <w w='учитель' fa='der' fw='Lehrer,' p='noun' />
+        <w w='текст для чтения' fa='der' fw='Lesetext, -e' p='noun' />
+        <w w='любимая музыка' fa='der' fw='Lieblingsmusik, (nur Sing.)' p='noun' />
+        <w w='литр' fa='der' fw='Liter,' p='noun' />
+        <w w='грузовая машина' fa='der' fw='LKW, -s' p='noun' />
+        <w w='май' fa='der' fw='Mai (nur Sing.)' p='noun' />
+        <w w='маляр' fa='der' fw='Maler' p='noun' />
+        <w w='мужчина, муж' fa='der' fw='Mann, -..er' p='noun' />
+        <w w='палъто' fa='der' fw='Mantel' p='noun' />
+        <w w='март' fa='der' fw='März, -e' p='noun' />
+        <w w='механик' fa='der' fw='Mechaniker,' p='noun' />
+        <w w='мастер' fa='der' fw='Meister,' p='noun' />
+        <w w='человек' fa='der' fw='Mensch, -en' p='noun' />
+        <w w='метр' fa='der' fw='Meter, -e' p='noun' />
+        <w w='мясник' fa='der' fw='Metzger,' p='noun' />
+        <w w='рынок жилья' fa='der' fw='Mietmarkt, -..e' p='noun' />
+        <w w='стоимость съема' fa='der' fw='Mietpreis, -e' p='noun' />
+        <w w='навоз, используется как грубое выражение «Черт»' fa='der' fw='Mist (Sing)' p='noun' />
+        <w w='полдень' fa='der' fw='Mittag, -e' p='noun' />
+        <w w='момент' fa='der' fw='Moment, -e' p='noun' />
+        <w w='месяц' fa='der' fw='Monat, -e' p='noun' />
+        <w w='утро' fa='der' fw='Morgen (nur Sing.)' p='noun' />
+        <w w='рот' fa='der' fw='Mund, -..er' p='noun' />
+        <w w='музыкант' fa='der' fw='Musiker,' p='noun' />
+        <w w='послеобеденное время' fa='der' fw='Nachmittag, -e' p='noun' />
+        <w w='имя, фамилия' fa='der' fw='Name, -n' p='noun' />
+        <w w='негативартикль' fa='der' fw='Negativartikel,' p='noun' />
+        <w w='именительный падеж' fa='der' fw='Nominativ, -e' p='noun' />
+        <w w='север' fa='der' fw='Norden (Sing.)' p='noun' />
+        <w w='аварийная служба' fa='der' fw='Notdienst (Sing)' p='noun' />
+        <w w='ноябрь' fa='der' fw='November' p='noun' />
+        <w w='салат из вермишели лапши' fa='der' fw='Nudelsalat, -e' p='noun' />
+        <w w='официант' fa='der' fw='Ober,' p='noun' />
+        <w w='октябрь' fa='der' fw='Oktober' p='noun' />
+        <w w='место' fa='der' fw='Ort, -e' p='noun' />
+        <w w='восток' fa='der' fw='Osten (Sing)' p='noun' />
+        <w w='пасхальный заяц' fa='der' fw='Osterhase, -n' p='noun' />
+        <w w='папа' fa='der' fw='Papa, -s' p='noun' />
+        <w w='парк' fa='der' fw='Park, -s' p='noun' />
+        <w w='парковка' fa='der' fw='Parkplatz, -..e' p='noun' />
+        <w w='партнер' fa='der' fw='Partner,' p='noun' />
+        <w w='паспорт' fa='der' fw='Pass,' p='noun' />
+        <w w='пациент' fa='der' fw='Patient, -en' p='noun' />
+        <w w='стрела' fa='der' fw='Pfeil, -e' p='noun' />
+        <w w='обслуживание' fa='der' fw='Pflegedienst, -e' p='noun' />
+        <w w='санитар' fa='der' fw='Pfleger,' p='noun' />
+        <w w='легковой автомобиль' fa='der' fw='PKW, -s' p='noun' />
+        <w w='план' fa='der' fw='Plan, -..e' p='noun' />
+        <w w='место' fa='der' fw='Platz, -..e' p='noun' />
+        <w w='полицейский' fa='der' fw='Polizist, -en' p='noun' />
+        <w w='цена' fa='der' fw='Preis, -e' p='noun' />
+        <w w='программист' fa='der' fw='Programmierer,' p='noun' />
+        <w w='проспект' fa='der' fw='Prospekt, -e' p='noun' />
+        <w w='экзаменатор' fa='der' fw='Prüfer,' p='noun' />
+        <w w='легкий свитер' fa='der' fw='Pulli, -s' p='noun' />
+        <w w='полувер' fa='der' fw='Pullover,' p='noun' />
+        <w w='точка' fa='der' fw='Punkt, -e' p='noun' />
+        <w w='совет' fa='der' fw='Rat' p='noun' />
+        <w w='совет' fa='der' fw='Ratschlag, -..e' p='noun' />
+        <w w='дождь' fa='der' fw='Regen (Sing)' p='noun' />
+        <w w='зонт от дождя' fa='der' fw='Regenschirm, -e' p='noun' />
+        <w w='региональный экспресс' fa='der' fw='Regionalexpress (Sing)' p='noun' />
+        <w w='рис' fa='der' fw='Reis (Sing.)' p='noun' />
+        <w w='рекорд' fa='der' fw='Rekord, -e' p='noun' />
+        <w w='юбка' fa='der' fw='Rock, -..e' p='noun' />
+        <w w='спина' fa='der' fw='Rücken' p='noun' />
+        <w w='сок' fa='der' fw='Saft, -..e' p='noun' />
+        <w w='салат' fa='der' fw='Salat, -e' p='noun' />
+        <w w='предложение' fa='der' fw='Satz, -..e' p='noun' />
+        <w w='окно' fa='der' fw='Schalter,' p='noun' />
+        <w w='конец' fa='der' fw='Schluss, -..e' p='noun' />
+        <w w='ключ' fa='der' fw='Schlüssel,' p='noun' />
+        <w w='портной' fa='der' fw='Schnei, -' p='noun' />
+        <w w='план метро' fa='der' fw='Schnellbahnplan, -..e' p='noun' />
+        <w w='шкаф' fa='der' fw='Schrank, -..e' p='noun' />
+        <w w='письменный стол' fa='der' fw='Schreibtisch, -e' p='noun' />
+        <w w='шаг' fa='der' fw='Schritte, -e' p='noun' />
+        <w w='ботинок, туфля' fa='der' fw='Schuh, -e' p='noun' />
+        <w w='ученик' fa='der' fw='Schüler,' p='noun' />
+        <w w='школьный день' fa='der' fw='Schultag, -e' p='noun' />
+        <w w='сварщик' fa='der' fw='Schweißer,' p='noun' />
+        <w w='озеро' fa='der' fw='See, -n' p='noun' />
+        <w w='секретарь' fa='der' fw='Sekretär, -e' p='noun' />
+        <w w='шампанское игристое вино' fa='der' fw='Sekt (Sing)' p='noun' />
+        <w w='сентябрь' fa='der' fw='September' p='noun' />
+        <w w='сервис' fa='der' fw='Service (Sing)' p='noun' />
+        <w w='кресло' fa='der' fw='Sessel,' p='noun' />
+        <w w='единственное число' fa='der' fw='Singular (nur Sing.)' p='noun' />
+        <w w='лыжи' fa='der' fw='Ski, er' p='noun' />
+        <w w='сын' fa='der' fw='Sohn, -..e' p='noun' />
+        <w w='лето' fa='der' fw='Sommer,' p='noun' />
+        <w w='летняя распродажа' fa='der' fw='Sommerschlussverkauf (Sing)' p='noun' />
+        <w w='солнечный свет' fa='der' fw='Sonnenschein (Sing.)' p='noun' />
+        <w w='экономичная цена' fa='der' fw='Sparpreis, -e' p='noun' />
+        <w w='удовольствие, развлечение, шутка' fa='der' fw='Spaß, -..e' p='noun' />
+        <w w='прогулка' fa='der' fw='Spaziergang, -..e' p='noun' />
+        <w w='план города' fa='der' fw='Stadtplan, -..e' p='noun' />
+        <w w='чать города' fa='der' fw='Stadtteil, -e' p='noun' />
+        <w w='старт' fa='der' fw='Start, -s' p='noun' />
+        <w w='штепсель' fa='der' fw='Stecker,' p='noun' />
+        <w w='штифт, карандаш' fa='der' fw='Stift, -e' p='noun' />
+        <w w='владелец карандаша' fa='der' fw='Stifthalter,' p='noun' />
+        <w w='этаж' fa='der' fw='Stock, -..e' p='noun' />
+        <w w='стресс' fa='der' fw='Stress (Sing)' p='noun' />
+        <w w='студент' fa='der' fw='Student, -en' p='noun' />
+        <w w='стул' fa='der' fw='Stuhl, -..e' p='noun' />
+        <w w='юг' fa='der' fw='Süden (Sing.)' p='noun' />
+        <w w='день' fa='der' fw='Tag, -e' p='noun' />
+        <w w='"протекание" дня' fa='der' fw='Tagesablauf, -..e' p='noun' />
+        <w w='курс танцев' fa='der' fw='Tanzkurs, -e' p='noun' />
+        <w w='техник, монтер' fa='der' fw='Techniker,' p='noun' />
+        <w w='чай' fa='der' fw='Tee, -s' p='noun' />
+        <w w='часть' fa='der' fw='Teil, -e' p='noun' />
+        <w w='участник' fa='der' fw='Teilnehmer,' p='noun' />
+        <w w='назначенная встреча' fa='der' fw='Termin, -e' p='noun' />
+        <w w='назначенный срок' fa='der' fw='Termin, -e' p='noun' />
+        <w w='тест, проверка' fa='der' fw='Test, -s' p='noun' />
+        <w w='совет' fa='der' fw='tipp, -s' p='noun' />
+        <w w='стол' fa='der' fw='Tisch, -e' p='noun' />
+        <w w='тренер' fa='der' fw='Trainer,' p='noun' />
+        <w w='станция метро, вокзал' fa='der' fw='U-Bahnhof, -..e' p='noun' />
+        <w w='авария' fa='der' fw='Unfall, -..e' p='noun' />
+        <w w='занятие, урок' fa='der' fw='Unterricht, -e' p='noun' />
+        <w w='разница' fa='der' fw='Unterschied, -e' p='noun' />
+        <w w='отпуск' fa='der' fw='Urlaub (Sing)' p='noun' />
+        <w w='отпуск' fa='der' fw='Urlaub, -e' p='noun' />
+        <w w='отец' fa='der' fw='Vater,' p='noun' />
+        <w w='повязка' fa='der' fw='Verband, -..e' p='noun' />
+        <w w='заработок' fa='der' fw='Verdienst (Sing)' p='noun' />
+        <w w='общество, объединение' fa='der' fw='Verein, -e' p='noun' />
+        <w w='продавец' fa='der' fw='Verkäufer,' p='noun' />
+        <w w='дообеденное время' fa='der' fw='Vormittag, -e' p='noun' />
+        <w w='имя' fa='der' fw='Vorname, -n' p='noun' />
+        <w w='предложение' fa='der' fw='Vorschlag, -..e' p='noun' />
+        <w w='правление' fa='der' fw='Vorstand, -..e' p='noun' />
+        <w w='автомобиль' fa='der' fw='Wagen,' p='noun' />
+        <w w='Рождественское дерево' fa='der' fw='Weihnachtsbaum, -..e' p='noun' />
+        <w w='Санта Клаус' fa='der' fw='Weihnachtsmann, -..er' p='noun' />
+        <w w='вино' fa='der' fw='Wein, -e' p='noun' />
+        <w w='мировой рекорд' fa='der' fw='Weltrekord, -e' p='noun' />
+        <w w='ценность' fa='der' fw='Wert, -e' p='noun' />
+        <w w='запад' fa='der' fw='Westen (Sing.)' p='noun' />
+        <w w='ветер' fa='der' fw='Wind, -e' p='noun' />
+        <w w='зима' fa='der' fw='Winter,' p='noun' />
+        <w w='день недели' fa='der' fw='Wochentag, -e' p='noun' />
+        <w w='жилое строение' fa='der' fw='Wohnanlage, -n' p='noun' />
+        <w w='место жительства' fa='der' fw='Wohnort, -e' p='noun' />
+        <w w='жилплощадь' fa='der' fw='Wohnraum, -..e' p='noun' />
+        <w w='желание' fa='der' fw='Wunsch, -..e' p='noun' />
+        <w w='зуб' fa='der' fw='Zahn, -..e' p='noun' />
+        <w w='сантиметр' fa='der' fw='Zentimeter,' p='noun' />
+        <w w='записка' fa='der' fw='Zettel,' p='noun' />
+        <w w='сахар' fa='der' fw='Zucker (Sing.)' p='noun' />
+        <w w='поезд' fa='der' fw='Zug, -..e' p='noun' />
+        <w w='состояние' fa='der' fw='Zustand, -..e' p='noun' />
+        <w w='Тext, текст' fa='der' fw='-e' p='noun' />
+        <w w='поэтому' fw='deshalb' />
+        <w w='немецкий' fw='deutsch' />
+        <w w='Германия' fw='Deutschland (Sing.)' />
+        <w w='немецкоговорящий(ая)' fw='deutschsprachig' />
+        <w w='толстый' fw='dick' />
+        <w w='отъезд' fa='die' fw='Abfahrt (Sing.)' p='noun' />
+        <w w='отказ' fa='die' fw='Absage, -n' p='noun' />
+        <w w='адрес' fa='die' fw='Adresse, -n' p='noun' />
+        <w w='занятние, активность' fa='die' fw='Aktivität, -en' p='noun' />
+        <w w='светофор' fa='die' fw='Ampel, -n' p='noun' />
+        <w w='сведения, показания' fa='die' fw='Angabe, -n' p='noun' />
+        <w w='прибытие' fa='die' fw='Ankunft (Sing.)' p='noun' />
+        <w w='регистрация, заявление, заявка' fa='die' fw='Anmeldung, -en' p='noun' />
+        <w w='обращение' fa='die' fw='Anrede (Sing.)' p='noun' />
+        <w w='объявление, оповещение, извещение' fa='die' fw='Ansage, -n' p='noun' />
+        <w w='ответ' fa='die' fw='Antwort, -en' p='noun' />
+        <w w='указание' fa='die' fw='Anweisung, -en' p='noun' />
+        <w w='объявление, сообщение' fa='die' fw='Anzeige, -n' p='noun' />
+        <w w='аптека' fa='die' fw='Apotheke, -n' p='noun' />
+        <w w='работа' fa='die' fw='Arbeit, -en' p='noun' />
+        <w w='рабочее время' fa='die' fw='Arbeitszeit, -en' p='noun' />
+        <w w='врачебная практика' fa='die' fw='Arztpraxis, -en' p='noun' />
+        <w w='назначение времени у врача' fa='die' fw='Arzttermin, -e' p='noun' />
+        <w w='требование' fa='die' fw='Aufforderung, -en' p='noun' />
+        <w w='задание' fa='die' fw='Aufgabe, -n' p='noun' />
+        <w w='цвет глаз' fa='die' fw='Augenfarbe' p='noun' />
+        <w w='справка/инфо' fa='die' fw='Auskunft, -..e' p='noun' />
+        <w w='выдача' fa='die' fw='Ausleihe, -n' p='noun' />
+        <w w='высказывание' fa='die' fw='Aussage, -n' p='noun' />
+        <w w='скоростная автонагистралъ' fa='die' fw='Autobahn, -en' p='noun' />
+        <w w='прокат машин' fa='die' fw='Autovermietung, -en' p='noun' />
+        <w w='автомастерская' fa='die' fw='Autowerkstatt, -..en' p='noun' />
+        <w w='детское белье' fa='die' fw='Baby-Wäsche (Sing.)' p='noun' />
+        <w w='булочная, пекарня' fa='die' fw='Bäckerei, -n' p='noun' />
+        <w w='ванна' fa='die' fw='Badewanne, -n' p='noun' />
+        <w w='банан' fa='die' fw='Banane, -n' p='noun' />
+        <w w='банк, лавочка' fa='die' fw='Bank, -en' p='noun' />
+        <w w='строительные работы' fa='die' fw='Bauarbeiten (Plural)' p='noun' />
+        <w w='приветствие' fa='die' fw='Begrüßung, -en' p='noun' />
+        <w w='учреждение' fa='die' fw='Behörde, -n' p='noun' />
+        <w w='примечание' fa='die' fw='Bemerkung, -en' p='noun' />
+        <w w='жалоба' fa='die' fw='Beschwerde, -n' p='noun' />
+        <w w='ударение' fa='die' fw='Betonung, -en' p='noun' />
+        <w w='просьба' fa='die' fw='Bitte, -n' p='noun' />
+        <w w='цветок' fa='die' fw='Blume, -n' p='noun' />
+        <w w='блузка' fa='die' fw='Bluse, -n' p='noun' />
+        <w w='широта' fa='die' fw='Breite (nur Sing)' p='noun' />
+        <w w='почтовая марка' fa='die' fw='Briefmarke, -n' p='noun' />
+        <w w='очки' fa='die' fw='Brille, -n' p='noun' />
+        <w w='мост' fa='die' fw='Brücke, -n' p='noun' />
+        <w w='цепочка букв' fa='die' fw='Buchstabenkette, -n' p='noun' />
+        <w w='масло' fa='die' fw='Butter (nur Sing)' p='noun' />
+        <w w='' fa='die' fw='CD, -s CD' p='noun' />
+        <w w='шефиня' fa='die' fw='Chefin, -nen' p='noun' />
+        <w w='шифр' fa='die' fw='Chiffre, -n' p='noun' />
+        <w w='электронная карта (сим-карта)' fa='die' fw='Chip-karte, -n' p='noun' />
+        <w w='кола' fa='die' fw='Cola (Sing.)' p='noun' />
+        <w w='дама' fa='die' fw='Dame, -en' p='noun' />
+        <w w='подробное описание' fa='die' fw='Detailansicht, -en' p='noun' />
+        <w w='дискотека' fa='die' fw='Disko, -s' p='noun' />
+        <w w='консервная банка.' fa='die' fw='Dose, -n' p='noun' />
+        <w w='магазин аптекарских и косметических товаров' fa='die' fw='Drogerie, -n' p='noun' />
+        <w w='душ' fa='die' fw='Dusche, -n' p='noun' />
+        <w w='электронный адрес' fa='die' fw='E-Mail, s' p='noun' />
+        <w w='угол' fa='die' fw='Ecke, -n' p='noun' />
+        <w w='жена, супруга' fa='die' fw='Ehefrau, -en' p='noun' />
+        <w w='приглашение' fa='die' fw='Einladung, -en' p='noun' />
+        <w w='родители' fa='die' fw='Eltern (Plural)' p='noun' />
+        <w w='курс английского' fa='die' fw='Englischkurs, -e' p='noun' />
+        <w w='извинение' fa='die' fw='Entschuldigung, -en' p='noun' />
+        <w w='объяснение' fa='die' fw='Erklärung, -en' p='noun' />
+        <w w='экскурсия' fa='die' fw='Exkursion, -en' p='noun' />
+        <w w='билет' fa='die' fw='Fahrkarte, -n' p='noun' />
+        <w w='перевозка велосипедов' fa='die' fw='Fahrradmitnahme (Sing)' p='noun' />
+        <w w='автошкола' fa='die' fw='Fahrschule, -n' p='noun' />
+        <w w='поездка' fa='die' fw='Fahrt, -en' p='noun' />
+        <w w='семья' fa='die' fw='Familie, -n' p='noun' />
+        <w w='цвет' fa='die' fw='Farbe, -n' p='noun' />
+        <w w='праздник' fa='die' fw='Feier, -n' p='noun' />
+        <w w='каникулы' fa='die' fw='Ferien (Sing)' p='noun' />
+        <w w='постоянное место' fa='die' fw='Festanstellung, -en' p='noun' />
+        <w w='фирма' fa='die' fw='Firma,  Firmen' p='noun' />
+        <w w='бутылка' fa='die' fw='Flasche, -n' p='noun' />
+        <w w='даты полета' fa='die' fw='Flugdaten (Plural)' p='noun' />
+        <w w='серия' fa='die' fw='Folge, -n' p='noun' />
+        <w w='форель' fa='die' fw='Forelle, -n' p='noun' />
+        <w w='форма' fa='die' fw='Form, -en' p='noun' />
+        <w w='вопрос' fa='die' fw='Frage, -n' p='noun' />
+        <w w='женщина, жена' fa='die' fw='Frau, -en' p='noun' />
+        <w w='свободное время' fa='die' fw='Freizeit, -en' p='noun' />
+        <w w='иностранный язык' fa='die' fw='Fremdsprache, -n' p='noun' />
+        <w w='подруга' fa='die' fw='Freundin, -nen' p='noun' />
+        <w w='гараж' fa='die' fw='Garage, -n' p='noun' />
+        <w w='гарантия' fa='die' fw='Garantie, -n' p='noun' />
+        <w w='уборка помещения' fa='die' fw='Gebäudereinigung (Sing)' p='noun' />
+        <w w='руководтство по эксплуатации' fa='die' fw='Gebrauchsanweisung, -en' p='noun' />
+        <w w='вечеринка по случаю дня рождения' fa='die' fw='Geburtstagsparty, -s' p='noun' />
+        <w w='секретный номер' fa='die' fw='Geheimnummer, -n' p='noun' />
+        <w w='здоровье' fa='die' fw='Gesundheit (Sing)' p='noun' />
+        <w w='гитара' fa='die' fw='Gitarre, -en' p='noun' />
+        <w w='грамматика' fa='die' fw='Grammatik, -en' p='noun' />
+        <w w='вечеринка с грилем' fa='die' fw='Grillparty, -s' p='noun' />
+        <w w='размер' fa='die' fw='Größe, -n' p='noun' />
+        <w w='группа' fa='die' fw='Gruppe, -en' p='noun' />
+        <w w='группа' fa='die' fw='Gruppe, -n' p='noun' />
+        <w w='боли в горле' fa='die' fw='Halsschmerzen (Plural)' p='noun' />
+        <w w='остановка' fa='die' fw='Haltestelle, -n' p='noun' />
+        <w w='кисть руки' fa='die' fw='Hand, -..e' p='noun' />
+        <w w='руководтство к действию' fa='die' fw='Handlungsanweisung, -en' p='noun' />
+        <w w='столица' fa='die' fw='Hauptstadt, -..e' p='noun' />
+        <w w='основная квартира' fa='die' fw='Hauptwohnung, -en' p='noun' />
+        <w w='домашнее задание' fa='die' fw='Hausaufgabe, -n' p='noun' />
+        <w w='домохозяйка' fa='die' fw='Hausfrau, -en' p='noun' />
+        <w w='помощь по хозяству (домработница)' fa='die' fw='Haushaltshilfe, -n' p='noun' />
+        <w w='домашний телефон' fa='die' fw='Hausnummer, -n' p='noun' />
+        <w w='домоуправление' fa='die' fw='Hausverwaltung, -en' p='noun' />
+        <w w='родина' fa='die' fw='Heimat (Sing)' p='noun' />
+        <w w='отопление' fa='die' fw='Heizung, -en' p='noun' />
+        <w w='происхождение' fa='die' fw='Herkunft, -e' p='noun' />
+        <w w='помощь' fa='die' fw='Hilfe, -n' p='noun' />
+        <w w='сторона света' fa='die' fw='Himmelsrichtung, -en' p='noun' />
+        <w w='свадьба' fa='die' fw='Hochzeit, -en' p='noun' />
+        <w w='высота' fa='die' fw='Höhe, -n' p='noun' />
+        <w w='штаны, брюки' fa='die' fw='Hose, -n' p='noun' />
+        <w w='идея' fa='die' fw='Idee, -n' p='noun' />
+        <w w='недвижимость' fa='die' fw='Immobilie, -n' p='noun' />
+        <w w='управление недвижимостью' fa='die' fw='Immobilienverwaltung, -en' p='noun' />
+        <w w='информатика' fa='die' fw='Informatik (Sing)' p='noun' />
+        <w w='информация' fa='die' fw='Information, -en' p='noun' />
+        <w w='куртка' fa='die' fw='Jacke, -n' p='noun' />
+        <w w='время года' fa='die' fw='Jahreszeit, -en' p='noun' />
+        <w w='джинсы' fa='die' fw='Jeans (Plural)' p='noun' />
+        <w w='квартплата без расходов по отоплению' fa='die' fw='Kaltmiete, -n' p='noun' />
+        <w w='карта' fa='die' fw='Karte, -n' p='noun' />
+        <w w='картофель' fa='die' fw='Kartoffel, -n' p='noun' />
+        <w w='касса' fa='die' fw='Kasse, -n' p='noun' />
+        <w w='кошка' fa='die' fw='Katze, -n' p='noun' />
+        <w w='коммерсантка' fa='die' fw='Kauffrau, -en' p='noun' />
+        <w w='залог' fa='die' fw='Kaution, -en' p='noun' />
+        <w w='знание' fa='die' fw='Kenntnisse (Plural)' p='noun' />
+        <w w='класс' fa='die' fw='Klasse, -n' p='noun' />
+        <w w='одежда' fa='die' fw='Kleidung (Sing)' p='noun' />
+        <w w='маленькое объявление' fa='die' fw='Kleinanzeige, -n' p='noun' />
+        <w w='уголь' fa='die' fw='Kohle (nur Sing.)' p='noun' />
+        <w w='коммуникация, связь' fa='die' fw='Kommunikation (nur Sing.)' p='noun' />
+        <w w='спряжение' fa='die' fw='Konjugation, -en' p='noun' />
+        <w w='косметика' fa='die' fw='Kosmetik, -a' p='noun' />
+        <w w='медсестра' fa='die' fw='Krankenschwester, -n' p='noun' />
+        <w w='медицинская стреаховка' fa='die' fw='Krankenversicherung, -en' p='noun' />
+        <w w='болезнь' fa='die' fw='Krankheit, -en' p='noun' />
+        <w w='справка о болезни' fa='die' fw='Krankmeldung, -en' p='noun' />
+        <w w='кухня' fa='die' fw='Küche, -n' p='noun' />
+        <w w='культура' fa='die' fw='Kultur, -en' p='noun' />
+        <w w='клиентка' fa='die' fw='Kundin, -nen' p='noun' />
+        <w w='руководительница курса' fa='die' fw='Kursleiterin,' p='noun' />
+        <w w='лампа' fa='die' fw='Lampe, -n' p='noun' />
+        <w w='географическая карта' fa='die' fw='Landkarte, -n' p='noun' />
+        <w w='история жизни' fa='die' fw='Lebensgeschichte, -n' p='noun' />
+        <w w='учительница' fa='die' fw='Lehrerin, -nen' p='noun' />
+        <w w='страстъ, увлечение' fa='die' fw='Leidenschaft, -en' p='noun' />
+        <w w='лекция' fa='die' fw='Lektion, -en' p='noun' />
+        <w w='люди' fa='die' fw='Leute (Plural)' p='noun' />
+        <w w='список' fa='die' fw='Liste, -n' p='noun' />
+        <w w='решение' fa='die' fw='Lösung, -en' p='noun' />
+        <w w='настроение' fa='die' fw='Lust (Sing)' p='noun' />
+        <w w='марка' fa='die' fw='Marke, -n' p='noun' />
+        <w w='машина' fa='die' fw='Maschine, -n' p='noun' />
+        <w w='единица меры' fa='die' fw='Maßeinheit, -en' p='noun' />
+        <w w='матрац' fa='die' fw='Matratze, -en' p='noun' />
+        <w w='медицина' fa='die' fw='Medizin (Sing)' p='noun' />
+        <w w='мнение' fa='die' fw='Meinung, -en' p='noun' />
+        <w w='данные о количестве' fa='die' fw='Mengenangabe, -n' p='noun' />
+        <w w='квартплата' fa='die' fw='Miete, -n' p='noun' />
+        <w w='миграция' fa='die' fw='Migration, -en' p='noun' />
+        <w w='молоко' fa='die' fw='Milch (nur Sing.)' p='noun' />
+        <w w='миллион' fa='die' fw='Million, en' p='noun' />
+        <w w='минута' fa='die' fw='Minute, -n' p='noun' />
+        <w w='обеденный перерыв' fa='die' fw='Mittagspause, -n' p='noun' />
+        <w w='сообщение' fa='die' fw='Mitteilung, -en' p='noun' />
+        <w w='месячная квартплата' fa='die' fw='Monatsmiete, -n' p='noun' />
+        <w w='музыка' fa='die' fw='Musik (nur Sing.)' p='noun' />
+        <w w='мама' fa='die' fw='Mutter' p='noun' />
+        <w w='сосед' fa='die' fw='Nachbarin, -nen' p='noun' />
+        <w w='сообщения, известия, новости' fa='die' fw='Nachrichten (nur Plural)' p='noun' />
+        <w w='суффикс' fa='die' fw='Nachsilbe, -n' p='noun' />
+        <w w='ночь' fa='die' fw='Nacht, -e' p='noun' />
+        <w w='близостъ' fa='die' fw='Nähe (Sing)' p='noun' />
+        <w w='нос' fa='die' fw='Nase, -n' p='noun' />
+        <w w='национальностъ' fa='die' fw='Nationalität, -en' p='noun' />
+        <w w='отрицание' fa='die' fw='Negation, -en' p='noun' />
+        <w w='оценка' fa='die' fw='Note, -n' p='noun' />
+        <w w='запись, заметка' fa='die' fw='Notiz, -en' p='noun' />
+        <w w='номер' fa='die' fw='Nummer, -n' p='noun' />
+        <w w='бабушка' fa='die' fw='Oma, -s' p='noun' />
+        <w w='апельсин' fa='die' fw='Orange' p='noun' />
+        <w w='порядковое числительное' fa='die' fw='Ordinalzahl, -en' p='noun' />
+        <w w='ориентация' fa='die' fw='Orientierung (Sing)' p='noun' />
+        <w w='упаковка' fa='die' fw='Packung, -en' p='noun' />
+        <w w='партнерша' fa='die' fw='Partnerin, -nen' p='noun' />
+        <w w='вечеринка' fa='die' fw='Party, -s' p='noun' />
+        <w w='общая цена ремонта' fa='die' fw='Pauschalpreisreparatur, -en' p='noun' />
+        <w w='пауза, перерыв' fa='die' fw='Pause, -n' p='noun' />
+        <w w='особа, персона' fa='die' fw='Person, -en' p='noun' />
+        <w w='растение' fa='die' fw='Pflanze, -n' p='noun' />
+        <w w='фонетика' fa='die' fw='Phonetik (Sing.)' p='noun' />
+        <w w='позиция' fa='die' fw='Position, -en' p='noun' />
+        <w w='почта' fa='die' fw='Post (Sing)' p='noun' />
+        <w w='почтовый индекс' fa='die' fw='Postleitzahl, -en' p='noun' />
+        <w w='прогноз' fa='die' fw='Prognose, -n' p='noun' />
+        <w w='экзаменаторша' fa='die' fw='Prüferin, -nen' p='noun' />
+        <w w='экзамен' fa='die' fw='Prüfung, en' p='noun' />
+        <w w='помощь в уборке' fa='die' fw='Putzhilfe, -n' p='noun' />
+        <w w='тур на велосипеде' fa='die' fw='Radtour, -en' p='noun' />
+        <w w='ракета' fa='die' fw='Rakete, -n' p='noun' />
+        <w w='счет' fa='die' fw='Rechnung, -en' p='noun' />
+        <w w='способность к самоочищению' fa='die' fw='Reinigungskraft, -..e' p='noun' />
+        <w w='путешествие' fa='die' fw='Reise, -n' p='noun' />
+        <w w='ремонт' fa='die' fw='Reparatur, -en' p='noun' />
+        <w w='обозрение' fa='die' fw='Rundschau (Sing)' p='noun' />
+        <w w='трамвай' fa='die' fw='S-Bahn, -en' p='noun' />
+        <w w='вещь' fa='die' fw='Sache, -n' p='noun' />
+        <w w='сливки' fa='die' fw='Sahne (Sing.)' p='noun' />
+        <w w='мазь' fa='die' fw='Salbe, -n' p='noun' />
+        <w w='интонация предложения' fa='die' fw='Satzmelo, -n' p='noun' />
+        <w w='поиск сокровищ' fa='die' fw='Schatzsuche (Sing)' p='noun' />
+        <w w='боли' fa='die' fw='Schmerzen (Plural)' p='noun' />
+        <w w='шоколад' fa='die' fw='Schokolade, -n' p='noun' />
+        <w w='шоколадное молоко' fa='die' fw='Schokomilch (Sing.)' p='noun' />
+        <w w='канцелярские принадлежности' fa='die' fw='Schreibwaren (Plural)' p='noun' />
+        <w w='школа' fa='die' fw='Schule, -n' p='noun' />
+        <w w='ученица' fa='die' fw='Schülerin, nen' p='noun' />
+        <w w='школьный кулек' fa='die' fw='Schultüte,-en' p='noun' />
+        <w w='сестра' fa='die' fw='Schwester, -n' p='noun' />
+        <w w='сторона, страница' fa='die' fw='Seite, -n' p='noun' />
+        <w w='секретарша' fa='die' fw='Sekretärin, -nen' p='noun' />
+        <w w='секунда' fa='die' fw='Sekunde, -n' p='noun' />
+        <w w='сервисная услуга' fa='die' fw='Serviceleistung, -en' p='noun' />
+        <w w='безопасность' fa='die' fw='Sicherheit, -en' p='noun' />
+        <w w='ситуация' fa='die' fw='Situation, en' p='noun' />
+        <w w='специальная акция' fa='die' fw='Sonderaktion, -en' p='noun' />
+        <w w='солнце' fa='die' fw='Sonne, -n' p='noun' />
+        <w w='меню в ресторане или кафе' fa='die' fw='Speisekarte, -n' p='noun' />
+        <w w='язык' fa='die' fw='Sprache, -n' p='noun' />
+        <w w='языковая школа' fa='die' fw='Sprachschule, -n' p='noun' />
+        <w w='приемное время' fa='die' fw='Sprechstunde, -n' p='noun' />
+        <w w='часы приема' fa='die' fw='Sprechzeit, -en' p='noun' />
+        <w w='гражданство' fa='die' fw='Staatsangehörigkeit (Sing)' p='noun' />
+        <w w='город' fa='die' fw='Stadt, -..e' p='noun' />
+        <w w='городская библиотека' fa='die' fw='Stadtbibliothek, -en' p='noun' />
+        <w w='станция' fa='die' fw='Station, -en' p='noun' />
+        <w w='розетка' fa='die' fw='Steckdose, -n' p='noun' />
+        <w w='место' fa='die' fw='Stelle, -n' p='noun' />
+        <w w='реклама' fa='die' fw='Stellenanzeige, -n' p='noun' />
+        <w w='улица' fa='die' fw='Straße, -n' p='noun' />
+        <w w='трамвай' fa='die' fw='Straßenbahn, -en' p='noun' />
+        <w w='стратегия' fa='die' fw='Strategie, -n' p='noun' />
+        <w w='строфа' fa='die' fw='Strophe, -n' p='noun' />
+        <w w='час' fa='die' fw='Stunde, -n' p='noun' />
+        <w w='таблица' fa='die' fw='Tabelle, n' p='noun' />
+        <w w='таблетка' fa='die' fw='Tablette, -n' p='noun' />
+        <w w='доска' fa='die' fw='Tafel, -n' p='noun' />
+        <w w='время суток' fa='die' fw='Tageszeit, -en' p='noun' />
+        <w w='сумка' fa='die' fw='Tasche, -n' p='noun' />
+        <w w='чашка' fa='die' fw='Tasse, -n' p='noun' />
+        <w w='телефонное объявление' fa='die' fw='Telefonansage, -n' p='noun' />
+        <w w='температура' fa='die' fw='Temperatur, -en' p='noun' />
+        <w w='терасса' fa='die' fw='Terrasse, -n' p='noun' />
+        <w w='глубина' fa='die' fw='Tiefe, -n' p='noun' />
+        <w w='дочь' fa='die' fw='Tochter, -..e' p='noun' />
+        <w w='туалет' fa='die' fw='Toilette, -n' p='noun' />
+        <w w='помидор' fa='die' fw='Tomate, -n' p='noun' />
+        <w w='лестница' fa='die' fw='Treppe, -n' p='noun' />
+        <w w='дверь' fa='die' fw='Tür, -en' p='noun' />
+        <w w='метро' fa='die' fw='U-Bahn, -en' p='noun' />
+        <w w='сторона обзора' fa='die' fw='Übersichtsseite, -n' p='noun' />
+        <w w='упражнение' fa='die' fw='Übung, -en' p='noun' />
+        <w w='учение, упражнение' fa='die' fw='Übung, -en' p='noun' />
+        <w w='часы' fa='die' fw='Uhr, -en' p='noun' />
+        <w w='страница обложки' fa='die' fw='Umschlagseite, -n' p='noun' />
+        <w w='университет' fa='die' fw='Universität, -e' p='noun' />
+        <w w='документы' fa='die' fw='Unterlagen (Sing)' p='noun' />
+        <w w='подпись' fa='die' fw='Unterschrift, -en' p='noun' />
+        <w w='США' fa='die' fw='USA (Plural)' p='noun' />
+        <w w='вариант' fa='die' fw='Variante, -en' p='noun' />
+        <w w='вариант' fa='die' fw='Variation, -en' p='noun' />
+        <w w='встреча, свидание' fa='die' fw='Verabredung, -en' p='noun' />
+        <w w='основа для переговоров' fa='die' fw='Verhandlungsbasis, -basen' p='noun' />
+        <w w='продавщица' fa='die' fw='Verkäuferin, -nen' p='noun' />
+        <w w='страховая карточка' fa='die' fw='Versichertenkarte, -n' p='noun' />
+        <w w='страховка' fa='die' fw='Versicherung, -en' p='noun' />
+        <w w='опоздание' fa='die' fw='Verspätung, -en' p='noun' />
+        <w w='четверть часа' fa='die' fw='Viertelstunde, -n' p='noun' />
+        <w w='влюбленность' fa='die' fw='Vorliebe, -n' p='noun' />
+        <w w='осторожность' fa='die' fw='Vorsicht (Sing.)' p='noun' />
+        <w w='представление' fa='die' fw='Vorstellung, -en' p='noun' />
+        <w w='стенгазета' fa='die' fw='Wandzeitung, -en' p='noun' />
+        <w w='квартплата за все' fa='die' fw='Warmmiete, -n' p='noun' />
+        <w w='стиральная машина' fa='die' fw='Waschmaschine, -n' p='noun' />
+        <w w='бутылка вина' fa='die' fw='Weinflasche, -n' p='noun' />
+        <w w='виноград' fa='die' fw='Weintraube, -n' p='noun' />
+        <w w='поворот/оборот' fa='die' fw='Wendung, -en' p='noun' />
+        <w w='мастерская' fa='die' fw='Werkstatt, -..en' p='noun' />
+        <w w='луг' fa='die' fw='Wiese, -n' p='noun' />
+        <w w='неделя' fa='die' fw='Woche, -n' p='noun' />
+        <w w='квартира' fa='die' fw='Wohnung, -en' p='noun' />
+        <w w='объявление о жил.площади' fa='die' fw='Wohnungsanzeige, -n' p='noun' />
+        <w w='словообразование' fa='die' fw='Worbildung, -en' p='noun' />
+        <w w='колбаса' fa='die' fw='Wurst,-..e' p='noun' />
+        <w w='число' fa='die' fw='Zahl, -en' p='noun' />
+        <w w='рисунок, чертеж' fa='die' fw='Zeichnung, -en' p='noun' />
+        <w w='время' fa='die' fw='Zeit, -en' p='noun' />
+        <w w='газета' fa='die' fw='Zeitung, -en' p='noun' />
+        <w w='сигарета' fa='die' fw='Zigarette, -n' p='noun' />
+        <w w='таможенный контроль' fa='die' fw='Zollkontrolle, -n' p='noun' />
+        <w w='согласие' fa='die' fw='Zusage, -n' p='noun' />
+        <w w='согласие' fa='die' fw='Zustimmung, -en' p='noun' />
+        <w w='родственник' fa='die' fw='der Angehörige, -n (ein Angehöriger)' p='noun' />
+        <w w='взрослый (ая)' fa='die' fw='der Erwachsene, -n (ein Erwachsener)' p='noun' />
+        <w w='диктовать' fw='diktieren' p='verb' />
+        <w w='прямой' fw='direkt' />
+        <w w='там' fw='dort' />
+        <w w='снаружи' fw='draußen' p='verb' />
+        <w w='трижды' fw='dreimal' />
+        <w w='срочно' fw='dringend' />
+        <w w='внутри' fw='drüben' p='verb' />
+        <w w='нажимать' fw='drücken' p='verb' />
+        <w w='темный' fw='dunkel' />
+        <w w='также' fw='ebenso' />
+        <w w='настоящий' fw='echt' />
+        <w w='спешный' fw='eilig' />
+        <w w='немного' fw='ein bisschen' p='verb' />
+        <w w='простой' fw='einfach' />
+        <w w='несколько' fw='einige' />
+        <w w='некоторая (ые)' fw='einige' />
+        <w w='покупатъ' fw='einkaufen' p='verb' />
+        <w w='приглашать' fw='einladen' p='verb' />
+        <w w='один раз' fw='einmal' />
+        <w w='подобратъ' fw='einordnen' p='verb' />
+        <w w='садитъся (в транспорт)' fw='einsetzen' p='verb' />
+        <w w='вставлятъ' fw='einsteigen' p='verb' />
+        <w w='вносить' fw='eintragen' p='verb' />
+        <w w='отдельный' fw='einzeln' />
+        <w w='въезжатъ (в квартиру)' fw='einziehen' p='verb' />
+        <w w='наконец' fw='endlich' />
+        <w w='узкий' fw='eng' />
+        <w w='извинятъ' fw='entschuldigen' p='verb' />
+        <w w='Извините,' fw='Entschuldigen Sie! ...' />
+        <w w='необходимо' fw='erforderlich' />
+        <w w='дополнять' fw='ergänzen' p='verb' />
+        <w w='получать' fw='erhalten' p='verb' />
+        <w w='объяснить' fw='erklären' p='verb' />
+        <w w='объяснятъ' fw='erklären' p='verb' />
+        <w w='разрешенный' fw='erlaubt' />
+        <w w='сделать, выполнитъ' fw='erledigen' p='verb' />
+        <w w='достигать' fw='erreichen' p='verb' />
+        <w w='заменитъ' fw='ersetzen' p='verb' />
+        <w w='только' fw='erst' />
+        <w w='рассказывать' fw='erzählen' p='verb' />
+        <w w='естъ (кушать)' fw='essen' p='verb' />
+        <w w='превосходный' fw='exquisit' />
+        <w w='ехатъ' fw='fahren' p='verb' />
+        <w w='неправильный' fw='falsch' />
+        <w w='почти' fw='fast' />
+        <w w='недоставатъ, нехватать' fw='fehlen' p='verb' />
+        <w w='отсутствоватъ' fw='fehlen' p='verb' />
+        <w w='недостающий' fw='fehlend' />
+        <w w='праздноватъ' fw='feiern' />
+        <w w='праздновать' fw='feiern' />
+        <w w='женский род' fw='feminin' />
+        <w w='дальний, отдаленный' fw='fern' />
+        <w w='смотретъ ТВ' fw='fernsehen' p='verb' />
+        <w w='готовый' fw='fertig' />
+        <w w='находить' fw='finden' p='verb' />
+        <w w='гибкий' fw='flexibel' />
+        <w w='лететь' fw='fliegen' p='verb' />
+        <w w='следоватъ' fw='folgen' p='verb' />
+        <w w='следующий' fw='folgende' />
+        <w w='формально' fw='formell' />
+        <w w='спрашивать' fw='fragen' p='verb' />
+        <w w='свободный' fw='frei' />
+        <w w='чужой' fw='fremd' />
+        <w w='радовать' fw='freuen' p='verb' />
+        <w w='дружеский, дружелюбный' fw='freundlich' />
+        <w w='ранний' fw='früh' />
+        <w w='ранее' fw='früher' />
+        <w w='завтракать' fw='frühstücken' p='verb' />
+        <w w='функционировать' fw='funktionieren' p='verb' />
+        <w w='для' fw='für' />
+        <w w='весь, целый' fw='ganz' />
+        <w w='совсем никакие' fw='gar keine' />
+        <w w='совсем не' fw='gar nicht' />
+        <w w='совсем ничего' fw='gar nichts' />
+        <w w='даватъ' fw='geben' p='verb' />
+        <w w='рожденный' fw='geboren' p='verb' />
+        <w w='подержанный, использованный' fw='gebraucht' />
+        <w w='нравиться' fw='gefallen' p='verb' />
+        <w w='против' fw='gegen' p='verb' />
+        <w w='идти' fw='gehen' p='verb' />
+        <w w='принадлежать' fw='gehören' p='verb' />
+        <w w='желтый' fw='gelb' />
+        <w w='именно' fw='genau' />
+        <w w='обобщенно' fw='generell' />
+        <w w='достаточно' fw='genug' />
+        <w w='открытый' fw='geöffnet' />
+        <w w='прямо' fw='geradeaus' />
+        <w w='охотно' fw='gern' />
+        <w w='разведенный' fw='geschieden' p='verb' />
+        <w w='закрыто' fw='geschlossen' p='verb' />
+        <w w='вчера' fw='gestern' />
+        <w w='здоровый' fw='gesund' />
+        <w w='литъ, поливатъ' fw='gießen' p='verb' />
+        <w w='полагать, верить' fw='glauben' p='verb' />
+        <w w='верить, полагать' fw='glauben' p='verb' />
+        <w w='сейчас, немедленно' fw='gleich' />
+        <w w='счастливый' fw='glücklich' />
+        <w w='поздравлять' fw='gratulieren' p='verb' />
+        <w w='серый' fw='grau' />
+        <w w='жарить на гриле' fw='grillen' p='verb' />
+        <w w='большой' fw='groß' />
+        <w w='зеленый' fw='grün' />
+        <w w='смотреть' fw='gucken' p='verb' />
+        <w w='недорогой' fw='günstig' />
+        <w w='хороший' fw='gut' />
+        <w w='Скорейшего выздоровления!' fw='Gute Besserung!' />
+        <w w='иметь' fw='haben' p='verb' />
+        <w w='половина' fw='halb' />
+        <w w='привет' fw='Hallo' />
+        <w w='останавливаться' fw='halten' p='verb' />
+        <w w='некрасивый' fw='hässlich' />
+        <w w='жениться, выходить замуж' fw='heiraten' p='verb' />
+        <w w='называтъ' fw='heißen' p='verb' />
+        <w w='помогатъ' fw='helfen' p='verb' />
+        <w w='яркий' fw='hell' />
+        <w w='слушать' fw='herhören' p='verb' />
+        <w w='сегодня' fw='heute' />
+        <w w='здесъ' fw='hier' />
+        <w w='отвозить' fw='hinfahren' p='verb' />
+        <w w='падатъ' fw='hinfallen' p='verb' />
+        <w w='высокий' fw='hoch' />
+        <w w='надеяться' fw='hoffen' p='verb' />
+        <w w='надеюсь, что' fw='hoffentlich' />
+        <w w='вежливый' fw='höflich' />
+        <w w='забиратъ' fw='holen' p='verb' />
+        <w w='слушатъ' fw='hören' p='verb' />
+        <w w='в месяц' fw='im Monat' />
+        <w w='всегда' fw='immer' />
+        <w w='ночью' fw='in der Nacht' />
+        <w w='в порядке' fw='In Ordnung' />
+        <w w='неофициально' fw='informell' />
+        <w w='информировать' fw='informieren' p='verb' />
+        <w w='интересный' fw='interessant' />
+        <w w='международный' fw='international' />
+        <w w='италъянский' fw='italienisch' />
+        <w w='японский' fw='japanisch' />
+        <w w='каждая' fw='jede' />
+        <w w='кто-то' fw='jemand' />
+        <w w='сейчас' fw='jetzt' />
+        <w w='соответственно' fw='jeweils' />
+        <w w='делать пробежки (например, по утрам)' fw='joggen' p='verb' />
+        <w w='холодный' fw='kalt' />
+        <w w='купить' fw='kaufen' p='verb' />
+        <w w='знатъ' fw='kennen' p='verb' />
+        <w w='познакомиться' fw='kennen lernen' p='verb' />
+        <w w='ясный' fw='klar' />
+        <w w='маленький' fw='klein' />
+        <w w='готовитъ' fw='kochen' p='verb' />
+        <w w='приходитъ' fw='kommen' p='verb' />
+        <w w='компетентный' fw='kompetent' />
+        <w w='полный, комплектный' fw='komplett' />
+        <w w='исправлять' fw='korrigieren' p='verb' />
+        <w w='стоитъ' fw='kosten' p='verb' />
+        <w w='больной' fw='krank' />
+        <w w='хорватский' fw='kroatisch' />
+        <w w='короткий' fw='kurz' />
+        <w w='смеятъся' fw='lachen' p='verb' />
+        <w w='заряжатъ' fw='laden' p='verb' />
+        <w w='длинный' fw='lang' />
+        <w w='долго' fw='lange' />
+        <w w='медленный' fw='langsam' />
+        <w w='бегать' fw='laufen' p='verb' />
+        <w w='громкий' fw='laut' />
+        <w w='житъ' fw='leben' p='verb' />
+        <w w='живой' fw='lebend' />
+        <w w='холостой/незамужняя' fw='ledig' />
+        <w w='кластъ, положитъ' fw='legen' p='verb' />
+        <w w='легкий' fw='leicht' />
+        <w w='к сожалению' fw='leider' />
+        <w w='одалживатъ' fw='leihen' p='verb' />
+        <w w='тихо' fw='leise' />
+        <w w='учить' fw='lernen' p='verb' />
+        <w w='читать' fw='lesen' p='verb' />
+        <w w='любитъ' fw='lieben' p='verb' />
+        <w w='доставлять' fw='liefern' />
+        <w w='находитъся, лежать' fw='liegen' p='verb' />
+        <w w='слева' fw='links' />
+        <w w='решатъ' fw='lösen' p='verb' />
+        <w w='смешной' fw='lustig' />
+        <w w='делать' fw='machen' p='verb' />
+        <w w='иногда' fw='manchmal' />
+        <w w='отмечатъ' fw='markieren' p='verb' />
+        <w w='мужской род' fw='maskulin' />
+        <w w='еще' fw='mehr' />
+        <w w='в основном' fw='meist' />
+        <w w='заявлятъ' fw='melden' p='verb' />
+        <w w='сниматъ (квартиру)' fw='mieten' p='verb' />
+        <w w='минимальмый' fw='minimal' />
+        <w w='минус' fw='minus' />
+        <w w='мешатъ' fw='mischen' p='verb' />
+        <w w='приносить с собой' fw='mitbringen' p='verb' />
+        <w w='ехать вместе с кем-то' fw='mitfahren' p='verb' />
+        <w w='идти вместе с кем-то' fw='mitgehen' p='verb' />
+        <w w='пойти вместе' fw='mitkommen' p='verb' />
+        <w w='учавствоватъ' fw='mitmachen' p='verb' />
+        <w w='братъ с собой' fw='mitnehmen' p='verb' />
+        <w w='петь вместе с кем-то' fw='mitsingen' p='verb' />
+        <w w='меблированный' fw='möbliert' />
+        <w w='современный' fw='modern' />
+        <w w='возможный' fw='möglich' />
+        <w w='по утрам' fw='morgens' />
+        <w w='уставший' fw='müde' />
+        <w w='устный' fw='mündlich' />
+        <w w='домой' fw='nach Hause' />
+        <w w='справляться' fw='nachfragen' p='verb' />
+        <w w='подражать' fw='nachmachen' p='verb' />
+        <w w='посмотретъ' fw='nachsehen' p='verb' />
+        <w w='повторитъ' fw='nachsprechen' p='verb' />
+        <w w='а именно, т.е., т.к.' fw='nämlich' />
+        <w w='а именно' fw='nämlich' />
+        <w w='братъ' fw='nehmen' p='verb' />
+        <w w='называть' fw='nennen' p='verb' />
+        <w w='приятный' fw='nett' />
+        <w w='новый' fw='neu' />
+        <w w='средний род' fw='neutral' />
+        <w w='никогда' fw='nie' />
+        <w w='еще' fw='noch' />
+        <w w='отмечать' fw='notieren' p='verb' />
+        <w w='отмечать, замечать' fw='notieren' p='verb' />
+        <w w='нуль' fw='null' />
+        <w w='только' fw='nur' />
+        <w w='или' fw='oder' />
+        <w w='открытый' fw='offen -' />
+        <w w='общественный' fw='öffentlich' />
+        <w w='официальный' fw='offiziell' />
+        <w w='открывать' fw='öffnen' p='verb' />
+        <w w='часто' fw='oft' />
+        <w w='без' fw='ohne' />
+        <w w='располагать, упорядочивать' fw='ordnen' p='verb' />
+        <w w='парковаться' fw='parken' p='verb' />
+        <w w='подходитъ' fw='passen' p='verb' />
+        <w w='происходить, случаться' fw='passieren' p='verb' />
+        <w w='плюс' fw='plus' />
+        <w w='практичный' fw='praktisch' />
+        <w w='выгодный по цене' fw='preiswert' />
+        <w w='что надо!' fw='prima' />
+        <w w='частный' fw='privat' />
+        <w w='сдавать экзамен' fw='prüfen' p='verb' />
+        <w w='пунктуальный' fw='pünktlich' />
+        <w w='курить' fw='rauchen' p='verb' />
+        <w w='направо' fw='rechts' />
+        <w w='идет дождь' fw='regnen, es regnet' />
+        <w w='совсем, сюда чистый' fw='rein' />
+        <w w='путешествовать' fw='reisen' p='verb' />
+        <w w='ремонтировать' fw='reparieren' p='verb' />
+        <w w='обязательное резервирование' fw='reservierungspflichtig' />
+        <w w='остальной' fw='restlich' />
+        <w w='правильный' fw='richtig' />
+        <w w='красный' fw='rot' />
+        <w w='назад' fw='rückwärts' />
+        <w w='звонить' fw='rufen' p='verb' />
+        <w w='тихий' fw='ruhig' />
+        <w w='круглый' fw='rund' />
+        <w w='сказать' fw='sagen' p='verb' />
+        <w w='собирать, коллекционироватъ' fw='sammeln' />
+        <w w='чистый' fw='sauber' />
+        <w w='жаль' fw='schade' />
+        <w w='смотретъ' fw='schauen' p='verb' />
+        <w w='сиятъ' fw='scheinen' p='verb' />
+        <w w='посылать, отправлять' fw='schicken' p='verb' />
+        <w w='спатъ' fw='schlafen' p='verb' />
+        <w w='плохой' fw='schlecht' />
+        <w w='закрывать' fw='schließen' p='verb' />
+        <w w='плохой' fw='schlimm' />
+        <w w='узкий' fw='schmal' />
+        <w w='пробовать, отведать и остаться довольным' fw='schmecken' p='verb' />
+        <w w='грязный' fw='schmutzig' />
+        <w w='идет снег' fw='schneien, es schneit' />
+        <w w='быстрый' fw='schnell' />
+        <w w='уже' fw='schon' />
+        <w w='красивый' fw='schön' />
+        <w w='уже давно' fw='schon lange' />
+        <w w='писать' fw='schreiben' p='verb' />
+        <w w='черный' fw='schwarz' />
+        <w w='тяжело' fw='schwer' />
+        <w w='тяжелый' fw='schwierig' />
+        <w w='плавать' fw='schwimmen' p='verb' />
+        <w w='видеть' fw='sehen' p='verb' />
+        <w w='очень' fw='sehr' />
+        <w w='сам' fw='selbst' />
+        <w w='самостоятельный' fw='selbstständig' />
+        <w w='отдельный' fw='separat' />
+        <w w='уверенный' fw='sicher' />
+        <w w='петь' fw='singen' p='verb' />
+        <w w='падать, опускатъся, тонутъ' fw='sinken' p='verb' />
+        <w w='сидеть' fw='sitzen' p='verb' />
+        <w w='сейчас, немедленно' fw='sofort' />
+        <w w='сразу' fw='sofort' />
+        <w w='такие, такая' fw='solche' />
+        <w w='солнечный' fw='sonnig' />
+        <w w='еще' fw='sonst' />
+        <w w='заботиться' fw='sorgen' p='verb' />
+        <w w='поздно' fw='spät' />
+        <w w='идти прогулятъся' fw='spazieren gehen' p='verb' />
+        <w w='играть' fw='spielen' p='verb' />
+        <w w='говорить' fw='sprechen' p='verb' />
+        <w w='сильный' fw='stark' />
+        <w w='состояться' fw='stattfinden' p='verb' />
+        <w w='втыкать, вкладывать' fw='stecken' p='verb' />
+        <w w='стоять' fw='stehen' p='verb' />
+        <w w='подниматъся' fw='steigen' p='verb' />
+        <w w='ставить' fw='stellen' p='verb' />
+        <w w='быть верным (корректным)' fw='stimmen' p='verb' />
+        <w w='подчеркивать' fw='streichen' p='verb' />
+        <w w='бастовать' fw='streiken' p='verb' />
+        <w w='учиться, изучать что-то профессионально' fw='studieren' p='verb' />
+        <w w='искать' fw='suchen' p='verb' />
+        <w w='симпатичный' fw='sympathisch' />
+        <w w='ежедневный' fw='täglich' />
+        <w w='идти танцеватъ' fw='tanzen gehen' p='verb' />
+        <w w='принимать участие' fw='teilnehmen' p='verb' />
+        <w w='звонить по телефону' fw='telefonieren' p='verb' />
+        <w w='временный' fw='temporal' />
+        <w w='дорогой' fw='teuer' />
+        <w w='классный' fw='toll' />
+        <w w='полный, тотальный' fw='total' />
+        <w w='носить (одежду)' fw='tragen' p='verb' />
+        <w w='тренироваться' fw='trainieren' p='verb' />
+        <w w='встречать' fw='treffen' p='verb' />
+        <w w='отделимый' fw='trennbar' />
+        <w w='пить' fw='trinken' p='verb' />
+        <w w='все таки, не смотря на' fw='trotzdem' />
+        <w w='делать' fw='tun' />
+        <w w='над, об, о' fw='üben' p='verb' />
+        <w w='о, об, над' fw='über' />
+        <w w='везде' fw='überall' />
+        <w w='обдумывать' fw='überlegen' p='verb' />
+        <w w='послезавтра' fw='übermorgen' p='verb' />
+        <w w='передавать' fw='übertragen' p='verb' />
+        <w w='(обще)принятый' fw='üblich' />
+        <w w='пересаживаться' fw='umsteigen' p='verb' />
+        <w w='переезжать' fw='umziehen' p='verb' />
+        <w w='обязательно' fw='unbedingt' />
+        <w w='неизвестный' fw='unbekannt' />
+        <w w='неопределенный' fw='unbestimmt' />
+        <w w='и' fw='und' />
+        <w w='недружелюбный' fw='unfreundlich' />
+        <w w='около, приблизительно' fw='ungefähr' />
+        <w w='под' fw='unter' />
+        <w w='подписывать' fw='unterschreiben' p='verb' />
+        <w w='подчеркивать' fw='unterstreichen' p='verb' />
+        <w w='в дороге, дорогой' fw='unterwegs' />
+        <w w='неважный' fw='unwichtig' />
+        <w w='варъировать' fw='variieren' p='verb' />
+        <w w='провожать' fw='verabschieden' p='verb' />
+        <w w='связывать, соединять' fw='verbinden' p='verb' />
+        <w w='запрещено' fw='verboten' p='verb' />
+        <w w='связанный' fw='verbunden' p='verb' />
+        <w w='зарабатывать' fw='verdienen' p='verb' />
+        <w w='договариваться' fw='vereinbaren' p='verb' />
+        <w w='забывать' fw='vergessen' p='verb' />
+        <w w='состоять в браке, быть замужем женатым' fw='verheiratet' />
+        <w w='продавать' fw='verkaufen' p='verb' />
+        <w w='переносить' fw='verlegen' p='verb' />
+        <w w='поранить' fw='verletzen' p='verb' />
+        <w w='потерять' fw='verlieren' p='verb' />
+        <w w='сдавать внаем' fw='vermieten' p='verb' />
+        <w w='прятать' fw='verstecken' p='verb' />
+        <w w='понимать' fw='verstehen' p='verb' />
+        <w w='быть вдовцом вдовой, овдоветь' fw='verwitwet' />
+        <w w='много' fw='viel' />
+        <w w='возможно' fw='vielleicht' />
+        <w w='предполагаемый' fw='voraussichtlich' />
+        <w w='зайти, заглянуть' fw='vorbeikommen' p='verb' />
+        <w w='представлять' fw='vorstellen' p='verb' />
+        <w w='выбирать' fw='wählen' p='verb' />
+        <w w='во время, в то время как' fw='während' />
+        <w w='когда' fw='wann' />
+        <w w='теплый' fw='warm' />
+        <w w='ждать' fw='warten' p='verb' />
+        <w w='почему' fw='warum' />
+        <w w='что' fw='was' />
+        <w w='мыть' fw='waschen' p='verb' />
+        <w w='белый' fw='weiß' />
+        <w w='широкий' fw='weit' />
+        <w w='далее' fw='weiter' />
+        <w w='дальше, далее' fw='weiter' />
+        <w w='идти дальше' fw='weitergehen' p='verb' />
+        <w w='какой' fw='welche' />
+        <w w='мало' fw='wenig' />
+        <w w='кто' fw='wer' />
+        <w w='становиться' fw='werden' p='verb' />
+        <w w='по рабочим дням' fw='werktags' />
+        <w w='важный' fw='wichtig' />
+        <w w='как' fw='wie' />
+        <w w='снова' fw='wieder' />
+        <w w='скоро, вновь, опять' fw='wieder' />
+        <w w='повторять' fw='wiederholen' p='verb' />
+        <w w='ветренный' fw='windig' />
+        <w w='действительно' fw='wirklich' />
+        <w w='знать' fw='wissen' p='verb' />
+        <w w='где' fw='wo' />
+        <w w='еженедельно' fw='wöchentlich' />
+        <w w='откуда' fw='woher' />
+        <w w='жить, проживать' fw='wohnen' p='verb' />
+        <w w='хотетъ, желатъ' fw='wollen' p='verb' />
+        <w w='желать' fw='wünschen' p='verb' />
+        <w w='считать' fw='zahlen' p='verb' />
+        <w w='черитъ, рисовать' fw='zeichnen' p='verb' />
+        <w w='показывать' fw='zeigen' p='verb' />
+        <w w='тянуть' fw='ziehen' p='verb' />
+        <w w='сначала' fw='zuerst' />
+        <w w='довольный, удовлетворенный' fw='zufrieden' p='verb' />
+        <w w='закрывать' fw='zumachen' p='verb' />
+        <w w='подбирать, сочетатъ' fw='zuordnen' p='verb' />
+        <w w='обратно' fw='zurück' />
+        <w w='возвращаться' fw='zurückkommen' p='verb' />
+        <w w='ко времени' fw='zurzeit' />
+        <w w='вместе' fw='zusammen' p='verb' />
+        <w w='составлять' fw='zusammensetzen' p='verb' />
+        <w w='надежный, верный' fw='zuverlässig' />
+        <w w='во-вторых, вдвоем' fw='zweit, zu zweit' />
+        <w w='между' fw='zwischen' p='verb' />
+    </data>
