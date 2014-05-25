@@ -4,46 +4,42 @@ import android.app.Activity;
 import android.content.Intent;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.KeyEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
 public class MainActivity extends Activity {
-    public SQLiteDatabase db;
-    public static  CardSet cardSet;
+    private SQLiteDatabase db;
+//    public static CardSet cardSet;
+    private Intent intCardActivity;
     final String DEBUG_TAG ="debug";
     // TODO: add possibility to list not randomly, but one by one
     // after finishing of the set return to the main menu or other activity
-    public static int currCardNumber;
 
     @Override
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
 
-        // create and fill db from file ru_de.txt
         DBHelper mDbHelper = new DBHelper(getApplicationContext());
-        Log.d("debug", " ..... создание и заполнение БД ....");
         db = mDbHelper.getWritableDatabase();
-        Log.d("debug", " ..... БД создана и заполнена ....");
-
+        intCardActivity = new Intent(this, CardActivity.class);
+        Cards.init();
         setContentView(R.layout.activity_main);
-        Button btnStart = (Button) findViewById(R.id.btnStart);
-        Button btnQuit = (Button) findViewById(R.id.btnQuit);
 
-        OnClickListener oclBtnStart = new OnClickListener() {
+        // кнопка "Приступить к изучению"
+        Button btnStart = (Button) findViewById(R.id.btnStart);
+        btnStart.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
                 // TODO: Add all necessary additional actions
-                Intent intActivity2 = new Intent(v.getContext(), CardActivity.class);
-                cardSet = new CardSet(db);
-                startActivity(intActivity2);
+//                if (Cards.isEmpty())
+                    Cards.loadFromDb(db);
+                startActivity(intCardActivity);
             }
-        };
+        });
 
-        btnStart.setOnClickListener(oclBtnStart);
-
+        // Кнопка "Выход"
         OnClickListener oclBtnQuit = new OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -51,21 +47,21 @@ public class MainActivity extends Activity {
                 System.exit(0);
             }
         };
-
+        Button btnQuit = (Button) findViewById(R.id.btnQuit);
         btnQuit.setOnClickListener(oclBtnQuit);
-
     }
+
+
 
     @Override
     public boolean onKeyDown(int keyCode, KeyEvent event){
-        if (keyCode == event.KEYCODE_BACK){
-            moveTaskToBack(true);
-            System.exit(0);
-            return true;
-        }
-        return super.onKeyDown(keyCode, event);
+                if (keyCode == KeyEvent.KEYCODE_BACK){
+                    moveTaskToBack(true);
+                    System.exit(0);
+                    return true;
+                }
+                return super.onKeyDown(keyCode, event);
     }
-
 
 
 //    @Override

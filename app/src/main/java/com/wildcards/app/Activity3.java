@@ -3,62 +3,57 @@ package com.wildcards.app;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.KeyEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 
+// Активити после переворота карты
 public class Activity3 extends Activity {
+    private Intent intCardActivity;
 
     @Override
     protected void onCreate(Bundle savedInstancesState){
         super.onCreate(savedInstancesState);
+        intCardActivity = new Intent(this, CardActivity.class);
         setContentView(R.layout.activity3);
+        Cards.init();
 
-        TextView txtViewBackSide = (TextView) findViewById(R.id.txtBackSide);
-        txtViewBackSide.setText(CardActivity.card.backSide);
-
+        // Кнопка "Знаю"
         Button btnKnow = (Button) findViewById(R.id.btnKnow);
-        OnClickListener oclBtnKnow = new OnClickListener() {
-            @Override
+        btnKnow.setOnClickListener(new OnClickListener() {
             public void onClick(View view) {
-                // TODO: Add all necessary additional actions
-                Intent intActivity2 = new Intent(view.getContext(), CardActivity.class);
-                startActivity(intActivity2);
+                // TODO: повысить уровень колоды
+                Cards.boostCurrentCard();
+                startActivity(intCardActivity);
             }
-        };
-        btnKnow.setOnClickListener(oclBtnKnow);
+        });
 
+        // Кнопка "Не знаю"
         Button btnDontKnow = (Button) findViewById(R.id.btnDontKnow);
-        OnClickListener oclBtnDontKnow = new OnClickListener() {
-            @Override
+        btnDontKnow.setOnClickListener(new OnClickListener() {
             public void onClick(View view) {
-                Intent intActivity2 = new Intent(view.getContext(), CardActivity.class);
-                startActivity(intActivity2);
+                startActivity(intCardActivity);
             }
-        };
-        btnDontKnow.setOnClickListener(oclBtnDontKnow);
+        });
 
+        // Кнопка "Больше не показывать"
         Button btnDontShowAnymore = (Button) findViewById(R.id.btnDontShowAnymore);
-        OnClickListener oclBtnDontShowAnymore = new OnClickListener() {
+        btnDontShowAnymore.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intActivity2 = new Intent(view.getContext(), CardActivity.class);
-                startActivity(intActivity2);
+                startActivity(intCardActivity);
             }
-        };
-        btnDontShowAnymore.setOnClickListener(oclBtnDontShowAnymore);
+        });
     }
 
     @Override
-    public boolean onKeyDown(int keyCode, KeyEvent event){
-        if (keyCode == event.KEYCODE_BACK){
-            Intent inte = new Intent(this, MainActivity.class);
-            startActivity(inte);
-            return true;
-        }
-        return super.onKeyDown(keyCode, event);
+    // The activity is about to become visible.
+    protected void onStart() {
+        super.onStart();
+        TextView txtViewBackSide = (TextView) findViewById(R.id.txtBackSide);
+        Card card = Cards.getCurrent();
+        txtViewBackSide.setText((card.foreignArticle==null?"":card.foreignArticle+" ") +card.foreignWord);
     }
 
 }
